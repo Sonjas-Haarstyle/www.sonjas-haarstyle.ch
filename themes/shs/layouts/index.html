@@ -1,3 +1,37 @@
 {{ define "main" }}
+    {{range .Site.Pages}}
+        {{if and (eq .Section "home") (not (eq .Path "home/_index.md"))}}
+  
 
+            <div class="
+                grid 
+
+                grid-cols-[10rem, auto]
+                gap-5
+                grid
+                bg-white 
+                p-4 mb-4 
+                border-2 border-shs
+            "
+            >
+            {{if isset .Params "image" }}
+                <img 
+                    class="
+                        
+                    mx-auto
+                    w-40 h-40
+                    border-2 border-shs 
+                    rounded-full
+                    "
+                    src="{{.Params.image}}">
+            {{end}}
+
+                <div class="w-1/1">
+                    <h1>{{.Title}}</h1>
+                        {{.Content}}
+                </div>
+
+            </div>
+        {{end}}
+    {{end}}
 {{ end }}

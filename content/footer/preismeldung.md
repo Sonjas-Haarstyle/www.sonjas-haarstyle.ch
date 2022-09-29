@@ -3,10 +3,10 @@ title: "Zahlungsmöglichkeiten"
 date: 2022-09-12T22:44:44+02:00
 
 icons:
-- "/icons/visa.svg"
-- "/icons/maestro.svg"
-- "/icons/mastercard.svg"
-- "/icons/american-express.svg"
+- "/svgs/visa.svg"
+- "/svgs/maestro.svg"
+- "/svgs/mastercard.svg"
+- "/svgs/american-express.svg"
 
 ---
 
