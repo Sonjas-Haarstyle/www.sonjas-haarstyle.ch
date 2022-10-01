@@ -44,10 +44,7 @@ theme = "shs"
 
 [params]
   phone = "0041 31 832 41 94"
-  [[params.sm]]
-  link = "https://www.instagram.com/sonjas_haarstyle/?hl=de"
-  image = "/svgs/instagram.svg"
-  
+
   [[params.sm]]
   link = "https://de-de.facebook.com/sonjashaarstyle/"    
   image = "/svgs/facebook.svg"
