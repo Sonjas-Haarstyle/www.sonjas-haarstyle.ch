@@ -396,5 +396,14 @@ Wir sammeln Ihr Haar und schicken es nach Frankreich. Dort wird daraus Öl- und 
 Die Forschung geht sogar noch weiter: Es soll eine Haarschnur entwickelt werden für Badeorte, um die Bojen miteinander zu verbinden, um die Sonnencreme zu filtern und unser Ökosystem und die Riffe zu schützen.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>http://example.org/news/hallo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/news/hallo/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
