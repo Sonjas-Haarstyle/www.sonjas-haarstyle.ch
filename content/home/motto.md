@@ -1,7 +1,8 @@
 ---
-title: "Motto"
-date: 2022-09-12T22:44:44+02:00
+title: "Ihr Coiffeur zum Entspannen in Worb"
+date: 2022-10-02T22:44:44+02:00
 ---
+Wir nehmen uns Zeit
 
 **Sonjas Haarstyle** ist eine gemütliche Wohlfühloase in der Region Worb, die ihre Kundschaft zuvorkommend, freundlich und aufgestellt empfängt.
 
