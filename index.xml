@@ -20,15 +20,6 @@ schneiden waschen, schneiden, föhnen </description>
     </item>
     
     <item>
-      <title>Hallo</title>
-      <link>http://example.org/news/hallo/</link>
-      <pubDate>Sat, 01 Oct 2022 10:30:41 +0200</pubDate>
-      
-      <guid>http://example.org/news/hallo/</guid>
-      <description>Ich bin wider zurück</description>
-    </item>
-    
-    <item>
       <title>Entspannungs-Kopfmassage</title>
       <link>http://example.org/spezialangebote/kopfmassage/</link>
       <pubDate>Fri, 16 Sep 2022 10:41:52 +0200</pubDate>
