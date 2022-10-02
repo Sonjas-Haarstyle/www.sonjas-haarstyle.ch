@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://example.org/home/dienstleistungen/</loc>
+    <lastmod>2022-10-01T22:44:44+02:00</lastmod>
+  </url><url>
     <loc>http://example.org/news/hallo/</loc>
     <lastmod>2022-10-01T10:30:41+02:00</lastmod>
   </url><url>
@@ -120,9 +123,6 @@
     <lastmod>2022-09-12T22:44:44+02:00</lastmod>
   </url><url>
     <loc>http://example.org/team/</loc>
-    <lastmod>2022-09-12T22:44:44+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/home/dienstleistungen/</loc>
     <lastmod>2022-09-12T22:44:44+02:00</lastmod>
   </url><url>
     <loc>http://example.org/footer/preismeldung/</loc>

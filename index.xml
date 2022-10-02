@@ -8,6 +8,18 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Sep 2022 22:44:44 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Usere Dienstleistungen</title>
+      <link>http://example.org/home/dienstleistungen/</link>
+      <pubDate>Sat, 01 Oct 2022 22:44:44 +0200</pubDate>
+      
+      <guid>http://example.org/home/dienstleistungen/</guid>
+      <description>für Damen
+waschen, schneiden, föhnen Messerhaarschnitt färben, tönen Strähnchen, Meches, Balayage, Ombré Dauerwelle Hochsteckfrisur Spliss schneiden Make-up Kopfmassage Augenbrauen und Wimpern färben Augenbrauen zupfen / wachsen Augenbrauen Lifting für Herren
+waschen, schneiden, föhnen Messerhaarschnitt Trockenhaarschnitt (nur möglich frisch gewaschen) Maschinen Haarschnitt färben, tönen, Meches Kopfmassage Augenbrauen und Wimpern färben Augenbrauen zupfen / wachsen Augenbrauen Lifting für Kinder bis 16 Jahre
+schneiden waschen, schneiden, föhnen </description>
+    </item>
+    
+    <item>
       <title>Hallo</title>
       <link>http://example.org/news/hallo/</link>
       <pubDate>Sat, 01 Oct 2022 10:30:41 +0200</pubDate>
@@ -298,18 +310,6 @@ Nicolina</description>
       <description>Geschäftsinhaberin, Coiffeuse EFZ, Visagistin
 Am 8. September 2015 erfüllte sich meinen Traum der Selbständigkeit und ich durfte meine kleine Wohlfühloase in Worb eröffnen.
 Die Perfektion und die Liebe zum Beruf zeichnet mich aus. So habe ich das Glück, dass ich ihn jeden Tag mit viel Freude, Leidenschaft und Herzblut ausüben darf. Daher nehme ich mir genügend Zeit für Sie und Ihr Anliegen. Denn mir ist wichtig, dass Sie mein Geschäft entspannt und zufrieden verlassen, nachdem Sie eine kurze Auszeit geniessen konnten.</description>
-    </item>
-    
-    <item>
-      <title>Usere Dienstleistungen</title>
-      <link>http://example.org/home/dienstleistungen/</link>
-      <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
-      
-      <guid>http://example.org/home/dienstleistungen/</guid>
-      <description>für Damen
-waschen, schneiden, föhnen Messerhaarschnitt färben, tönen Strähnchen, Meches, Balayage, Ombré Dauerwelle Hochsteckfrisur Spliss schneiden Make-up Kopfmassage Augenbrauen und Wimpern färben Augenbrauen zupfen / wachsen Augenbrauen Lifting für Herren
-waschen, schneiden, föhnen Messerhaarschnitt Trockenhaarschnitt (nur möglich frisch gewaschen) Maschinen Haarschnitt färben, tönen, Meches Kopfmassage Augenbrauen und Wimpern färben Augenbrauen zupfen / wachsen Augenbrauen Lifting für Kinder bis 16 Jahre
-schneiden waschen, schneiden, föhnen </description>
     </item>
     
     <item>

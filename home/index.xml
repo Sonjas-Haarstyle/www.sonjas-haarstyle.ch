@@ -8,6 +8,18 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Sep 2022 22:44:44 +0200</lastBuildDate><atom:link href="http://example.org/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Usere Dienstleistungen</title>
+      <link>http://example.org/home/dienstleistungen/</link>
+      <pubDate>Sat, 01 Oct 2022 22:44:44 +0200</pubDate>
+      
+      <guid>http://example.org/home/dienstleistungen/</guid>
+      <description>für Damen
+waschen, schneiden, föhnen Messerhaarschnitt färben, tönen Strähnchen, Meches, Balayage, Ombré Dauerwelle Hochsteckfrisur Spliss schneiden Make-up Kopfmassage Augenbrauen und Wimpern färben Augenbrauen zupfen / wachsen Augenbrauen Lifting für Herren
+waschen, schneiden, föhnen Messerhaarschnitt Trockenhaarschnitt (nur möglich frisch gewaschen) Maschinen Haarschnitt färben, tönen, Meches Kopfmassage Augenbrauen und Wimpern färben Augenbrauen zupfen / wachsen Augenbrauen Lifting für Kinder bis 16 Jahre
+schneiden waschen, schneiden, föhnen </description>
+    </item>
+    
+    <item>
       <title>Kundenrückmeldung - Christine &amp; Martin</title>
       <link>http://example.org/home/kunden_christine_martin/</link>
       <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
@@ -44,18 +56,6 @@ Absolut empfehlenswert ist nach dem Haarewaschen das Verwöhnprogramm mit der Ko
       <guid>http://example.org/home/kunden_nicole/</guid>
       <description>Bei Sonja schätze ich sehr ihre Freundlichkeit und ihre entgegengebrachte Zeit für mein Haar und Anliegen. Durch ihre zahlreichen Weiterbildungen ist sie immer auf dem neuesten Stand und gibt ihr Wissen an ihre Kundschaft weiter. Sonja ist eine kompetente Frisörin.
 Nicolina</description>
-    </item>
-    
-    <item>
-      <title>Usere Dienstleistungen</title>
-      <link>http://example.org/home/dienstleistungen/</link>
-      <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
-      
-      <guid>http://example.org/home/dienstleistungen/</guid>
-      <description>für Damen
-waschen, schneiden, föhnen Messerhaarschnitt färben, tönen Strähnchen, Meches, Balayage, Ombré Dauerwelle Hochsteckfrisur Spliss schneiden Make-up Kopfmassage Augenbrauen und Wimpern färben Augenbrauen zupfen / wachsen Augenbrauen Lifting für Herren
-waschen, schneiden, föhnen Messerhaarschnitt Trockenhaarschnitt (nur möglich frisch gewaschen) Maschinen Haarschnitt färben, tönen, Meches Kopfmassage Augenbrauen und Wimpern färben Augenbrauen zupfen / wachsen Augenbrauen Lifting für Kinder bis 16 Jahre
-schneiden waschen, schneiden, föhnen </description>
     </item>
     
   </channel>
