@@ -1,6 +1,6 @@
 ---
 title: "Venice Professional"
-date: 2022-09-16T10:31:38+02:00
+date: 2022-10-09T10:31:38+02:00
 ---
 
 Mit einem kleinen Farbsortiment, wird Ihr Farbwunsch ganz individuell auf Sie abgestimmt. 
