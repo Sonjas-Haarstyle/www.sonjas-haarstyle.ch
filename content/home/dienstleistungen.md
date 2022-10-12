@@ -1,6 +1,6 @@
 ---
 title: "Usere Dienstleistungen"
-date: 2022-09-30T22:44:44+02:00
+date: 2022-10-10T22:44:44+02:00
 image: "/pic/shop/geschaeft.jpg"
 ---
 **für Damen**
