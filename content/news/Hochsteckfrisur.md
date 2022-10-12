@@ -1,6 +1,6 @@
 ---
 title: "Hochsteckfrisur"
-date: 2022-04-27T10:30:41+02:00
+date: 2022-10-10T10:30:41+02:00
 ---
 
 Wenn Sie ihre Haare bei uns Hochstecken, sind folgende Vorbereitungsschritte wichtig:
