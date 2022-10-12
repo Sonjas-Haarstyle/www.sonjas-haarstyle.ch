@@ -43,17 +43,21 @@ theme = "shs"
 
 
 [params]
-  phone = "0041 31 832 41 94"
+  phone = "+41 31 832 41 94"
 
+[[params.sm]]
+  rechts = "https://www.instagram.com/sonjas_haarstyle.makeup.artist/"    
+  image = "/svgs/instagram.svg"
+  
   [[params.sm]]
-  link = "https://de-de.facebook.com/sonjashaarstyle/"    
+  rechts = "https://de-de.facebook.com/sonjashaarstyle/"    
   image = "/svgs/facebook.svg"
   
   [[params.sm]]
-  link = "https://www.youtube.com/channel/UC6EOSY_vno7NSLkA_38usAg"    
+  rechts = "https://www.youtube.com/channel/UC6EOSY_vno7NSLkA_38usAg"    
   image = "/svgs/youtube.svg"
   
   [[params.sm]]
-  link = "mailto:hairstylistin@hotmail.ch"    
+  rechts = "mailto:hairstylistin@hotmail.ch"    
   image = "/svgs/email.svg"    
   
