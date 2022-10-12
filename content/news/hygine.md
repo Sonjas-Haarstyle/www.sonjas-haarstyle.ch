@@ -1,6 +1,6 @@
 ---
-title: "Hygiene im Coiffeursalon"
-date: 2022-03-25T10:30:41+02:00
+title: "Hygiene im Friseursalon"
+date: 2022-10-06T10:30:41+02:00
 ---
 So schützen wir uns:
 
