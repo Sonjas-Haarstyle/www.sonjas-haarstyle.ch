@@ -1,6 +1,6 @@
 ---
 title: "Splissbehandlung"
-date: 2022-09-16T10:41:52+02:00
+date: 2022-10-09T10:41:52+02:00
 ---
 
 Sie möchten Ihre langen Haare behalten, sie sehen jedoch spröde und matt aus?
