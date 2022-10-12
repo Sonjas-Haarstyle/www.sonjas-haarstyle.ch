@@ -1,5 +1,5 @@
 ---
-title: "Kundenrezesionen"
+title: "Was sagen unsere Kunden über uns"
 date: 2022-09-16T10:30:10+02:00
 
 videos:
