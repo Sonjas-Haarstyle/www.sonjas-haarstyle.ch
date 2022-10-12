@@ -1,6 +1,6 @@
 ---
 title: "Make-up"
-date: 2022-09-16T10:41:52+02:00
+date: 2022-10-11T10:41:52+02:00
 ---
 
 Das Make-up soll die Natürlichkeit der Frau betonen. 
