@@ -1,6 +1,6 @@
 ---
 title: "Messerhaarschnitt"
-date: 2022-07-12T10:30:41+02:00
+date: 2022-10-11T10:30:41+02:00
 ---
 
 Was bewirkt der Messerhaarschnitt?
