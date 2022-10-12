@@ -1,6 +1,6 @@
 ---
 title: "Risiko Haarfärben"
-date: 2022-04-02T10:30:41+02:00
+date: 2022-10-09T10:30:41+02:00
 ---
 
 Wenn Sie noch nie die Haare gefärbt haben, bestehen wir auf einen Allergietest.
