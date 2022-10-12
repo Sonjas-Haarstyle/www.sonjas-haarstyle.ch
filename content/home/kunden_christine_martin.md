@@ -1,6 +1,6 @@
 ---
-title: "Kundenrückmeldung - Christine & Martin"
-date: 2022-09-12T22:44:44+02:00
+title: "Das sagen Christine & Martin über uns"
+date: 2022-10-07T22:44:44+02:00
 image: "/pic/kunden/christine_martin.jpeg"
 ---
 
