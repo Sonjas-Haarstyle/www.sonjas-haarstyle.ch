@@ -1,6 +1,6 @@
 ---
-title: "Kundenrückmeldung - Dorli"
-date: 2022-09-12T22:44:44+02:00
+title: "Das sagt Dorli über uns"
+date: 2022-10-08T22:44:44+02:00
 image: "/pic/kunden/Dorli.jpg"
 ---
 Sonja versteht ihr Handwerk. Jedes Mal verlasse ich den Salon mit einer Superfrisur. 
