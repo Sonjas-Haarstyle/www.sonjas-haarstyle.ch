@@ -13,4 +13,5 @@ es sieht danach immer sehr natürlich aus.
 
 Absolut empfehlenswert ist nach dem Haarewaschen das Verwöhnprogramm
 mit der Kopfmassage. Ein Besuch bei Sonjas Haarstyle ist wie ein Wellnessbesuch.
-      																									
+
+[Jetzt Termin vereinbaren.](https://www.beautybooking.ch/app/booking.html?company=sonjas-haarstyle)
