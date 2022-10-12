@@ -13,3 +13,5 @@ Zusätzlich zu jeder Haarwäsche können Sie in den Genuss einer kurzen entspann
 Das bedeutet, dass der grösstenteils mit Schere und Messer geschnitten wird.
 Daher nehmen wir uns genügend Zeit für Sie und Ihr Anliegen.
 Besonders wichtig ist uns das Auge für Form und Farbe, um die passende Frisur für jeden einzelnen zu kreieren.
+
+[Jetzt Termin vereinbaren.](https://www.beautybooking.ch/app/booking.html?company=sonjas-haarstyle)
