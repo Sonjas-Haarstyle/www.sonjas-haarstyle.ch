@@ -1,6 +1,6 @@
 ---
 title: "Ihr Coiffeur zum Entspannen in Worb"
-date: 2022-10-02T22:44:44+02:00
+date: 2022-10-12T22:44:44+02:00
 ---
 **Wir nehmen uns Zeit**
 
