@@ -1,6 +1,6 @@
 ---
 title: "Verein Haarfee"
-date: 2022-09-16T10:31:38+02:00
+date: 2022-10-12T10:31:38+02:00
 image: "/pic/partner/logo_haarfee.jpg"
 ---
 
