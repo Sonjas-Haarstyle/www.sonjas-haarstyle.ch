@@ -36,3 +36,5 @@ image: "/pic/shop/geschaeft.jpg"
 
 * schneiden
 * waschen, schneiden, föhnen
+
+[Jetzt Termin vereinbaren.](https://www.beautybooking.ch/app/booking.html?company=sonjas-haarstyle)
