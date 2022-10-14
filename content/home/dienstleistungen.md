@@ -1,5 +1,5 @@
 ---
-title: "Usere Dienstleistungen"
+title: "Unsere Angebote"
 date: 2022-10-10T22:44:44+02:00
 image: "/pic/shop/geschaeft.jpg"
 ---
