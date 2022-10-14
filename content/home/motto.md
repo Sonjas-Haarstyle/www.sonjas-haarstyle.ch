@@ -10,7 +10,7 @@ date: 2022-10-12T22:44:44+02:00
 Zusätzlich zu jeder Haarwäsche können Sie in den Genuss einer kurzen entspannenden Kopfmassage kommen, welche auch in verlängerter Form gebucht werden kann.
 
 **Sonjas Haarstyle** zeichnet die Liebe zum Beruf und dem alten Handwerk aus. 
-Das bedeutet, dass der grösstenteils mit Schere und Messer geschnitten wird.
+Das bedeutet, dass grösstenteils mit Schere und Messer geschnitten wird.
 Daher nehmen wir uns genügend Zeit für Sie und Ihr Anliegen.
 Besonders wichtig ist uns das Auge für Form und Farbe, um die passende Frisur für jeden einzelnen zu kreieren.
 
