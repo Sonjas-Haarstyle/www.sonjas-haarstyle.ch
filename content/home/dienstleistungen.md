@@ -1,5 +1,5 @@
 ---
-title: "Unsere Angebote"
+title: "Unser Angebot"
 date: 2022-10-10T22:44:44+02:00
 image: "/pic/shop/unsere diensleistung.JPG"
 ---
@@ -32,7 +32,7 @@ image: "/pic/shop/unsere diensleistung.JPG"
 
 
 
-**für Kinder bis 16 Jahre**
+**für Kinder**
 
 * schneiden
 * waschen, schneiden, föhnen
