@@ -1,13 +1,12 @@
 {{ define "main"}}
 
-    
     <div class="
                 grid 
                 content-center
                 col-span-2
                 bg-white 
                 p-4 mb-4 
-                border-2 border-shs
+                border-4 border-shs
  
     ">
 
@@ -28,7 +27,9 @@
         <script src="/js/gallery.js"></script>
 
         <script>
-            const pictures = JSON.parse({{$pics | jsonify}}).map(n => "/pic/gallery/pics/" + n)
+            const pictureString = {{$pics | jsonify}};
+
+            const pictures = JSON.parse(pictureString).map(n => "/pic/gallery/pics/" + n);
 
             let state = initGalery({
                 imageIndex: 0,
