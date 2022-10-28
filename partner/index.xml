@@ -8,54 +8,55 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Sep 2022 10:31:28 +0200</lastBuildDate><atom:link href="http://example.org/partner/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Peggy Sage</title>
-      <link>http://example.org/partner/peggy/</link>
-      <pubDate>Fri, 16 Sep 2022 10:31:38 +0200</pubDate>
-      
-      <guid>http://example.org/partner/peggy/</guid>
-      <description>Nach der Übernahme 1995 durch die Familie Collomb, widmet sich die Firma Peggy Sage der Entwicklung eines breiten Sortiments an Make-up und Accessoires. Um Ihnen die besten Produkte und eine hohe Qualität anzubieten, sucht Peggy Sage fortlaufend neue Ideen und Erfindungen. Sie bleiben ihren professionellen Anspruch treu und ihre Produkte werden nicht an Tieren getestet. Sehr gerne bestellen wir ihnen die tollen Produkte.</description>
-    </item>
-    
-    <item>
-      <title>Schwarzkopf Professional</title>
-      <link>http://example.org/partner/schwarzkopf/</link>
-      <pubDate>Fri, 16 Sep 2022 10:31:38 +0200</pubDate>
-      
-      <guid>http://example.org/partner/schwarzkopf/</guid>
-      <description>Wir lieben Ihre Haare genauso sehr, wie Sie es tun. Mit einer Vielfalt an Haarprodukten bietet Schwarzkopf Professional Lösungen für alle Haartypen. Verwöhnen Sie Ihr Haar mit der neuen Technologie unserer natürlichen veganen Pflegelinie und schenken Sie ihm die Pflege, die es braucht, die frei von Sulfaten, Silikonen, Parabenen, Mineralölen, Mikroplastik und künstlichen Farbstoffen sind.
-Die Styling Produkte in unserem Sortiment wurden sorgfältig ausgesucht, um Sie beim Erschaffen neuer Looks zu unterstützen und den individuellen Ansprüchen eines jeden Stylings gerecht zu werden.</description>
-    </item>
-    
-    <item>
-      <title>Venice Professional</title>
-      <link>http://example.org/partner/venice_professional/</link>
-      <pubDate>Fri, 16 Sep 2022 10:31:38 +0200</pubDate>
-      
-      <guid>http://example.org/partner/venice_professional/</guid>
-      <description>Mit einem kleinen Farbsortiment, wird Ihr Farbwunsch ganz individuell auf Sie abgestimmt. So erhalten Sie ein persönliches Farbergebnis. Zudem erhalten Sie faszinierende Farbreflexe sowie absolut gepflegte Haare. Die Abdeckung grauer Haare ist zu 100 % garantiert. Ein erfreulicher Punkt ist, dass hinter der Marke Venice ein Schweizer Produzent steckt</description>
-    </item>
-    
-    <item>
-      <title>Verein Coiffeurs Justes</title>
-      <link>http://example.org/partner/justes/</link>
-      <pubDate>Fri, 16 Sep 2022 10:31:38 +0200</pubDate>
-      
-      <guid>http://example.org/partner/justes/</guid>
-      <description>Haar Recycling Ein wertvoller Rohstoff.
-Bei jedem Haarschnitt tun Sie etwas Gutes für unsere Umwelt. Wir sammeln Ihr Haar und schicken es nach Frankreich. Dort wird daraus Öl- und Benzinsperren angefertigt, um unsere Meere zu schützen.
-Die Forschung geht sogar noch weiter: Es soll eine Haarschnur entwickelt werden für Badeorte, um die Bojen miteinander zu verbinden, um die Sonnencreme zu filtern und unser Ökosystem und die Riffe zu schützen.</description>
-    </item>
-    
-    <item>
       <title>Verein Haarfee</title>
       <link>http://example.org/partner/verein_haarfee/</link>
-      <pubDate>Fri, 16 Sep 2022 10:31:38 +0200</pubDate>
+      <pubDate>Wed, 12 Oct 2022 10:31:38 +0200</pubDate>
       
       <guid>http://example.org/partner/verein_haarfee/</guid>
       <description>Haben Sie sich entschieden Ihren Zopf zu spenden? Wir gratulieren Ihnen, denn Ihr abgeschnittener Zopf wird weiterhin wertgeschätzt und kann einen wichtigen Zweck erfüllen.
 Anforderungen:
 Der Haarzopf sollten 40 cm lang sein. Die Haare sollten ungefärbt sein. (Naturhaar) Das Haar sollte gesund und ohne Spliss sein. Der Verein Haarfee ist eine unabhängige Non-Profit-Organisation, die Kindern hilft, welche ihr eigenes Haar durch dramatische Schicksalsschläge verloren haben.
 Nach dem Verlust der eigenen Haare in Folge einer Chemotherapie, schweren Verbrennungen oder der Krankheit Alopecia Areata verlieren die Kinder oftmals nicht nur ihre Haare, sondern auch ihr Selbstwertgefühl.</description>
+    </item>
+    
+    <item>
+      <title>Verein Coiffeurs Justes</title>
+      <link>http://example.org/partner/justes/</link>
+      <pubDate>Tue, 11 Oct 2022 10:31:38 +0200</pubDate>
+      
+      <guid>http://example.org/partner/justes/</guid>
+      <description>Haar Recycling Ein wertvoller Rohstoff.
+Bei jedem Haarschnitt tun Sie etwas Gutes für unsere Umwelt. Wir sammeln Ihr Haar und schicken es nach Frankreich. Dort wird daraus Öl- und Benzinsperren angefertigt, um unsere Meere zu schützen.
+Die Forschung geht sogar noch weiter: Es soll eine Haarschnur entwickelt werden für Badeorte, um die Bojen miteinander zu verbinden, um die Sonnencreme zu filtern und unser Ökosystem und die Riffe zu schützen.
+Zum Video</description>
+    </item>
+    
+    <item>
+      <title>Peggy Sage</title>
+      <link>http://example.org/partner/peggy/</link>
+      <pubDate>Mon, 10 Oct 2022 10:31:38 +0200</pubDate>
+      
+      <guid>http://example.org/partner/peggy/</guid>
+      <description>Nach der Übernahme 1995 durch die Familie Collomb, widmet sich die Firma Peggy Sage der Entwicklung eines breiten Sortiments an Make-up und Accessoires. Um Ihnen die besten Produkte und eine hohe Qualität anzubieten, sucht Peggy Sage fortlaufend neue Ideen und Erfindungen. Sie bleiben ihren professionellen Anspruch treu und ihre Produkte werden nicht an Tieren getestet. Sehr gerne bestellen wir ihnen die tollen Produkte.</description>
+    </item>
+    
+    <item>
+      <title>Venice Professional</title>
+      <link>http://example.org/partner/venice_professional/</link>
+      <pubDate>Sun, 09 Oct 2022 10:31:38 +0200</pubDate>
+      
+      <guid>http://example.org/partner/venice_professional/</guid>
+      <description>Mit einem kleinen Farbsortiment, wird Ihr Farbwunsch ganz individuell auf Sie abgestimmt. So erhalten Sie ein persönliches Farbergebnis. Zudem erhalten Sie faszinierende Farbreflexe sowie absolut gepflegte Haare. Die Abdeckung grauer Haare ist zu 100 % garantiert. Ein erfreulicher Punkt ist, dass hinter der Marke Venice ein Schweizer Produzent steckt</description>
+    </item>
+    
+    <item>
+      <title>Schwarzkopf Professional</title>
+      <link>http://example.org/partner/schwarzkopf/</link>
+      <pubDate>Sat, 08 Oct 2022 10:31:38 +0200</pubDate>
+      
+      <guid>http://example.org/partner/schwarzkopf/</guid>
+      <description>Wir lieben Ihre Haare genauso sehr, wie Sie es tun. Mit einer Vielfalt an Haarprodukten bietet Schwarzkopf Professional Lösungen für alle Haartypen. Verwöhnen Sie Ihr Haar mit der neuen Technologie unserer natürlichen veganen Pflegelinie und schenken Sie ihm die Pflege, die es braucht, die frei von Sulfaten, Silikonen, Parabenen, Mineralölen, Mikroplastik und künstlichen Farbstoffen sind.
+Die Styling Produkte in unserem Sortiment wurden sorgfältig ausgesucht, um Sie beim Erschaffen neuer Looks zu unterstützen und den individuellen Ansprüchen eines jeden Stylings gerecht zu werden.</description>
     </item>
     
   </channel>

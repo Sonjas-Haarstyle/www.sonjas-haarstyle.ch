@@ -2,13 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/home/dienstleistungen/</loc>
-    <lastmod>2022-09-30T22:44:44+02:00</lastmod>
+    <loc>http://example.org/home/motto/</loc>
+    <lastmod>2022-10-12T22:44:44+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/spezialangebote/</loc>
-    <lastmod>2022-09-16T10:41:52+02:00</lastmod>
+    <loc>http://example.org/preise/preise/</loc>
+    <lastmod>2022-10-12T22:44:44+02:00</lastmod>
   </url><url>
     <loc>http://example.org/spezialangebote/kopfmassage/</loc>
+    <lastmod>2022-10-12T10:41:52+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/partner/verein_haarfee/</loc>
+    <lastmod>2022-10-12T10:31:38+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/news/kartenzahlung/</loc>
+    <lastmod>2022-10-12T10:30:41+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/standort/standort/</loc>
+    <lastmod>2022-10-12T10:30:41+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/preise/damen/</loc>
+    <lastmod>2022-10-11T22:44:44+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/spezialangebote/makeup/</loc>
+    <lastmod>2022-10-11T10:41:52+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/partner/justes/</loc>
+    <lastmod>2022-10-11T10:31:38+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/news/messerhaarschnitt/</loc>
+    <lastmod>2022-10-11T10:30:41+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/home/video_sonja/</loc>
+    <lastmod>2022-10-11T10:30:10+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/preise/herren/</loc>
+    <lastmod>2022-10-10T22:44:44+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/home/dienstleistungen/</loc>
+    <lastmod>2022-10-10T22:44:44+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/spezialangebote/teuepass/</loc>
+    <lastmod>2022-10-10T10:41:52+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/partner/peggy/</loc>
+    <lastmod>2022-10-10T10:31:38+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/news/hochsteckfrisur/</loc>
+    <lastmod>2022-10-10T10:30:41+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/home/kunden_nicole/</loc>
+    <lastmod>2022-10-09T22:44:44+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/preise/kinder/</loc>
+    <lastmod>2022-10-09T22:44:44+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/spezialangebote/splissbehandlung/</loc>
+    <lastmod>2022-10-09T10:41:52+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/partner/venice_professional/</loc>
+    <lastmod>2022-10-09T10:31:38+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/news/risiko_haarf%C3%A4rben/</loc>
+    <lastmod>2022-10-09T10:30:41+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/home/kunden_dorli/</loc>
+    <lastmod>2022-10-08T22:44:44+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/preise/kopfmassage/</loc>
+    <lastmod>2022-10-08T22:44:44+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/spezialangebote/plastikrecycling/</loc>
+    <lastmod>2022-10-08T10:41:52+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/partner/schwarzkopf/</loc>
+    <lastmod>2022-10-08T10:31:38+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/news/ferien/</loc>
+    <lastmod>2022-10-08T10:30:41+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/home/kunden_christine_martin/</loc>
+    <lastmod>2022-10-07T22:44:44+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/preise/kosmetik/</loc>
+    <lastmod>2022-10-07T22:44:44+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/spezialangebote/jugendlichenf%C3%A4rbe/</loc>
+    <lastmod>2022-10-07T10:41:52+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/news/job-angebot/</loc>
+    <lastmod>2022-10-07T10:30:41+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/news/hygine/</loc>
+    <lastmod>2022-10-06T10:30:41+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/news/videos_kundenrezessionen/</loc>
+    <lastmod>2022-10-05T10:30:10+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/news/videos_recylcing-copy/</loc>
+    <lastmod>2022-10-04T10:30:10+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/spezialangebote/</loc>
     <lastmod>2022-09-16T10:41:52+02:00</lastmod>
   </url><url>
     <loc>http://example.org/gallery/pictures/</loc>
@@ -17,88 +110,25 @@
     <loc>http://example.org/gallery/</loc>
     <lastmod>2022-09-16T10:41:52+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/spezialangebote/jugendlichenf%C3%A4rbe/</loc>
-    <lastmod>2022-09-16T10:41:52+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/spezialangebote/makeup/</loc>
-    <lastmod>2022-09-16T10:41:52+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/spezialangebote/plastikrecycling/</loc>
-    <lastmod>2022-09-16T10:41:52+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/spezialangebote/splissbehandlung/</loc>
-    <lastmod>2022-09-16T10:41:52+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/spezialangebote/teuepass/</loc>
-    <lastmod>2022-09-16T10:41:52+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/partner/peggy/</loc>
-    <lastmod>2022-09-16T10:31:38+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/partner/schwarzkopf/</loc>
-    <lastmod>2022-09-16T10:31:38+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/partner/venice_professional/</loc>
-    <lastmod>2022-09-16T10:31:38+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/partner/justes/</loc>
-    <lastmod>2022-09-16T10:31:38+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/partner/verein_haarfee/</loc>
-    <lastmod>2022-09-16T10:31:38+02:00</lastmod>
-  </url><url>
     <loc>http://example.org/partner/</loc>
     <lastmod>2022-09-16T10:31:28+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/news/videos_recylcing-copy/</loc>
-    <lastmod>2022-09-16T10:30:10+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/news/videos_kundenrezessionen/</loc>
-    <lastmod>2022-09-16T10:30:10+02:00</lastmod>
   </url><url>
     <loc>http://example.org/news/</loc>
     <lastmod>2022-09-16T10:30:10+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/preise/preise/</loc>
-    <lastmod>2022-09-13T22:44:44+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/preise/damen/</loc>
+    <loc>http://example.org/standort/eingang/</loc>
     <lastmod>2022-09-12T22:44:44+02:00</lastmod>
   </url><url>
     <loc>http://example.org/footer/</loc>
     <lastmod>2022-09-12T22:44:44+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/standort/laden/</loc>
-    <lastmod>2022-09-12T22:44:44+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/preise/herren/</loc>
-    <lastmod>2022-09-12T22:44:44+02:00</lastmod>
-  </url><url>
     <loc>http://example.org/home/</loc>
-    <lastmod>2022-09-12T22:44:44+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/preise/kinder/</loc>
     <lastmod>2022-09-12T22:44:44+02:00</lastmod>
   </url><url>
     <loc>http://example.org/footer/kontakt/</loc>
     <lastmod>2022-09-12T22:44:44+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/preise/kopfmassage/</loc>
-    <lastmod>2022-09-12T22:44:44+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/preise/kosmetik/</loc>
-    <lastmod>2022-09-12T22:44:44+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/home/kunden_christine_martin/</loc>
-    <lastmod>2022-09-12T22:44:44+02:00</lastmod>
-  </url><url>
     <loc>http://example.org/home/kunden_daniela/</loc>
-    <lastmod>2022-09-12T22:44:44+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/home/kunden_dorli/</loc>
-    <lastmod>2022-09-12T22:44:44+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/home/kunden_nicole/</loc>
     <lastmod>2022-09-12T22:44:44+02:00</lastmod>
   </url><url>
     <loc>http://example.org/footer/time/</loc>
@@ -122,26 +152,8 @@
     <loc>http://example.org/team/</loc>
     <lastmod>2022-09-12T22:44:44+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/footer/preismeldung/</loc>
+    <loc>http://example.org/home/kraftbilder/</loc>
     <lastmod>2022-09-12T22:44:44+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/news/06082022/</loc>
-    <lastmod>2022-08-06T10:30:41+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/news/28072022/</loc>
-    <lastmod>2022-07-28T10:30:41+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/news/messerhaarschnitt/</loc>
-    <lastmod>2022-07-12T10:30:41+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/news/hochsteckfrisur/</loc>
-    <lastmod>2022-04-27T10:30:41+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/news/risiko_haarf%C3%A4rben/</loc>
-    <lastmod>2022-04-02T10:30:41+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/news/hygiene_fris%C3%B6rsalon/</loc>
-    <lastmod>2022-03-25T10:30:41+02:00</lastmod>
   </url><url>
     <loc>http://example.org/categories/</loc>
   </url><url>

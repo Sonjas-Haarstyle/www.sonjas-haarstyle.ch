@@ -28,14 +28,5 @@ Vechigenstrasse 16
       <description> Montag Geschlossen Dienstag 08:00 - 12:00, 13:30 - 20:00 Mittwoch 10:00 - 12:00, 13:30 - 20:00 Donnerstag 08:00 - 12:00, 13:30 - 18:30 Freitag 08:00 - 17:00 Samstag 08:00 - 14:00 Sonntag Geschlossen </description>
     </item>
     
-    <item>
-      <title>Zahlungsmöglichkeiten</title>
-      <link>http://example.org/footer/preismeldung/</link>
-      <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
-      
-      <guid>http://example.org/footer/preismeldung/</guid>
-      <description>Visa MasterCard American Express 2.5% Maestro 1.5% Zu Lasten des Kunden</description>
-    </item>
-    
   </channel>
 </rss>

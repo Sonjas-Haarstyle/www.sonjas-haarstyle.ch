@@ -8,25 +8,330 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Sep 2022 22:44:44 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Usere Dienstleistungen</title>
-      <link>http://example.org/home/dienstleistungen/</link>
-      <pubDate>Fri, 30 Sep 2022 22:44:44 +0200</pubDate>
+      <title>Ihr Coiffeur zum Entspannen in Worb</title>
+      <link>http://example.org/home/motto/</link>
+      <pubDate>Wed, 12 Oct 2022 22:44:44 +0200</pubDate>
       
-      <guid>http://example.org/home/dienstleistungen/</guid>
-      <description>für Damen
-waschen, schneiden, föhnen Messerhaarschnitt färben, tönen Strähnchen, Meches, Balayage, Ombré Dauerwelle Hochsteckfrisur Spliss schneiden Make-up Kopfmassage Augenbrauen und Wimpern färben Augenbrauen zupfen / wachsen Augenbrauen Lifting für Herren
-waschen, schneiden, föhnen Messerhaarschnitt Trockenhaarschnitt (nur möglich frisch gewaschen) Maschinen Haarschnitt färben, tönen, Meches Kopfmassage Augenbrauen und Wimpern färben Augenbrauen zupfen / wachsen Augenbrauen Lifting für Kinder bis 16 Jahre
-schneiden waschen, schneiden, föhnen </description>
+      <guid>http://example.org/home/motto/</guid>
+      <description>Wir nehmen uns Zeit
+Sonjas Haarstyle ist eine gemütliche Wohlfühloase in der Region Worb, die ihre Kundschaft zuvorkommend, freundlich und aufgestellt empfängt.
+Sonjas Haarstyle bietet eine persönliche und typgerechte Beratung in Styling, Schnitt und Farbe sowie das passende Fest- und Hochzeitsstyling wie auch Make-Up. Zusätzlich zu jeder Haarwäsche können Sie in den Genuss einer kurzen entspannenden Kopfmassage kommen, welche auch in verlängerter Form gebucht werden kann.
+Sonjas Haarstyle zeichnet die Liebe zum Beruf und dem alten Handwerk aus.</description>
+    </item>
+    
+    <item>
+      <title>Preisliste</title>
+      <link>http://example.org/preise/preise/</link>
+      <pubDate>Wed, 12 Oct 2022 22:44:44 +0200</pubDate>
+      
+      <guid>http://example.org/preise/preise/</guid>
+      <description>Unsere Preise richten sich nach Haarlänge und Zeitaufwand. Alle Preise sind in CHF und inklusive MWST. EC-Karten Gebühren gehen zulasten des Kunden.</description>
     </item>
     
     <item>
       <title>Entspannungs-Kopfmassage</title>
       <link>http://example.org/spezialangebote/kopfmassage/</link>
-      <pubDate>Fri, 16 Sep 2022 10:41:52 +0200</pubDate>
+      <pubDate>Wed, 12 Oct 2022 10:41:52 +0200</pubDate>
       
       <guid>http://example.org/spezialangebote/kopfmassage/</guid>
       <description>Sind Sie gestresst? Brauchen Sie eine Auszeit vom Alltag? Oder wollen Sie sich etwas Gutes gönnen? Dann ist unsere Entspannungs-Kopfmassage genau das Richtige für Sie. Mit ihren vielen positiven Eigenschaften fühlt man sich frischer und ausgeruhter.
 Entspannung für Körper und Seele reduziert Stress fördert das innere Gleichgewicht Stärkung des Immunsystems löst Verspannungen regt Blutfluss und Haarwuchs an Hilft gegen Migräne und Kopfschmerzen fördert die Konzentration transportiert Abfallstoffe über das Blut ab Diese Kopfmassage können Sie unabhängig oder in Kombination mit Ihrer geplanten Dienstleistung buchen.</description>
+    </item>
+    
+    <item>
+      <title>Verein Haarfee</title>
+      <link>http://example.org/partner/verein_haarfee/</link>
+      <pubDate>Wed, 12 Oct 2022 10:31:38 +0200</pubDate>
+      
+      <guid>http://example.org/partner/verein_haarfee/</guid>
+      <description>Haben Sie sich entschieden Ihren Zopf zu spenden? Wir gratulieren Ihnen, denn Ihr abgeschnittener Zopf wird weiterhin wertgeschätzt und kann einen wichtigen Zweck erfüllen.
+Anforderungen:
+Der Haarzopf sollten 40 cm lang sein. Die Haare sollten ungefärbt sein. (Naturhaar) Das Haar sollte gesund und ohne Spliss sein. Der Verein Haarfee ist eine unabhängige Non-Profit-Organisation, die Kindern hilft, welche ihr eigenes Haar durch dramatische Schicksalsschläge verloren haben.
+Nach dem Verlust der eigenen Haare in Folge einer Chemotherapie, schweren Verbrennungen oder der Krankheit Alopecia Areata verlieren die Kinder oftmals nicht nur ihre Haare, sondern auch ihr Selbstwertgefühl.</description>
+    </item>
+    
+    <item>
+      <title>Kartenzahlung</title>
+      <link>http://example.org/news/kartenzahlung/</link>
+      <pubDate>Wed, 12 Oct 2022 10:30:41 +0200</pubDate>
+      
+      <guid>http://example.org/news/kartenzahlung/</guid>
+      <description>Die Kartengebühren werden durch die Banken erhöht.
+Das bedeutet für Sie das wir ab 1.1.2023 für alle Kartenzahlungen eine Gebühr von 2.5% berechnen müssen.</description>
+    </item>
+    
+    <item>
+      <title>Standort</title>
+      <link>http://example.org/standort/standort/</link>
+      <pubDate>Wed, 12 Oct 2022 10:30:41 +0200</pubDate>
+      
+      <guid>http://example.org/standort/standort/</guid>
+      <description>Wir freuen uns sehr Sie an der Vechigenstrasse 16 in Worb zu begrüssen.
+Unser Geschäft befindet sich 7-Minuten vom RBS Bahnhof Worb Dorf oder 6-Minuten von der Haltestelle Worbboden entfernt.
+Vor dem Geschäft befinden Sich zwei Kundnparkplätze die Sie benutzen können.</description>
+    </item>
+    
+    <item>
+      <title>Preisliste Damen</title>
+      <link>http://example.org/preise/damen/</link>
+      <pubDate>Tue, 11 Oct 2022 22:44:44 +0200</pubDate>
+      
+      <guid>http://example.org/preise/damen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Make-up</title>
+      <link>http://example.org/spezialangebote/makeup/</link>
+      <pubDate>Tue, 11 Oct 2022 10:41:52 +0200</pubDate>
+      
+      <guid>http://example.org/spezialangebote/makeup/</guid>
+      <description>Das Make-up soll die Natürlichkeit der Frau betonen. Egal, ob Sie ein leichtes Tages-Make-up, ein intensives Abend-Make-up oder ein Hochzeits-Make-up wünschen:
+Wir erfüllen Ihnen Ihren Wunsch.
+Weitere bieten wir:
+Persönliche Schminkberatung Fotoshooting Make-up Schminkparty, Ladies Night, Polterabend Schminkberatung für Jugendliche Schminkkurs in kleinen Gruppen (bis max. 4 Personen) Kinderschminken an Events oder Kindergeburtstage </description>
+    </item>
+    
+    <item>
+      <title>Verein Coiffeurs Justes</title>
+      <link>http://example.org/partner/justes/</link>
+      <pubDate>Tue, 11 Oct 2022 10:31:38 +0200</pubDate>
+      
+      <guid>http://example.org/partner/justes/</guid>
+      <description>Haar Recycling Ein wertvoller Rohstoff.
+Bei jedem Haarschnitt tun Sie etwas Gutes für unsere Umwelt. Wir sammeln Ihr Haar und schicken es nach Frankreich. Dort wird daraus Öl- und Benzinsperren angefertigt, um unsere Meere zu schützen.
+Die Forschung geht sogar noch weiter: Es soll eine Haarschnur entwickelt werden für Badeorte, um die Bojen miteinander zu verbinden, um die Sonnencreme zu filtern und unser Ökosystem und die Riffe zu schützen.
+Zum Video</description>
+    </item>
+    
+    <item>
+      <title>Messerhaarschnitt</title>
+      <link>http://example.org/news/messerhaarschnitt/</link>
+      <pubDate>Tue, 11 Oct 2022 10:30:41 +0200</pubDate>
+      
+      <guid>http://example.org/news/messerhaarschnitt/</guid>
+      <description>Was bewirkt der Messerhaarschnitt?
+Der Messerhaarschnitt effiliert die Haare beim Schneiden automatisch. Das heisst das Haar wird ausgefranst die Frisur bekommt weichere Linien. Der Effekt ist, sie fallen besser ineinander, es gibt mehr Volumen und Stabilität.</description>
+    </item>
+    
+    <item>
+      <title>Ihr kleiner persönlicher Coiffeursalon</title>
+      <link>http://example.org/home/video_sonja/</link>
+      <pubDate>Tue, 11 Oct 2022 10:30:10 +0200</pubDate>
+      
+      <guid>http://example.org/home/video_sonja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Herren</title>
+      <link>http://example.org/preise/herren/</link>
+      <pubDate>Mon, 10 Oct 2022 22:44:44 +0200</pubDate>
+      
+      <guid>http://example.org/preise/herren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unser Angebot</title>
+      <link>http://example.org/home/dienstleistungen/</link>
+      <pubDate>Mon, 10 Oct 2022 22:44:44 +0200</pubDate>
+      
+      <guid>http://example.org/home/dienstleistungen/</guid>
+      <description>für Damen
+waschen, schneiden, föhnen Messerhaarschnitt färben, tönen Strähnchen, Meches, Balayage, Ombré Dauerwelle Hochsteckfrisur Spliss schneiden Make-up Kopfmassage Augenbrauen und Wimpern färben Augenbrauen zupfen / wachsen Augenbrauen Lifting für Herren
+waschen, schneiden, föhnen Messerhaarschnitt Trockenhaarschnitt (nur möglich frisch gewaschen) Maschinen Haarschnitt färben, tönen, Meches Kopfmassage Augenbrauen und Wimpern färben Augenbrauen zupfen / wachsen Augenbrauen Lifting für Kinder
+schneiden waschen, schneiden, föhnen Jetzt Termin vereinbaren.</description>
+    </item>
+    
+    <item>
+      <title>Treuepass</title>
+      <link>http://example.org/spezialangebote/teuepass/</link>
+      <pubDate>Mon, 10 Oct 2022 10:41:52 +0200</pubDate>
+      
+      <guid>http://example.org/spezialangebote/teuepass/</guid>
+      <description>Ihre Treue ist uns viel Wert. Bei Ihrem 10. Besuch erhalten Sie deshalb einen Rabatt von 10% auf unsere Dienstleistungen. Den Treuepass können Sie bei uns im Salon deponieren.
+Weiterempfehlung
+Empfehlen Sie Sonjas Haarstyle einem Freund / einer Freundin weiter und Sie beide profitieren von 15% Rabatt bei Ihrem nächsten Besuch.</description>
+    </item>
+    
+    <item>
+      <title>Peggy Sage</title>
+      <link>http://example.org/partner/peggy/</link>
+      <pubDate>Mon, 10 Oct 2022 10:31:38 +0200</pubDate>
+      
+      <guid>http://example.org/partner/peggy/</guid>
+      <description>Nach der Übernahme 1995 durch die Familie Collomb, widmet sich die Firma Peggy Sage der Entwicklung eines breiten Sortiments an Make-up und Accessoires. Um Ihnen die besten Produkte und eine hohe Qualität anzubieten, sucht Peggy Sage fortlaufend neue Ideen und Erfindungen. Sie bleiben ihren professionellen Anspruch treu und ihre Produkte werden nicht an Tieren getestet. Sehr gerne bestellen wir ihnen die tollen Produkte.</description>
+    </item>
+    
+    <item>
+      <title>Hochsteckfrisur</title>
+      <link>http://example.org/news/hochsteckfrisur/</link>
+      <pubDate>Mon, 10 Oct 2022 10:30:41 +0200</pubDate>
+      
+      <guid>http://example.org/news/hochsteckfrisur/</guid>
+      <description>Wenn Sie ihre Haare bei uns Hochstecken, sind folgende Vorbereitungsschritte wichtig:
+Waschen Sie ihre Haare am Tag vor dem Hochsteck Termin. Verwenden Sie keine Haarmaske nach dem waschen, sondern nur Conditioner. Geben Sie nach dem waschen eine grosse Menge Schaumfestiger ins Haar. Achten Sie beim Haar trocknen darauf das der Scheitel am richtigen Ort sitzt und keine Knickstellen entstehen, denn getrocknete Haare können schwer in eine andere Position gestylt werden.</description>
+    </item>
+    
+    <item>
+      <title>Das sagt Nicolina über uns</title>
+      <link>http://example.org/home/kunden_nicole/</link>
+      <pubDate>Sun, 09 Oct 2022 22:44:44 +0200</pubDate>
+      
+      <guid>http://example.org/home/kunden_nicole/</guid>
+      <description>Bei Sonja schätze ich sehr ihre Freundlichkeit und ihre entgegengebrachte Zeit für mein Haar und Anliegen. Durch ihre zahlreichen Weiterbildungen ist sie immer auf dem neuesten Stand und gibt ihr Wissen an ihre Kundschaft weiter. Sonja ist eine kompetente Frisörin.</description>
+    </item>
+    
+    <item>
+      <title>Kinder</title>
+      <link>http://example.org/preise/kinder/</link>
+      <pubDate>Sun, 09 Oct 2022 22:44:44 +0200</pubDate>
+      
+      <guid>http://example.org/preise/kinder/</guid>
+      <description> ohne waschen CHF 5.- Rabatt </description>
+    </item>
+    
+    <item>
+      <title>Splissbehandlung</title>
+      <link>http://example.org/spezialangebote/splissbehandlung/</link>
+      <pubDate>Sun, 09 Oct 2022 10:41:52 +0200</pubDate>
+      
+      <guid>http://example.org/spezialangebote/splissbehandlung/</guid>
+      <description>Sie möchten Ihre langen Haare behalten, sie sehen jedoch spröde und matt aus? Dann können wir Ihnen eine 30- bis 90-minütiges Splissbehandlung mit dem Split Ender Pro anbieten. Obwohl alle gespaltenen Spitzen entfernt werden, behalten Sie Ihre Länge und das Haar sieht anschliessend wieder gepflegt und glänzend aus.</description>
+    </item>
+    
+    <item>
+      <title>Venice Professional</title>
+      <link>http://example.org/partner/venice_professional/</link>
+      <pubDate>Sun, 09 Oct 2022 10:31:38 +0200</pubDate>
+      
+      <guid>http://example.org/partner/venice_professional/</guid>
+      <description>Mit einem kleinen Farbsortiment, wird Ihr Farbwunsch ganz individuell auf Sie abgestimmt. So erhalten Sie ein persönliches Farbergebnis. Zudem erhalten Sie faszinierende Farbreflexe sowie absolut gepflegte Haare. Die Abdeckung grauer Haare ist zu 100 % garantiert. Ein erfreulicher Punkt ist, dass hinter der Marke Venice ein Schweizer Produzent steckt</description>
+    </item>
+    
+    <item>
+      <title>Risiko Haarfärben</title>
+      <link>http://example.org/news/risiko_haarf%C3%A4rben/</link>
+      <pubDate>Sun, 09 Oct 2022 10:30:41 +0200</pubDate>
+      
+      <guid>http://example.org/news/risiko_haarf%C3%A4rben/</guid>
+      <description>Wenn Sie noch nie die Haare gefärbt haben, bestehen wir auf einen Allergietest.
+Diesen müssen wir 48 Stunden vor der Komplettfärbung oder Tönung durchführen. Den bei einer Allergie können schwerwiegende Folgen auftreten wie z.B:
+Schwellung des Kopfes Schwellung der Augen Atemnot Blasenbildung auf der Kopfhaut Verbrennung der Kopfhaut Wir sind auf diesem Gebiet sehr gut ausgebildet und wissen, wie man richtig mit den Haarfarben umgeht, deshalb lassen Sie sich lieber vom Profi ihre Haare färben, um kein Risiko einzugehen.</description>
+    </item>
+    
+    <item>
+      <title>Das sagt Dorli über uns</title>
+      <link>http://example.org/home/kunden_dorli/</link>
+      <pubDate>Sat, 08 Oct 2022 22:44:44 +0200</pubDate>
+      
+      <guid>http://example.org/home/kunden_dorli/</guid>
+      <description>Sonja versteht ihr Handwerk. Jedes Mal verlasse ich den Salon mit einer Superfrisur. Bei spontanen Anrufen versucht sie mir, so schnell wie möglich einen Termin zu geben. Das schätze ich bei Ihr sehr.</description>
+    </item>
+    
+    <item>
+      <title>Kopfmassage</title>
+      <link>http://example.org/preise/kopfmassage/</link>
+      <pubDate>Sat, 08 Oct 2022 22:44:44 +0200</pubDate>
+      
+      <guid>http://example.org/preise/kopfmassage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plastik Recycling</title>
+      <link>http://example.org/spezialangebote/plastikrecycling/</link>
+      <pubDate>Sat, 08 Oct 2022 10:41:52 +0200</pubDate>
+      
+      <guid>http://example.org/spezialangebote/plastikrecycling/</guid>
+      <description>Wir Sammeln das ganze Coiffeur Plastik. Das bedeutet für Sie, dass Sie ihre gekauften Plastikflaschen zurück in den Salon bring können.
+Denn für die Herstellung von Plastik wird das Gold der Erde das Erdöl benötigt. Deshalb ist es umso wichtiger das Produzieren von neuem Plastik zu reduzieren. Zudem wird beim Verbrennen von 1 Kg Plastik ca. 3 Kg co2 freigesetzt das unsere Umwelt belastet.
+Wir Entsorgen das Plastik Fachgerecht in einem Sack der in einer dafür geeigneten Sortieranlage nach Qualität sortiert wird.</description>
+    </item>
+    
+    <item>
+      <title>Schwarzkopf Professional</title>
+      <link>http://example.org/partner/schwarzkopf/</link>
+      <pubDate>Sat, 08 Oct 2022 10:31:38 +0200</pubDate>
+      
+      <guid>http://example.org/partner/schwarzkopf/</guid>
+      <description>Wir lieben Ihre Haare genauso sehr, wie Sie es tun. Mit einer Vielfalt an Haarprodukten bietet Schwarzkopf Professional Lösungen für alle Haartypen. Verwöhnen Sie Ihr Haar mit der neuen Technologie unserer natürlichen veganen Pflegelinie und schenken Sie ihm die Pflege, die es braucht, die frei von Sulfaten, Silikonen, Parabenen, Mineralölen, Mikroplastik und künstlichen Farbstoffen sind.
+Die Styling Produkte in unserem Sortiment wurden sorgfältig ausgesucht, um Sie beim Erschaffen neuer Looks zu unterstützen und den individuellen Ansprüchen eines jeden Stylings gerecht zu werden.</description>
+    </item>
+    
+    <item>
+      <title>Betriebsferien</title>
+      <link>http://example.org/news/ferien/</link>
+      <pubDate>Sat, 08 Oct 2022 10:30:41 +0200</pubDate>
+      
+      <guid>http://example.org/news/ferien/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Das sagen Christine &amp; Martin über uns</title>
+      <link>http://example.org/home/kunden_christine_martin/</link>
+      <pubDate>Fri, 07 Oct 2022 22:44:44 +0200</pubDate>
+      
+      <guid>http://example.org/home/kunden_christine_martin/</guid>
+      <description>Sonja ist immer gut gelaunt und empfängt uns jedes Mal mit einem Lächeln. Wir schätzen an ihr, dass man Wünsche anbringen kann und sie das Beste mögliche rausholt, sodass die Frisur immer stimmt.</description>
+    </item>
+    
+    <item>
+      <title>Kosmetik</title>
+      <link>http://example.org/preise/kosmetik/</link>
+      <pubDate>Fri, 07 Oct 2022 22:44:44 +0200</pubDate>
+      
+      <guid>http://example.org/preise/kosmetik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haar färben bei Jugendlichen</title>
+      <link>http://example.org/spezialangebote/jugendlichenf%C3%A4rbe/</link>
+      <pubDate>Fri, 07 Oct 2022 10:41:52 +0200</pubDate>
+      
+      <guid>http://example.org/spezialangebote/jugendlichenf%C3%A4rbe/</guid>
+      <description>Die Schweiz hat noch kein Verbot ausgesprochen, empfiehlt es aber nicht. Haarfarben können bei Jugendlichen unter 16-jährigen allergische Reaktionen auslösen, da der Säureschutzmantel noch nicht fertig ausgebildet ist. Die Inhaltsstoffe können so direkt ins Blut gelangen. Sollten Sie trotzdem drauf bestehen, verlangen wir eine Einverständniserklärung von den Erziehungsberechtigten, wonach Sonjas Haarstyle nicht haftbar gemacht werden kann, wenn das Risiko und die Gefahr einer Allergie auftritt.
+Erklärung</description>
+    </item>
+    
+    <item>
+      <title>Offene Stelle</title>
+      <link>http://example.org/news/job-angebot/</link>
+      <pubDate>Fri, 07 Oct 2022 10:30:41 +0200</pubDate>
+      
+      <guid>http://example.org/news/job-angebot/</guid>
+      <description>Zurzeit haben wir keine Stelle frei.</description>
+    </item>
+    
+    <item>
+      <title>Hygiene im Friseursalon</title>
+      <link>http://example.org/news/hygine/</link>
+      <pubDate>Thu, 06 Oct 2022 10:30:41 +0200</pubDate>
+      
+      <guid>http://example.org/news/hygine/</guid>
+      <description>So schützen wir uns:
+Falls sie Krankheitssymptome haben oder krank sind, sagen sie Bitte ihren Termin ab. Sonst müssen wir sie ohne vollendete Dienstleistungen wieder nach Hause schicken und ihre gebuchte Zeit in Rechnung stellen. Maskenempfehlung. Wir sind über einen längeren Zeitraum sehr nahe, da ist das Risiko einer Ansteckung höher als dort, wo der Abstand eingehalten werden kann. Wir werden weiterhin den Salon lüften und Desinfizieren. Wir übernehmen aber keine Verantwortung für eine allfällige Ansteckung.</description>
+    </item>
+    
+    <item>
+      <title>Was sagen unsere Kunden über uns</title>
+      <link>http://example.org/news/videos_kundenrezessionen/</link>
+      <pubDate>Wed, 05 Oct 2022 10:30:10 +0200</pubDate>
+      
+      <guid>http://example.org/news/videos_kundenrezessionen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Videos</title>
+      <link>http://example.org/news/videos_recylcing-copy/</link>
+      <pubDate>Tue, 04 Oct 2022 10:30:10 +0200</pubDate>
+      
+      <guid>http://example.org/news/videos_recylcing-copy/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -39,170 +344,12 @@ Entspannung für Körper und Seele reduziert Stress fördert das innere Gleichge
     </item>
     
     <item>
-      <title>Haar färben bei Jugendlichen</title>
-      <link>http://example.org/spezialangebote/jugendlichenf%C3%A4rbe/</link>
-      <pubDate>Fri, 16 Sep 2022 10:41:52 +0200</pubDate>
-      
-      <guid>http://example.org/spezialangebote/jugendlichenf%C3%A4rbe/</guid>
-      <description>Die Schweiz hat noch kein Verbot ausgesprochen, empfiehlt es aber nicht. Haarfarben können bei Jugendlichen unter 16-jährigen allergische Reaktionen auslösen, da der Säureschutzmantel noch nicht fertig ausgebildet ist. Die Inhaltsstoffe können so direkt ins Blut gelangen. Sollten Sie trotzdem drauf bestehen, verlangen wir eine Einverständniserklärung von den Erziehungsberechtigten, wonach Sonjas Haarstyle nicht haftbar gemacht werden kann, wenn das Risiko und die Gefahr einer Allergie auftritt.
-Erklärung</description>
-    </item>
-    
-    <item>
-      <title>Make-up</title>
-      <link>http://example.org/spezialangebote/makeup/</link>
-      <pubDate>Fri, 16 Sep 2022 10:41:52 +0200</pubDate>
-      
-      <guid>http://example.org/spezialangebote/makeup/</guid>
-      <description>Das Make-up soll die Natürlichkeit der Frau betonen. Egal, ob Sie ein leichtes Tages-Make-up, ein intensives Abend-Make-up oder ein Hochzeits-Make-up wünschen:
-Wir erfüllen Ihnen Ihren Wunsch.
-Weitere bieten wir:
-Persönliche Schminkberatung Fotoshooting Make-up Schminkparty, Ladies Night, Polterabend Schminkberatung für Jugendliche Schminkkurs in kleinen Gruppen (bis max. 4 Personen) Kinderschminken an Events oder Kindergeburtstage </description>
-    </item>
-    
-    <item>
-      <title>Plastik Recycling</title>
-      <link>http://example.org/spezialangebote/plastikrecycling/</link>
-      <pubDate>Fri, 16 Sep 2022 10:41:52 +0200</pubDate>
-      
-      <guid>http://example.org/spezialangebote/plastikrecycling/</guid>
-      <description>Wir Sammeln das ganze Coiffeur Plastik. Das bedeutet für Sie, dass Sie ihre gekauften Plastikflaschen zurück in den Salon bring können.
-Denn für die Herstellung von Plastik wird das Gold der Erde das Erdöl benötigt. Deshalb ist es umso wichtiger das Produzieren von neuem Plastik zu reduzieren. Zudem wird beim Verbrennen von 1 Kg Plastik ca. 3 Kg co2 freigesetzt das unsere Umwelt belastet.
-Wir Entsorgen das Plastik Fachgerecht in einem Sack der in einer dafür geeigneten Sortieranlage nach Qualität sortiert wird.</description>
-    </item>
-    
-    <item>
-      <title>Splissbehandlung</title>
-      <link>http://example.org/spezialangebote/splissbehandlung/</link>
-      <pubDate>Fri, 16 Sep 2022 10:41:52 +0200</pubDate>
-      
-      <guid>http://example.org/spezialangebote/splissbehandlung/</guid>
-      <description>Sie möchten Ihre langen Haare behalten, sie sehen jedoch spröde und matt aus? Dann können wir Ihnen eine 30- bis 90-minütiges Splissbehandlung mit dem Split Ender Pro anbieten. Obwohl alle gespaltenen Spitzen entfernt werden, behalten Sie Ihre Länge und das Haar sieht anschliessend wieder gepflegt und glänzend aus.</description>
-    </item>
-    
-    <item>
-      <title>Treuepass</title>
-      <link>http://example.org/spezialangebote/teuepass/</link>
-      <pubDate>Fri, 16 Sep 2022 10:41:52 +0200</pubDate>
-      
-      <guid>http://example.org/spezialangebote/teuepass/</guid>
-      <description>Ihre Treue ist uns viel Wert. Bei Ihrem 10. Besuch erhalten Sie deshalb einen Rabatt von 10% auf unsere Dienstleistungen. Den Treuepass können Sie bei uns im Salon deponieren.
-Weiterempfehlung
-Empfehlen Sie Sonjas Haarstyle einem Freund / einer Freundin weiter und Sie beide profitieren von 15% Rabatt bei Ihrem nächsten Besuch.</description>
-    </item>
-    
-    <item>
-      <title>Peggy Sage</title>
-      <link>http://example.org/partner/peggy/</link>
-      <pubDate>Fri, 16 Sep 2022 10:31:38 +0200</pubDate>
-      
-      <guid>http://example.org/partner/peggy/</guid>
-      <description>Nach der Übernahme 1995 durch die Familie Collomb, widmet sich die Firma Peggy Sage der Entwicklung eines breiten Sortiments an Make-up und Accessoires. Um Ihnen die besten Produkte und eine hohe Qualität anzubieten, sucht Peggy Sage fortlaufend neue Ideen und Erfindungen. Sie bleiben ihren professionellen Anspruch treu und ihre Produkte werden nicht an Tieren getestet. Sehr gerne bestellen wir ihnen die tollen Produkte.</description>
-    </item>
-    
-    <item>
-      <title>Schwarzkopf Professional</title>
-      <link>http://example.org/partner/schwarzkopf/</link>
-      <pubDate>Fri, 16 Sep 2022 10:31:38 +0200</pubDate>
-      
-      <guid>http://example.org/partner/schwarzkopf/</guid>
-      <description>Wir lieben Ihre Haare genauso sehr, wie Sie es tun. Mit einer Vielfalt an Haarprodukten bietet Schwarzkopf Professional Lösungen für alle Haartypen. Verwöhnen Sie Ihr Haar mit der neuen Technologie unserer natürlichen veganen Pflegelinie und schenken Sie ihm die Pflege, die es braucht, die frei von Sulfaten, Silikonen, Parabenen, Mineralölen, Mikroplastik und künstlichen Farbstoffen sind.
-Die Styling Produkte in unserem Sortiment wurden sorgfältig ausgesucht, um Sie beim Erschaffen neuer Looks zu unterstützen und den individuellen Ansprüchen eines jeden Stylings gerecht zu werden.</description>
-    </item>
-    
-    <item>
-      <title>Venice Professional</title>
-      <link>http://example.org/partner/venice_professional/</link>
-      <pubDate>Fri, 16 Sep 2022 10:31:38 +0200</pubDate>
-      
-      <guid>http://example.org/partner/venice_professional/</guid>
-      <description>Mit einem kleinen Farbsortiment, wird Ihr Farbwunsch ganz individuell auf Sie abgestimmt. So erhalten Sie ein persönliches Farbergebnis. Zudem erhalten Sie faszinierende Farbreflexe sowie absolut gepflegte Haare. Die Abdeckung grauer Haare ist zu 100 % garantiert. Ein erfreulicher Punkt ist, dass hinter der Marke Venice ein Schweizer Produzent steckt</description>
-    </item>
-    
-    <item>
-      <title>Verein Coiffeurs Justes</title>
-      <link>http://example.org/partner/justes/</link>
-      <pubDate>Fri, 16 Sep 2022 10:31:38 +0200</pubDate>
-      
-      <guid>http://example.org/partner/justes/</guid>
-      <description>Haar Recycling Ein wertvoller Rohstoff.
-Bei jedem Haarschnitt tun Sie etwas Gutes für unsere Umwelt. Wir sammeln Ihr Haar und schicken es nach Frankreich. Dort wird daraus Öl- und Benzinsperren angefertigt, um unsere Meere zu schützen.
-Die Forschung geht sogar noch weiter: Es soll eine Haarschnur entwickelt werden für Badeorte, um die Bojen miteinander zu verbinden, um die Sonnencreme zu filtern und unser Ökosystem und die Riffe zu schützen.</description>
-    </item>
-    
-    <item>
-      <title>Verein Haarfee</title>
-      <link>http://example.org/partner/verein_haarfee/</link>
-      <pubDate>Fri, 16 Sep 2022 10:31:38 +0200</pubDate>
-      
-      <guid>http://example.org/partner/verein_haarfee/</guid>
-      <description>Haben Sie sich entschieden Ihren Zopf zu spenden? Wir gratulieren Ihnen, denn Ihr abgeschnittener Zopf wird weiterhin wertgeschätzt und kann einen wichtigen Zweck erfüllen.
-Anforderungen:
-Der Haarzopf sollten 40 cm lang sein. Die Haare sollten ungefärbt sein. (Naturhaar) Das Haar sollte gesund und ohne Spliss sein. Der Verein Haarfee ist eine unabhängige Non-Profit-Organisation, die Kindern hilft, welche ihr eigenes Haar durch dramatische Schicksalsschläge verloren haben.
-Nach dem Verlust der eigenen Haare in Folge einer Chemotherapie, schweren Verbrennungen oder der Krankheit Alopecia Areata verlieren die Kinder oftmals nicht nur ihre Haare, sondern auch ihr Selbstwertgefühl.</description>
-    </item>
-    
-    <item>
-      <title>Haare Recycing</title>
-      <link>http://example.org/news/videos_recylcing-copy/</link>
-      <pubDate>Fri, 16 Sep 2022 10:30:10 +0200</pubDate>
-      
-      <guid>http://example.org/news/videos_recylcing-copy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kundenrezesionen</title>
-      <link>http://example.org/news/videos_kundenrezessionen/</link>
-      <pubDate>Fri, 16 Sep 2022 10:30:10 +0200</pubDate>
-      
-      <guid>http://example.org/news/videos_kundenrezessionen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Preise</title>
-      <link>http://example.org/preise/preise/</link>
-      <pubDate>Tue, 13 Sep 2022 22:44:44 +0200</pubDate>
-      
-      <guid>http://example.org/preise/preise/</guid>
-      <description>Alle Preise sind in CHF und inklusive MWST.</description>
-    </item>
-    
-    <item>
-      <title>Damen</title>
-      <link>http://example.org/preise/damen/</link>
+      <title>Eingang</title>
+      <link>http://example.org/standort/eingang/</link>
       <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
       
-      <guid>http://example.org/preise/damen/</guid>
+      <guid>http://example.org/standort/eingang/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Geschäft</title>
-      <link>http://example.org/standort/laden/</link>
-      <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
-      
-      <guid>http://example.org/standort/laden/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Herren</title>
-      <link>http://example.org/preise/herren/</link>
-      <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
-      
-      <guid>http://example.org/preise/herren/</guid>
-      <description>Alle Preise sind in CHF und inklusive MWST.</description>
-    </item>
-    
-    <item>
-      <title>Kinder</title>
-      <link>http://example.org/preise/kinder/</link>
-      <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
-      
-      <guid>http://example.org/preise/kinder/</guid>
-      <description> Waschen ohne Shampoo bei Kindern 5.- Rabatt </description>
     </item>
     
     <item>
@@ -218,33 +365,6 @@ Vechigenstrasse 16
     </item>
     
     <item>
-      <title>Kopfmassage</title>
-      <link>http://example.org/preise/kopfmassage/</link>
-      <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
-      
-      <guid>http://example.org/preise/kopfmassage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kosmetik</title>
-      <link>http://example.org/preise/kosmetik/</link>
-      <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
-      
-      <guid>http://example.org/preise/kosmetik/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kundenrückmeldung - Christine &amp; Martin</title>
-      <link>http://example.org/home/kunden_christine_martin/</link>
-      <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
-      
-      <guid>http://example.org/home/kunden_christine_martin/</guid>
-      <description>Sonja ist immer gut gelaunt und empfängt uns jedes Mal mit einem Lächeln. Wir schätzen an ihr, dass man Wünsche anbringen kann und sie das Beste mögliche rausholt, sodass die Frisur immer stimmt.</description>
-    </item>
-    
-    <item>
       <title>Kundenrückmeldung - Daniela</title>
       <link>http://example.org/home/kunden_daniela/</link>
       <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
@@ -252,26 +372,8 @@ Vechigenstrasse 16
       <guid>http://example.org/home/kunden_daniela/</guid>
       <description>Sonja nimmt sich Zeit, geht auf die Wünsche der Kunden ein und ist immer gut gelaunt und freundlich.
 Ich bin total begeistert von Ihrer Färbetechnik bei der Balayage, es sieht danach immer sehr natürlich aus.
-Absolut empfehlenswert ist nach dem Haarewaschen das Verwöhnprogramm mit der Kopfmassage. Ein Besuch bei Sonjas Haarstyle ist wie ein Wellnessbesuch.</description>
-    </item>
-    
-    <item>
-      <title>Kundenrückmeldung - Dorli</title>
-      <link>http://example.org/home/kunden_dorli/</link>
-      <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
-      
-      <guid>http://example.org/home/kunden_dorli/</guid>
-      <description>Sonja versteht ihr Handwerk. Jedes Mal verlasse ich den Salon mit einer Superfrisur. Bei spontanen Anrufen versucht sie mir, so schnell wie möglich einen Termin zu geben. Das schätze ich bei Ihr sehr.</description>
-    </item>
-    
-    <item>
-      <title>Kundenrückmeldung - Nicolina</title>
-      <link>http://example.org/home/kunden_nicole/</link>
-      <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
-      
-      <guid>http://example.org/home/kunden_nicole/</guid>
-      <description>Bei Sonja schätze ich sehr ihre Freundlichkeit und ihre entgegengebrachte Zeit für mein Haar und Anliegen. Durch ihre zahlreichen Weiterbildungen ist sie immer auf dem neuesten Stand und gibt ihr Wissen an ihre Kundschaft weiter. Sonja ist eine kompetente Frisörin.
-Nicolina</description>
+Absolut empfehlenswert ist nach dem Haarewaschen das Verwöhnprogramm mit der Kopfmassage. Ein Besuch bei Sonjas Haarstyle ist wie ein Wellnessbesuch.
+Jetzt Termin vereinbaren.</description>
     </item>
     
     <item>
@@ -304,73 +406,12 @@ Die Perfektion und die Liebe zum Beruf zeichnet mich aus. So habe ich das Glück
     </item>
     
     <item>
-      <title>Zahlungsmöglichkeiten</title>
-      <link>http://example.org/footer/preismeldung/</link>
+      <title>Was zeichnet uns aus</title>
+      <link>http://example.org/home/kraftbilder/</link>
       <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
       
-      <guid>http://example.org/footer/preismeldung/</guid>
-      <description>Visa MasterCard American Express 2.5% Maestro 1.5% Zu Lasten des Kunden</description>
-    </item>
-    
-    <item>
-      <title>Entspannungs Kopfmassage</title>
-      <link>http://example.org/news/06082022/</link>
-      <pubDate>Sat, 06 Aug 2022 10:30:41 +0200</pubDate>
-      
-      <guid>http://example.org/news/06082022/</guid>
-      <description>Sind Sie gestresst? Brauchen Sie eine Auszeit vom Alltag? Oder wollen Sie sich etwas Gutes gönnen? Dann ist unsere Entspannungs-Kopfmassage genau das Richtige für Sie. Mit ihren vielen positiven Eigenschaften fühlt man sich frischer und ausgeruhter.
-Entspannung für Körper und Seele Reduziert Stress Fördert das innere Gleichgewicht Stärkt das Immunsystem Löst Verspannungen Regt Blutfluss und Haarwuchs an Hilft gegen Migräne und Kopfschmerzen Fördert die Konzentration Transportiert Abfallstoffe über das Blut ab Buchen Sie jetzt Ihre Kopfmassage auch ohne waschen, schneiden, föhnen.</description>
-    </item>
-    
-    <item>
-      <title>Maestro</title>
-      <link>http://example.org/news/28072022/</link>
-      <pubDate>Thu, 28 Jul 2022 10:30:41 +0200</pubDate>
-      
-      <guid>http://example.org/news/28072022/</guid>
-      <description>Die bisherige Maestro-Karte wird bei den Schweizer Banken durch neue Debitkarten abgelöst. Durch die neuen Karten entstehen höhere Gebühren.
-Das bedeutet für Sie das wir spätestens ab 1.1.2023 für alle Kartenzahlungen eine Gebühr von 2.5% berechnen müssen.</description>
-    </item>
-    
-    <item>
-      <title>Messerhaarschnitt</title>
-      <link>http://example.org/news/messerhaarschnitt/</link>
-      <pubDate>Tue, 12 Jul 2022 10:30:41 +0200</pubDate>
-      
-      <guid>http://example.org/news/messerhaarschnitt/</guid>
-      <description>Was bewirkt der Messerhaarschnitt?
-Der Messerhaarschnitt effiliert die Haare beim Schneiden automatisch. Das heisst das Haar wird ausgefranst die Frisur bekommt weichere Linien. Der Effekt ist, sie fallen besser ineinander, es gibt mehr Volumen und Stabilität.</description>
-    </item>
-    
-    <item>
-      <title>Hochsteckfrisur</title>
-      <link>http://example.org/news/hochsteckfrisur/</link>
-      <pubDate>Wed, 27 Apr 2022 10:30:41 +0200</pubDate>
-      
-      <guid>http://example.org/news/hochsteckfrisur/</guid>
-      <description>Wenn Sie ihre Haare bei uns Hochstecken, sind folgende Vorbereitungsschritte wichtig:
-Waschen Sie ihre Haare am Tag vor dem Hochsteck Termin. Verwenden Sie keine Haarmaske nach dem waschen, sondern nur Conditioner. Geben Sie nach dem waschen eine grosse Menge Schaumfestiger ins Haar. Achten Sie beim Haar trocknen darauf das der Scheitel am richtigen Ort sitzt und keine Knickstellen entstehen, denn getrocknete Haare können schwer in eine andere Position gestylt werden.</description>
-    </item>
-    
-    <item>
-      <title>Risiko Haarfärben</title>
-      <link>http://example.org/news/risiko_haarf%C3%A4rben/</link>
-      <pubDate>Sat, 02 Apr 2022 10:30:41 +0200</pubDate>
-      
-      <guid>http://example.org/news/risiko_haarf%C3%A4rben/</guid>
-      <description>Wenn Sie noch nie die Haare gefärbt haben, bestehen wir auf einen Allergietest.
-Diesen müssen wir 48 Stunden vor der Komplettfärbung oder Tönung durchführen. Den bei einer Allergie können schwerwiegende Folgen auftreten wie z.B:
-Schwellung des Kopfes Schwellung der Augen Atemnot Blasenbildung auf der Kopfhaut Verbrennung der Kopfhaut Wir sind auf diesem Gebiet sehr gut ausgebildet und wissen, wie man richtig mit den Haarfarben umgeht, deshalb lassen Sie sich lieber vom Profi ihre Haare färben, um kein Risiko einzugehen.</description>
-    </item>
-    
-    <item>
-      <title>Haar Recycling</title>
-      <link>http://example.org/news/hygiene_fris%C3%B6rsalon/</link>
-      <pubDate>Fri, 25 Mar 2022 10:30:41 +0200</pubDate>
-      
-      <guid>http://example.org/news/hygiene_fris%C3%B6rsalon/</guid>
-      <description>So schützen wir uns:
-Falls sie Krankheitssymptome haben oder krank sind, sagen sie Bitte ihren Termin ab. Sonst müssen wir sie ohne vollendete Dienstleistungen wieder nach Hause schicken und ihre gebuchte Zeit in Rechnung stellen. Maskenempfehlung. Wir sind über einen längeren Zeitraum sehr nahe, da ist das Risiko einer Ansteckung höher als dort, wo der Abstand eingehalten werden kann. Wir werden weiterhin den Salon lüften und Desinfizieren. Wir übernehmen aber keine Verantwortung für eine allfällige Ansteckung.</description>
+      <guid>http://example.org/home/kraftbilder/</guid>
+      <description></description>
     </item>
     
   </channel>

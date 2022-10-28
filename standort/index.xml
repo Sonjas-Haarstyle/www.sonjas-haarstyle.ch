@@ -8,11 +8,22 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Sep 2022 22:44:44 +0200</lastBuildDate><atom:link href="http://example.org/standort/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Geschäft</title>
-      <link>http://example.org/standort/laden/</link>
+      <title>Standort</title>
+      <link>http://example.org/standort/standort/</link>
+      <pubDate>Wed, 12 Oct 2022 10:30:41 +0200</pubDate>
+      
+      <guid>http://example.org/standort/standort/</guid>
+      <description>Wir freuen uns sehr Sie an der Vechigenstrasse 16 in Worb zu begrüssen.
+Unser Geschäft befindet sich 7-Minuten vom RBS Bahnhof Worb Dorf oder 6-Minuten von der Haltestelle Worbboden entfernt.
+Vor dem Geschäft befinden Sich zwei Kundnparkplätze die Sie benutzen können.</description>
+    </item>
+    
+    <item>
+      <title>Eingang</title>
+      <link>http://example.org/standort/eingang/</link>
       <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
       
-      <guid>http://example.org/standort/laden/</guid>
+      <guid>http://example.org/standort/eingang/</guid>
       <description></description>
     </item>
     
