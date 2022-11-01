@@ -344,6 +344,18 @@ Falls sie Krankheitssymptome haben oder krank sind, sagen sie Bitte ihren Termin
     </item>
     
     <item>
+      <title>Das sagt Daniela über uns</title>
+      <link>http://example.org/home/kunden_daniela/</link>
+      <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
+      
+      <guid>http://example.org/home/kunden_daniela/</guid>
+      <description>Sonja nimmt sich Zeit, geht auf die Wünsche der Kunden ein und ist immer gut gelaunt und freundlich.
+Ich bin total begeistert von Ihrer Färbetechnik bei der Balayage, es sieht danach immer sehr natürlich aus.
+Absolut empfehlenswert ist nach dem Haarewaschen das Verwöhnprogramm mit der Kopfmassage. Ein Besuch bei Sonjas Haarstyle ist wie ein Wellnessbesuch.
+Jetzt Termin vereinbaren.</description>
+    </item>
+    
+    <item>
       <title>Eingang</title>
       <link>http://example.org/standort/eingang/</link>
       <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
@@ -362,18 +374,6 @@ Falls sie Krankheitssymptome haben oder krank sind, sagen sie Bitte ihren Termin
 Vechigenstrasse 16
 3076 Worb
 +41 31 832 41 94</description>
-    </item>
-    
-    <item>
-      <title>Kundenrückmeldung - Daniela</title>
-      <link>http://example.org/home/kunden_daniela/</link>
-      <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
-      
-      <guid>http://example.org/home/kunden_daniela/</guid>
-      <description>Sonja nimmt sich Zeit, geht auf die Wünsche der Kunden ein und ist immer gut gelaunt und freundlich.
-Ich bin total begeistert von Ihrer Färbetechnik bei der Balayage, es sieht danach immer sehr natürlich aus.
-Absolut empfehlenswert ist nach dem Haarewaschen das Verwöhnprogramm mit der Kopfmassage. Ein Besuch bei Sonjas Haarstyle ist wie ein Wellnessbesuch.
-Jetzt Termin vereinbaren.</description>
     </item>
     
     <item>
