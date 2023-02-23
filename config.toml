@@ -33,6 +33,7 @@ theme = "shs"
  [[menu.nav]]
   name = "Spezialangebote"
   url = "/spezialangebote"
+  
  [[menu.nav]]
   name = "Standort"
   url = "/standort"
@@ -46,18 +47,18 @@ theme = "shs"
   phone = "+41 31 832 41 94"
 
 [[params.sm]]
-  rechts = "https://www.instagram.com/sonjas_haarstyle.makeup.artist/"    
+  link = "https://www.instagram.com/sonjas_haarstyle.makeup.artist/"    
   image = "/svgs/instagram.svg"
   
   [[params.sm]]
-  rechts = "https://de-de.facebook.com/sonjashaarstyle/"    
+  link = "https://de-de.facebook.com/sonjashaarstyle/"    
   image = "/svgs/facebook.svg"
   
   [[params.sm]]
-  rechts = "https://www.youtube.com/channel/UC6EOSY_vno7NSLkA_38usAg"    
+  link = "https://www.youtube.com/channel/UC6EOSY_vno7NSLkA_38usAg"    
   image = "/svgs/youtube.svg"
   
   [[params.sm]]
-  rechts = "mailto:hairstylistin@hotmail.ch"    
+  link = "mailto:hairstylistin@hotmail.ch"    
   image = "/svgs/email.svg"    
   
