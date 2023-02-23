@@ -3,7 +3,7 @@ title: "Was zeichnet uns aus"
 date: 2022-09-12T22:44:44+02:00
 
 icons:
-    - icon: "/svgs/menge.svg"
+    - icon: "/svgs/altes_handwerk.svg"
       text: "Wir beherschen 
       das alte Handwerk"
     - icon: "/svgs/zeit.svg"
