@@ -128,6 +128,9 @@
     <loc>http://example.org/footer/</loc>
     <lastmod>2022-09-12T22:44:44+02:00</lastmod>
   </url><url>
+    <loc>http://example.org/news/geschlossen/</loc>
+    <lastmod>2022-09-12T22:44:44+02:00</lastmod>
+  </url><url>
     <loc>http://example.org/home/</loc>
     <lastmod>2022-09-12T22:44:44+02:00</lastmod>
   </url><url>
