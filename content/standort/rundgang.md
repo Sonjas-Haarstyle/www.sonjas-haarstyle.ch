@@ -1,6 +1,6 @@
 ---
 title: "Virtueller Rundgang"
-date: 2022-10-12T22:44:44+02:00
+date: 2022-09-13T22:44:44+02:00
 ---
 [Eingangsbereich](https://maps.app.goo.gl/p3kAkkLmzLChqvBa7?g_st=iw)
 
