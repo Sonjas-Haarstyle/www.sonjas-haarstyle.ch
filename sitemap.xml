@@ -17,9 +17,6 @@
     <loc>http://example.org/news/kartenzahlung/</loc>
     <lastmod>2022-10-12T10:30:41+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/standort/standort/</loc>
-    <lastmod>2022-10-12T10:30:41+02:00</lastmod>
-  </url><url>
     <loc>http://example.org/preise/damen/</loc>
     <lastmod>2022-10-11T22:44:44+02:00</lastmod>
   </url><url>
@@ -30,6 +27,9 @@
     <lastmod>2022-10-11T10:31:38+02:00</lastmod>
   </url><url>
     <loc>http://example.org/news/messerhaarschnitt/</loc>
+    <lastmod>2022-10-11T10:30:41+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/standort/standort/</loc>
     <lastmod>2022-10-11T10:30:41+02:00</lastmod>
   </url><url>
     <loc>http://example.org/home/video_sonja/</loc>

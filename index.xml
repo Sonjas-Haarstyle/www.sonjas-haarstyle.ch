@@ -61,17 +61,6 @@ Das bedeutet für Sie das wir ab 1.1.2023 für alle Kartenzahlungen eine Gebühr
     </item>
     
     <item>
-      <title>Standort</title>
-      <link>http://example.org/standort/standort/</link>
-      <pubDate>Wed, 12 Oct 2022 10:30:41 +0200</pubDate>
-      
-      <guid>http://example.org/standort/standort/</guid>
-      <description>Wir freuen uns sehr Sie an der Vechigenstrasse 16 in Worb zu begrüssen.
-Unser Geschäft befindet sich 7-Minuten vom RBS Bahnhof Worb Dorf oder 6-Minuten von der Haltestelle Worbboden entfernt.
-Vor dem Geschäft befinden Sich zwei Kundnparkplätze die Sie benutzen können.</description>
-    </item>
-    
-    <item>
       <title>Preisliste Damen</title>
       <link>http://example.org/preise/damen/</link>
       <pubDate>Tue, 11 Oct 2022 22:44:44 +0200</pubDate>
@@ -112,6 +101,17 @@ Zum Video</description>
       <guid>http://example.org/news/messerhaarschnitt/</guid>
       <description>Was bewirkt der Messerhaarschnitt?
 Der Messerhaarschnitt effiliert die Haare beim Schneiden automatisch. Das heisst das Haar wird ausgefranst die Frisur bekommt weichere Linien. Der Effekt ist, sie fallen besser ineinander, es gibt mehr Volumen und Stabilität.</description>
+    </item>
+    
+    <item>
+      <title>Standort</title>
+      <link>http://example.org/standort/standort/</link>
+      <pubDate>Tue, 11 Oct 2022 10:30:41 +0200</pubDate>
+      
+      <guid>http://example.org/standort/standort/</guid>
+      <description>Wir freuen uns sehr Sie an der Vechigenstrasse 16 in Worb zu begrüssen.
+Unser Geschäft befindet sich 7-Minuten vom RBS Bahnhof Worb Dorf oder 6-Minuten von der Haltestelle Worbboden entfernt.
+Vor dem Geschäft befinden Sich zwei Kundnparkplätze die Sie benutzen können.</description>
     </item>
     
     <item>
