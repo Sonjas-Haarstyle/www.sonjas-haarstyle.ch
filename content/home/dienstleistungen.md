@@ -13,8 +13,10 @@ image_border: ""
 * Strähnchen, Meches, Balayage, Ombré
 * Dauerwelle
 * Hochsteckfrisur
+* Braut und Hochzeitsfrisur
 * Spliss schneiden
 * Make-up
+* Braut- und Hochzeit Make-up
 * Kopfmassage
 * Augenbrauen und Wimpern färben
 * Augenbrauen zupfen / wachsen
