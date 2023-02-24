@@ -8,9 +8,6 @@
     <loc>http://example.org/home/motto/</loc>
     <lastmod>2022-10-12T22:44:44+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/preise/preise/</loc>
-    <lastmod>2022-10-12T22:44:44+02:00</lastmod>
-  </url><url>
     <loc>http://example.org/spezialangebote/kopfmassage/</loc>
     <lastmod>2022-10-12T10:41:52+02:00</lastmod>
   </url><url>
@@ -94,6 +91,9 @@
   </url><url>
     <loc>http://example.org/news/job-angebot/</loc>
     <lastmod>2022-10-07T10:30:41+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/preise/preise/</loc>
+    <lastmod>2022-10-06T22:44:44+02:00</lastmod>
   </url><url>
     <loc>http://example.org/news/hygine/</loc>
     <lastmod>2022-10-06T10:30:41+02:00</lastmod>

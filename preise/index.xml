@@ -8,15 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Sep 2022 22:44:44 +0200</lastBuildDate><atom:link href="http://example.org/preise/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Preisliste</title>
-      <link>http://example.org/preise/preise/</link>
-      <pubDate>Wed, 12 Oct 2022 22:44:44 +0200</pubDate>
-      
-      <guid>http://example.org/preise/preise/</guid>
-      <description> Unsere Preise richten sich nach Haarlänge und Zeitaufwand. Alle Preise sind in CHF und inklusive MWST. EC-Karten Gebühren gehen zulasten des Kunden. </description>
-    </item>
-    
-    <item>
       <title>Preisliste Damen</title>
       <link>http://example.org/preise/damen/</link>
       <pubDate>Tue, 11 Oct 2022 22:44:44 +0200</pubDate>
@@ -59,6 +50,15 @@
       
       <guid>http://example.org/preise/kosmetik/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Preisliste</title>
+      <link>http://example.org/preise/preise/</link>
+      <pubDate>Thu, 06 Oct 2022 22:44:44 +0200</pubDate>
+      
+      <guid>http://example.org/preise/preise/</guid>
+      <description> Alle Preise sind in CHF und inklusive MWST. EC-Karten Gebühren gehen zulasten des Kunden. Unsere Preise richten sich nach Haarlänge und Zeitaufwand. </description>
     </item>
     
   </channel>

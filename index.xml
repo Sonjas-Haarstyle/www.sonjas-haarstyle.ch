@@ -29,15 +29,6 @@ Sonjas Haarstyle zeichnet die Liebe zum Beruf und dem alten Handwerk aus.</descr
     </item>
     
     <item>
-      <title>Preisliste</title>
-      <link>http://example.org/preise/preise/</link>
-      <pubDate>Wed, 12 Oct 2022 22:44:44 +0200</pubDate>
-      
-      <guid>http://example.org/preise/preise/</guid>
-      <description> Unsere Preise richten sich nach Haarlänge und Zeitaufwand. Alle Preise sind in CHF und inklusive MWST. EC-Karten Gebühren gehen zulasten des Kunden. </description>
-    </item>
-    
-    <item>
       <title>Entspannungs-Kopfmassage</title>
       <link>http://example.org/spezialangebote/kopfmassage/</link>
       <pubDate>Wed, 12 Oct 2022 10:41:52 +0200</pubDate>
@@ -313,6 +304,15 @@ Erklärung</description>
       
       <guid>http://example.org/news/job-angebot/</guid>
       <description>Zurzeit haben wir keine Stelle frei.</description>
+    </item>
+    
+    <item>
+      <title>Preisliste</title>
+      <link>http://example.org/preise/preise/</link>
+      <pubDate>Thu, 06 Oct 2022 22:44:44 +0200</pubDate>
+      
+      <guid>http://example.org/preise/preise/</guid>
+      <description> Alle Preise sind in CHF und inklusive MWST. EC-Karten Gebühren gehen zulasten des Kunden. Unsere Preise richten sich nach Haarlänge und Zeitaufwand. </description>
     </item>
     
     <item>
