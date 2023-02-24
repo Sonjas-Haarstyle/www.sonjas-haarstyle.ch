@@ -29,16 +29,6 @@ Sonjas Haarstyle zeichnet die Liebe zum Beruf und dem alten Handwerk aus.</descr
     </item>
     
     <item>
-      <title>Virtueller Rundgang</title>
-      <link>http://example.org/standort/rundgang/</link>
-      <pubDate>Wed, 12 Oct 2022 22:44:44 +0200</pubDate>
-      
-      <guid>http://example.org/standort/rundgang/</guid>
-      <description>Eingangsbereich
-Salon</description>
-    </item>
-    
-    <item>
       <title>Entspannungs-Kopfmassage</title>
       <link>http://example.org/spezialangebote/kopfmassage/</link>
       <pubDate>Wed, 12 Oct 2022 10:41:52 +0200</pubDate>
@@ -360,6 +350,16 @@ Falls sie Krankheitssymptome haben oder krank sind, sagen sie Bitte ihren Termin
       <description>Wir freuen uns sehr Sie an der Vechigenstrasse 16 in Worb zu begrüssen.
 Unser Geschäft befindet sich 7-Minuten vom RBS Bahnhof Worb Dorf oder 6-Minuten von der Haltestelle Worbboden entfernt.
 Vor dem Geschäft befinden Sich zwei Kundnparkplätze die Sie benutzen können.</description>
+    </item>
+    
+    <item>
+      <title>Virtueller Rundgang</title>
+      <link>http://example.org/standort/rundgang/</link>
+      <pubDate>Tue, 13 Sep 2022 22:44:44 +0200</pubDate>
+      
+      <guid>http://example.org/standort/rundgang/</guid>
+      <description>Eingangsbereich
+Salon</description>
     </item>
     
     <item>
