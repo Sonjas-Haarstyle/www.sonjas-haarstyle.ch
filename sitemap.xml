@@ -155,11 +155,11 @@
     <loc>http://example.org/team/</loc>
     <lastmod>2022-09-12T22:44:44+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/standort/rundgang/</loc>
-    <lastmod>2022-09-12T22:44:44+02:00</lastmod>
-  </url><url>
     <loc>http://example.org/home/kraftbilder/</loc>
     <lastmod>2022-09-12T22:44:44+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/standort/rundgang/</loc>
+    <lastmod>2022-09-11T22:44:44+02:00</lastmod>
   </url><url>
     <loc>http://example.org/categories/</loc>
   </url><url>
