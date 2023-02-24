@@ -4,8 +4,8 @@ date: 2022-09-12T22:44:44+02:00
 
 icons:
     - icon: "/svgs/altes_handwerk.svg"
-      text: "######Wir beherschen 
-      das alte Handwerk######"
+      text: ######"Wir beherrschen 
+      das alte Handwerk"######
     - icon: "/svgs/zeit.svg"
       text: "2x die Woche 
       bis 20.00 geöffnet"
