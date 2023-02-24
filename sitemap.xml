@@ -83,6 +83,9 @@
     <loc>http://example.org/home/kunden_christine_martin/</loc>
     <lastmod>2022-10-07T22:44:44+02:00</lastmod>
   </url><url>
+    <loc>http://example.org/home/</loc>
+    <lastmod>2022-10-07T22:44:44+02:00</lastmod>
+  </url><url>
     <loc>http://example.org/preise/kosmetik/</loc>
     <lastmod>2022-10-07T22:44:44+02:00</lastmod>
   </url><url>
@@ -112,9 +115,6 @@
   </url><url>
     <loc>http://example.org/news/</loc>
     <lastmod>2022-10-02T10:30:10+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/home/</loc>
-    <lastmod>2022-10-01T22:44:44+02:00</lastmod>
   </url><url>
     <loc>http://example.org/gallery/pictures/</loc>
     <lastmod>2022-09-16T10:41:52+02:00</lastmod>
