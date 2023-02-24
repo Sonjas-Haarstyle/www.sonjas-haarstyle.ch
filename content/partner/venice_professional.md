@@ -1,6 +1,7 @@
 ---
 title: "Venice Professional"
 date: 2022-10-09T10:31:38+02:00
+image: "/pic/partner/logo_dobi.png"
 ---
 
 Mit einem kleinen Farbsortiment, wird Ihr Farbwunsch ganz individuell auf Sie abgestimmt. 
