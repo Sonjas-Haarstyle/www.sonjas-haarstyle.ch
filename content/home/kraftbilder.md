@@ -4,7 +4,7 @@ date: 2022-09-12T22:44:44+02:00
 
 icons:
     - icon: "/svgs/altes_handwerk.svg"
-      text: "######Wir beherrschen 
+      text: "Wir beherrschen 
       das alte Handwerk"
     - icon: "/svgs/zeit.svg"
       text: "2x die Woche 
