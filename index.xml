@@ -333,21 +333,21 @@ Falls sie Krankheitssymptome haben oder krank sind, sagen sie Bitte ihren Termin
     </item>
     
     <item>
+      <title>Galerie</title>
+      <link>http://example.org/gallery/pictures/</link>
+      <pubDate>Tue, 04 Oct 2022 10:41:52 +0200</pubDate>
+      
+      <guid>http://example.org/gallery/pictures/</guid>
+      <description>Bilder aus dem Alltag</description>
+    </item>
+    
+    <item>
       <title>Videos</title>
       <link>http://example.org/news/videos_recylcing-copy/</link>
       <pubDate>Tue, 04 Oct 2022 10:30:10 +0200</pubDate>
       
       <guid>http://example.org/news/videos_recylcing-copy/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Galerie</title>
-      <link>http://example.org/gallery/pictures/</link>
-      <pubDate>Fri, 16 Sep 2022 10:41:52 +0200</pubDate>
-      
-      <guid>http://example.org/gallery/pictures/</guid>
-      <description>Bilder aus dem Alltag</description>
     </item>
     
     <item>
