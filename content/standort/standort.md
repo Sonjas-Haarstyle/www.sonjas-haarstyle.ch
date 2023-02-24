@@ -1,6 +1,6 @@
 ---
 title: "Standort"
-date: 2022-10-11T10:30:41+02:00
+date: 2022-09-14T10:30:41+02:00
 ---
 
 Wir freuen uns sehr Sie an der Vechigenstrasse 16 in Worb zu begrüssen.
