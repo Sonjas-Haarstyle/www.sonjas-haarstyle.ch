@@ -122,6 +122,9 @@
     <loc>http://example.org/partner/</loc>
     <lastmod>2022-10-02T10:31:28+02:00</lastmod>
   </url><url>
+    <loc>http://example.org/standort/</loc>
+    <lastmod>2022-10-01T22:44:44+02:00</lastmod>
+  </url><url>
     <loc>http://example.org/gallery/pictures/</loc>
     <lastmod>2022-09-16T10:41:52+02:00</lastmod>
   </url><url>
@@ -156,9 +159,6 @@
     <lastmod>2022-09-12T22:44:44+02:00</lastmod>
   </url><url>
     <loc>http://example.org/</loc>
-    <lastmod>2022-09-12T22:44:44+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/standort/</loc>
     <lastmod>2022-09-12T22:44:44+02:00</lastmod>
   </url><url>
     <loc>http://example.org/home/kraftbilder/</loc>
