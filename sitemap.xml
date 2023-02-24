@@ -119,14 +119,14 @@
     <loc>http://example.org/preise/</loc>
     <lastmod>2022-10-03T22:44:44+02:00</lastmod>
   </url><url>
+    <loc>http://example.org/partner/</loc>
+    <lastmod>2022-10-02T10:31:28+02:00</lastmod>
+  </url><url>
     <loc>http://example.org/gallery/pictures/</loc>
     <lastmod>2022-09-16T10:41:52+02:00</lastmod>
   </url><url>
     <loc>http://example.org/gallery/</loc>
     <lastmod>2022-09-16T10:41:52+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/partner/</loc>
-    <lastmod>2022-09-16T10:31:28+02:00</lastmod>
   </url><url>
     <loc>http://example.org/standort/standort/</loc>
     <lastmod>2022-09-14T10:30:41+02:00</lastmod>
