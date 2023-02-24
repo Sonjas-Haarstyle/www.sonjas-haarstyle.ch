@@ -98,6 +98,9 @@
     <loc>http://example.org/preise/preise/</loc>
     <lastmod>2022-10-06T22:44:44+02:00</lastmod>
   </url><url>
+    <loc>http://example.org/spezialangebote/</loc>
+    <lastmod>2022-10-06T10:41:52+02:00</lastmod>
+  </url><url>
     <loc>http://example.org/news/hygine/</loc>
     <lastmod>2022-10-06T10:30:41+02:00</lastmod>
   </url><url>
@@ -106,9 +109,6 @@
   </url><url>
     <loc>http://example.org/team/</loc>
     <lastmod>2022-10-05T22:44:44+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/spezialangebote/</loc>
-    <lastmod>2022-10-05T10:41:52+02:00</lastmod>
   </url><url>
     <loc>http://example.org/news/videos_kundenrezessionen/</loc>
     <lastmod>2022-10-05T10:30:10+02:00</lastmod>
