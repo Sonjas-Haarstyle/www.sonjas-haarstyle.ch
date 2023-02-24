@@ -104,6 +104,9 @@
     <loc>http://example.org/news/videos_recylcing-copy/</loc>
     <lastmod>2022-10-04T10:30:10+02:00</lastmod>
   </url><url>
+    <loc>http://example.org/home/</loc>
+    <lastmod>2022-10-01T22:44:44+02:00</lastmod>
+  </url><url>
     <loc>http://example.org/spezialangebote/</loc>
     <lastmod>2022-09-16T10:41:52+02:00</lastmod>
   </url><url>
@@ -132,9 +135,6 @@
     <lastmod>2022-09-12T22:44:44+02:00</lastmod>
   </url><url>
     <loc>http://example.org/footer/</loc>
-    <lastmod>2022-09-12T22:44:44+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/home/</loc>
     <lastmod>2022-09-12T22:44:44+02:00</lastmod>
   </url><url>
     <loc>http://example.org/footer/kontakt/</loc>
