@@ -32,9 +32,6 @@
     <loc>http://example.org/news/messerhaarschnitt/</loc>
     <lastmod>2022-10-11T10:30:41+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/standort/standort/</loc>
-    <lastmod>2022-10-11T10:30:41+02:00</lastmod>
-  </url><url>
     <loc>http://example.org/home/video_sonja/</loc>
     <lastmod>2022-10-11T10:30:10+02:00</lastmod>
   </url><url>
@@ -121,6 +118,9 @@
   </url><url>
     <loc>http://example.org/news/</loc>
     <lastmod>2022-09-16T10:30:10+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/standort/standort/</loc>
+    <lastmod>2022-09-14T10:30:41+02:00</lastmod>
   </url><url>
     <loc>http://example.org/home/kunden_daniela/</loc>
     <lastmod>2022-09-12T22:44:44+02:00</lastmod>
