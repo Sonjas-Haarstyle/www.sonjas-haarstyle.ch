@@ -68,6 +68,9 @@
     <loc>http://example.org/home/kunden_dorli/</loc>
     <lastmod>2022-10-08T22:44:44+02:00</lastmod>
   </url><url>
+    <loc>http://example.org/home/</loc>
+    <lastmod>2022-10-08T22:44:44+02:00</lastmod>
+  </url><url>
     <loc>http://example.org/preise/kopfmassage/</loc>
     <lastmod>2022-10-08T22:44:44+02:00</lastmod>
   </url><url>
@@ -81,9 +84,6 @@
     <lastmod>2022-10-08T10:30:41+02:00</lastmod>
   </url><url>
     <loc>http://example.org/home/kunden_christine_martin/</loc>
-    <lastmod>2022-10-07T22:44:44+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/home/</loc>
     <lastmod>2022-10-07T22:44:44+02:00</lastmod>
   </url><url>
     <loc>http://example.org/preise/kosmetik/</loc>
