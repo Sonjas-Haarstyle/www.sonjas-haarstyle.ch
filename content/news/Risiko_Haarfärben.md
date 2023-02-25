@@ -13,4 +13,4 @@ Diesen müssen wir 48 Stunden vor der Komplettfärbung oder Tönung durchführen
 - Blasenbildung auf der Kopfhaut
 - Verbrennung der Kopfhaut
 
-Wir sind auf diesem Gebiet sehr gut ausgebildet und wissen, wie man richtig mit den Haarfarben umgeht, deshalb lassen Sie sich lieber vom Profi ihre Haare färben, um kein Risiko einzugehen.
+Wir sind auf diesem Gebiet sehr gut ausgebildet und wissen, wie man richtig mit den Haarfärbemittel umgeht, deshalb lassen Sie sich lieber vom Profi ihre Haare färben, um kein Risiko einzugehen.
