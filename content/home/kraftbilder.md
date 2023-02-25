@@ -10,7 +10,7 @@ icons:
       text: "Haar- & Plastik-Recygling"
     - icon: "/svgs/herz.svg"
       text: "100% persönlicher Service"
-      - icon: "/svgs/zeit.svg"
+    - icon: "/svgs/zeit.svg"
       text: "2x die Woche 
       bis 20.00 geöffnet"
 ---
