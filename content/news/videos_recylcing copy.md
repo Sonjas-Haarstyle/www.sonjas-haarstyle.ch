@@ -3,9 +3,6 @@ title: "Videos"
 date: 2022-10-04T10:30:10+02:00
 
 videos:
-    - src: https://www.youtube.com/embed/OYDgt02LRNM
-      title: Wir recyceln Ihr Haar.
-
     - src: https://www.youtube.com/embed/Vo7Gx-v_u_0
       title: So recyceln wir Haare.
 
