@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Sep 2022 22:44:44 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Betriebsferien</title>
+      <link>http://example.org/news/ferien/</link>
+      <pubDate>Tue, 28 Feb 2023 10:30:41 +0200</pubDate>
+      
+      <guid>http://example.org/news/ferien/</guid>
+      <description>Samstag 22.Juli.2023 bis Mittwoch 02.August.2023</description>
+    </item>
+    
+    <item>
       <title>Geschlossen</title>
       <link>http://example.org/news/geschlossen/</link>
       <pubDate>Mon, 30 Jan 2023 22:44:44 +0200</pubDate>
@@ -236,15 +245,6 @@ Wir Entsorgen das Plastik Fachgerecht in einem Sack der in einer dafür geeignet
       <guid>http://example.org/partner/schwarzkopf/</guid>
       <description>Wir lieben Ihre Haare genauso sehr, wie Sie es tun. Mit einer Vielfalt an Haarprodukten bietet Schwarzkopf Professional Lösungen für alle Haartypen. Verwöhnen Sie Ihr Haar mit der neuen Technologie unserer natürlichen veganen Pflegelinie und schenken Sie ihm die Pflege, die es braucht, die frei von Sulfaten, Silikonen, Parabenen, Mineralölen, Mikroplastik und künstlichen Farbstoffen sind.
 Die Styling Produkte in unserem Sortiment wurden sorgfältig ausgesucht, um Sie beim Erschaffen neuer Looks zu unterstützen und den individuellen Ansprüchen eines jeden Stylings gerecht zu werden.</description>
-    </item>
-    
-    <item>
-      <title>Betriebsferien</title>
-      <link>http://example.org/news/ferien/</link>
-      <pubDate>Sat, 08 Oct 2022 10:30:41 +0200</pubDate>
-      
-      <guid>http://example.org/news/ferien/</guid>
-      <description></description>
     </item>
     
     <item>
