@@ -403,6 +403,15 @@ Vechigenstrasse 16
     </item>
     
     <item>
+      <title>So finden Sie uns</title>
+      <link>http://example.org/standort/karte/</link>
+      <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
+      
+      <guid>http://example.org/standort/karte/</guid>
+      <description>Google Maps</description>
+    </item>
+    
+    <item>
       <title>Sonja Lehmann-Hofer </title>
       <link>http://example.org/team/sonja/</link>
       <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
