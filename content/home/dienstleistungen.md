@@ -14,7 +14,7 @@ image_border: ""
 * Dauerwelle
 * Hochsteckfrisur
 * Braut und Hochzeitsfrisur
-* Spliss schneiden
+* Splisssschnitt mit Split-Ender 
 * Make-up
 * Braut- und Hochzeit Make-up
 * Kopfmassage
