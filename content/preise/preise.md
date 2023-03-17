@@ -8,4 +8,4 @@ date: 2022-10-06T22:44:44+02:00
 
 [Haarlängen Tabelle](/doc/haarlänge-tabelle.pdf)
 
-**Gültig ab 01.05.2020**
+**Die Preise sind gültig ab 01.05.2020**
