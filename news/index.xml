@@ -17,17 +17,6 @@
     </item>
     
     <item>
-      <title>Betriebsferien</title>
-      <link>http://example.org/news/ferien/</link>
-      <pubDate>Tue, 28 Feb 2023 10:30:41 +0200</pubDate>
-      
-      <guid>http://example.org/news/ferien/</guid>
-      <description>Samstag 10.Juni.2023 bis Montag 19.Juni.2023
-Samstag 22.Juli.2023 bis Mittwoch 02.August.2023
-Flyer</description>
-    </item>
-    
-    <item>
       <title>Messerhaarschnitt</title>
       <link>http://example.org/news/messerhaarschnitt/</link>
       <pubDate>Tue, 11 Oct 2022 10:30:41 +0200</pubDate>
