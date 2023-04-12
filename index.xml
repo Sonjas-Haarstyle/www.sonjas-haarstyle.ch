@@ -134,6 +134,16 @@ Empfehlen Sie Sonjas Haarstyle einem Freund / einer Freundin weiter und Sie beid
     </item>
     
     <item>
+      <title>Ferien</title>
+      <link>http://example.org/news/ferien/</link>
+      <pubDate>Mon, 10 Oct 2022 10:30:41 +0200</pubDate>
+      
+      <guid>http://example.org/news/ferien/</guid>
+      <description>Samstag 10 Juni 2023 bis Montag ** 19 Juni 2023**
+Samstag 22 Juli 2023 bis Mittwoch ** 02 August 2023**</description>
+    </item>
+    
+    <item>
       <title>Hochsteckfrisur</title>
       <link>http://example.org/news/hochsteckfrisur/</link>
       <pubDate>Mon, 10 Oct 2022 10:30:41 +0200</pubDate>
