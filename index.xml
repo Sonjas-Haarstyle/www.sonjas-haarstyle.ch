@@ -19,6 +19,15 @@ Flyer</description>
     </item>
     
     <item>
+      <title>Reduzierte Öffnungszeiten</title>
+      <link>http://example.org/news/%C3%B6ffnungszeiten/</link>
+      <pubDate>Mon, 10 Apr 2023 10:30:41 +0200</pubDate>
+      
+      <guid>http://example.org/news/%C3%B6ffnungszeiten/</guid>
+      <description>Wegen der Nasen OP ist das Geschäft im Moment reduziert geöffnet.</description>
+    </item>
+    
+    <item>
       <title>Ihr Coiffeur zum Entspannen in Worb</title>
       <link>http://example.org/home/motto/</link>
       <pubDate>Wed, 12 Oct 2022 22:44:44 +0200</pubDate>
