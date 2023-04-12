@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Sep 2022 22:44:44 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Ferien</title>
+      <link>http://example.org/news/ferien/</link>
+      <pubDate>Mon, 10 Apr 2023 10:30:41 +0200</pubDate>
+      
+      <guid>http://example.org/news/ferien/</guid>
+      <description>Samstag 10 Juni 2023 bis Montag 19 Juni 2023
+Samstag 22 Juli 2023 bis Mittwoch 02 August 2023
+Flyer</description>
+    </item>
+    
+    <item>
       <title>Ihr Coiffeur zum Entspannen in Worb</title>
       <link>http://example.org/home/motto/</link>
       <pubDate>Wed, 12 Oct 2022 22:44:44 +0200</pubDate>
@@ -131,16 +142,6 @@ Empfehlen Sie Sonjas Haarstyle einem Freund / einer Freundin weiter und Sie beid
       
       <guid>http://example.org/partner/peggy/</guid>
       <description>Nach der Übernahme 1995 durch die Familie Collomb, widmet sich die Firma Peggy Sage der Entwicklung eines breiten Sortiments an Make-up und Accessoires. Um Ihnen die besten Produkte und eine hohe Qualität anzubieten, sucht Peggy Sage fortlaufend neue Ideen und Erfindungen. Sie bleiben ihren professionellen Anspruch treu und ihre Produkte werden nicht an Tieren getestet. Sehr gerne bestellen wir ihnen die tollen Produkte.</description>
-    </item>
-    
-    <item>
-      <title>Ferien</title>
-      <link>http://example.org/news/ferien/</link>
-      <pubDate>Mon, 10 Oct 2022 10:30:41 +0200</pubDate>
-      
-      <guid>http://example.org/news/ferien/</guid>
-      <description>Samstag 10 Juni 2023 bis Montag ** 19 Juni 2023**
-Samstag 22 Juli 2023 bis Mittwoch ** 02 August 2023**</description>
     </item>
     
     <item>

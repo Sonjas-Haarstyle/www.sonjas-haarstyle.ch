@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Oct 2022 10:30:10 +0200</lastBuildDate><atom:link href="http://example.org/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Ferien</title>
+      <link>http://example.org/news/ferien/</link>
+      <pubDate>Mon, 10 Apr 2023 10:30:41 +0200</pubDate>
+      
+      <guid>http://example.org/news/ferien/</guid>
+      <description>Samstag 10 Juni 2023 bis Montag 19 Juni 2023
+Samstag 22 Juli 2023 bis Mittwoch 02 August 2023
+Flyer</description>
+    </item>
+    
+    <item>
       <title>Messerhaarschnitt</title>
       <link>http://example.org/news/messerhaarschnitt/</link>
       <pubDate>Tue, 11 Oct 2022 10:30:41 +0200</pubDate>
@@ -15,16 +26,6 @@
       <guid>http://example.org/news/messerhaarschnitt/</guid>
       <description>Was bewirkt der Messerhaarschnitt?
 Der Messerhaarschnitt effiliert die Haare beim Schneiden automatisch. Das heisst das Haar wird ausgefranst die Frisur bekommt weichere Linien. Der Effekt ist, sie fallen besser ineinander, es gibt mehr Volumen und Stabilität.</description>
-    </item>
-    
-    <item>
-      <title>Ferien</title>
-      <link>http://example.org/news/ferien/</link>
-      <pubDate>Mon, 10 Oct 2022 10:30:41 +0200</pubDate>
-      
-      <guid>http://example.org/news/ferien/</guid>
-      <description>Samstag 10 Juni 2023 bis Montag ** 19 Juni 2023**
-Samstag 22 Juli 2023 bis Mittwoch ** 02 August 2023**</description>
     </item>
     
     <item>
