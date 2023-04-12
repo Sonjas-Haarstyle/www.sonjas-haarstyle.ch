@@ -1,8 +1,10 @@
 ---
 title: "Ferien"
-date: 2022-10-10T10:30:41+02:00
+date: 2023-04-10T10:30:41+02:00
 ---
-Samstag **10 Juni 2023** bis Montag ** 19 Juni 2023**
+Samstag **10 Juni 2023** bis Montag **19 Juni 2023**
 ________________________________________________________________________________________________________________________________________________________
 
-Samstag **22 Juli 2023** bis Mittwoch ** 02 August 2023**
+Samstag **22 Juli 2023** bis Mittwoch **02 August 2023**
+
+[Flyer](/doc/betriebsferien2023.pdf)
