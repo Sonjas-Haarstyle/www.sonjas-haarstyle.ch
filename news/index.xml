@@ -8,15 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Oct 2022 10:30:10 +0200</lastBuildDate><atom:link href="http://example.org/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Geschlossen</title>
-      <link>http://example.org/news/geschlossen/</link>
-      <pubDate>Tue, 28 Feb 2023 22:44:44 +0200</pubDate>
-      
-      <guid>http://example.org/news/geschlossen/</guid>
-      <description>Wegen einer Nasenoperation bleibt das Geschäft vom 28.März.2023 bis 10.April.2023 geschlossen.</description>
-    </item>
-    
-    <item>
       <title>Messerhaarschnitt</title>
       <link>http://example.org/news/messerhaarschnitt/</link>
       <pubDate>Tue, 11 Oct 2022 10:30:41 +0200</pubDate>
