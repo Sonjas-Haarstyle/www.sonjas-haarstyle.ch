@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Oct 2022 10:30:10 +0200</lastBuildDate><atom:link href="http://example.org/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Reduzierte Öffnungszeiten</title>
+      <link>http://example.org/news/%C3%B6ffnungszeiten/</link>
+      <pubDate>Tue, 11 Apr 2023 10:30:41 +0200</pubDate>
+      
+      <guid>http://example.org/news/%C3%B6ffnungszeiten/</guid>
+      <description>Wegen der Nasen OP ist das Geschäft im Moment reduziert geöffnet.</description>
+    </item>
+    
+    <item>
       <title>Ferien</title>
       <link>http://example.org/news/ferien/</link>
       <pubDate>Mon, 10 Apr 2023 10:30:41 +0200</pubDate>
@@ -16,15 +25,6 @@
       <description>Samstag 10 Juni 2023 bis Montag 19 Juni 2023
 Samstag 22 Juli 2023 bis Mittwoch 02 August 2023
 Flyer</description>
-    </item>
-    
-    <item>
-      <title>Reduzierte Öffnungszeiten</title>
-      <link>http://example.org/news/%C3%B6ffnungszeiten/</link>
-      <pubDate>Mon, 10 Apr 2023 10:30:41 +0200</pubDate>
-      
-      <guid>http://example.org/news/%C3%B6ffnungszeiten/</guid>
-      <description>Wegen der Nasen OP ist das Geschäft im Moment reduziert geöffnet.</description>
     </item>
     
     <item>
