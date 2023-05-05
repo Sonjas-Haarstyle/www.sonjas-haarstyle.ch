@@ -87,5 +87,14 @@ Jetzt Termin vereinbaren.</description>
       <description></description>
     </item>
     
+    <item>
+      <title>So finden Sie uns</title>
+      <link>http://example.org/home/karte/</link>
+      <pubDate>Fri, 12 Aug 2022 22:44:44 +0200</pubDate>
+      
+      <guid>http://example.org/home/karte/</guid>
+      <description>Google Maps</description>
+    </item>
+    
   </channel>
 </rss>

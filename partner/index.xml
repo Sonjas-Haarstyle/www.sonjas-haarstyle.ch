@@ -59,5 +59,14 @@ Zum Video</description>
 Die Styling Produkte in unserem Sortiment wurden sorgfältig ausgesucht, um Sie beim Erschaffen neuer Looks zu unterstützen und den individuellen Ansprüchen eines jeden Stylings gerecht zu werden.</description>
     </item>
     
+    <item>
+      <title>Hochzeit Dienstleister</title>
+      <link>http://example.org/partner/hochzeit/</link>
+      <pubDate>Fri, 13 Sep 2019 22:44:44 +0200</pubDate>
+      
+      <guid>http://example.org/partner/hochzeit/</guid>
+      <description>https://hochzeit-selber-planen.com/</description>
+    </item>
+    
   </channel>
 </rss>
