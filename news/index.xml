@@ -86,5 +86,14 @@ Falls sie Krankheitssymptome haben oder krank sind, sagen sie Bitte ihren Termin
       <description></description>
     </item>
     
+    <item>
+      <title></title>
+      <link>http://example.org/news/preisanpassung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/news/preisanpassung/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
