@@ -40,5 +40,7 @@ image_border: ""
 
 * schneiden
 * waschen, schneiden, föhnen
+* Farbmascara
+* Flechtfrisuren
 
 [Jetzt Termin vereinbaren.](https://www.beautybooking.ch/app/booking.html?company=sonjas-haarstyle)
