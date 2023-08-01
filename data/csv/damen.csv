@@ -1,28 +1,27 @@
 Artikel,Kurz,Mittel,Lang
-"waschen, föhnen inkl. Kopfmassage",43.5,65.5,72.5
-"waschen, legen inkl. Kopfmassage",65.5,72.5,87
-"waschen, schneiden, föhnen inkl. Kopfmassage (60min / 60min / 75min)",87,91,108
-"waschen, Messerhaarschnitt, föhnen, Kopfmassage (60min / 60min / 75min)",87,91,108
-"schneiden, föhnen ( Messer oder Schere)",82,86,103
+"waschen, föhnen inkl. Kopfmassage",44,65.5,73.5
+"waschen, legen inkl. Kopfmassage",65.5,73.5,87.5
+"waschen, schneiden, föhnen inkl. Kopfmassage (60min / 60min / 75min)",87,91,108.5
+"waschen, Messerhaarschnitt, föhnen, Kopfmassage (60min / 60min / 75min)",87,91,108.5
+"schneiden, föhnen ( Messer oder Schere)",86,90,108.50
 "waschen, schneiden ( Messer oder Schere)",70.5,77.5,92
 schneiden mit Messer oder Schere (45min / 50min / 60min),65.5,72.5,87
 "Fransen, Nacken, Kontur (pro min)",1.45,1.45,1.45
 Splissschnitt mit Split-Ender  (pro 15min),,21.75,21.75
 "Hochsteckfrisur (1h / 1,5h / 2h)",98,140.5,184
-färben (nach 4 Wochen bis maximal 40g), 87,,
-färben (bis: 50g/ 70g / 100g),91,95,119
-Farbpflege auf Längen und Spitzen (während der Farbe /30g / 60g/ 90g),13,26,39.5
+färben (bis: 50g/ 70g / 100g),91.5,95,119.5
+Farbpflege auf Längen und Spitzen (während der Farbe /30g / 60g/ 90g),12,24,36
 tönen / Veredelung (bis: 40g / 60g / 80g),81,89,104
-Blond färben oder voll Blondierung / ohne Veredelung (75min / 90min / 120min),123,144,231
+Blond färben oder voll Blondierung / ohne Veredelung (75min / 90min / 120min),115,139,185
 Aufpreis ( zusätzliche Farbe ),,,12.8
 Fiberplex,20,20,20
-Schaumtönung,49,73,98
-"Folienméches (Oberkopf / Oberkopf & Seiten / ganzer Kopf)",107,155,199
-Ombré / Balayage / Air Touch ohne Abmattierung (1.5h / 2h),,160,210
+Schaumtönung,46,68,92
+"Folienméches (Oberkopf / Oberkopf & Seiten / ganzer Kopf)",103,155,195
+Ombré / Balayage / Air Touch ohne Abmattierung (1.5h / 2h),,165,210
 Ombré / Balayage / Air Touch ohne Abmattierung (2.5h / 3h),,254,290
 Haubenméches,99,,
 "Dauerwelle ganz (1,5h / 1,5h / 2h)",139,146,194
-Dauerwelle halb,129,,
+Dauerwelle halb,129,136,184
 Wedding Package,,,
 "Mini Paket, Brautfrisur & Probe (Probe 2h / Brautfrisur 1.5h)",358,,
 Standard Paket / Brautfrisur & Probe / Braut Make- up & Probe (Probe 4h / Braut Make-up & Frisur 3h),629,,
