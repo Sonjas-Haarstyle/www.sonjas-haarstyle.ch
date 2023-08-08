@@ -3,9 +3,11 @@ title: "Preisanpassung"
 date: 2023-08-27T10:30:41+02:00
 ---
 
-Damit ich meinem **Konzept treu bleiben** kann und ich **nicht parallel arbeiten** muss und weiterhin für Sie und Ihre Haare **ausreichend Zeit** nehmen kann , werden die Preise für Stammkunden am **01.September.2023** angepasst. Für Neukunden gilt die Preisliste auf anhieb.
+Damit ich meinem **Konzept treu bleiben** kann und ich mir weiterhin für Sie und Ihr Haar **ausreichend Zeit** nehmen kann, **ohne parallel arbeiten** zu mussen, werden die Preise angepasst. 
 
-Die Preise sind so berechnet , dass es in den nächsten 3 Jahren keine Preisanpassung geben wird.
+In der Rubrik Preise ist alles ersichtlich.
+Die Preisliste ligt im Salon auf
+
 
 Sollten Sie Fragen haben, stehe ich Ihnen gerne zur Verfügung.
 Ich freue mich auf eine weitere Zusammenarbeit.
