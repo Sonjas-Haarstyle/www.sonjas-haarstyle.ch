@@ -1,8 +1,9 @@
 ---
 title: "Plastik Recycling"
 date: 2019-09-13T22:44:44+02:00
-image:"/pic/partner/logo_plastic.PNG
+image: "/pic/partner/logo_plastic.PNG
 ---
+
 Ein wertvoller Rohstoff.
  
 Wir Sammeln das ganze Coiffeur Plastik. 
