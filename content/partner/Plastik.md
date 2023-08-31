@@ -17,3 +17,5 @@ Wir Entsorgen das Plastik Fachgerecht in einem Sack der in einer dafür geeignet
 Der wider verwendbaren Kunststoff wird recycelt für neue Produkte im Haushalt oder Industrie.
  
 Der nicht verwendbare Kunststoff wird vom Zementwerk verwendet als ideales Produkt für den Verbrennungsprozess.
+
+[Sammelsack](www.sammelsack.ch/)
