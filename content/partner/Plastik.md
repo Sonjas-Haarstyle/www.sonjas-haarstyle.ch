@@ -18,4 +18,4 @@ Der wider verwendbaren Kunststoff wird recycelt für neue Produkte im Haushalt o
  
 Der nicht verwendbare Kunststoff wird vom Zementwerk verwendet als ideales Produkt für den Verbrennungsprozess.
 
-[Sammelsack](www.sammelsack.ch/)
+[Sammelsack](https://sammelsack.ch/)
