@@ -8,19 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Oct 2022 10:30:10 +0200</lastBuildDate><atom:link href="http://example.org/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Berichte über Sonjas Haarstyle</title>
-      <link>http://example.org/news/job-angebot/</link>
-      <pubDate>Tue, 10 Oct 2023 10:30:41 +0200</pubDate>
-      
-      <guid>http://example.org/news/job-angebot/</guid>
-      <description>Für den gutzen Zweck
-Haare nutzen
-Logistikpartner gesucht
-Haare säubern das Meer
-Meer säubern mit deinen Haarabfällen</description>
-    </item>
-    
-    <item>
       <title>Wettbewerb</title>
       <link>http://example.org/news/kurbiswettbewerb/</link>
       <pubDate>Mon, 02 Oct 2023 22:44:44 +0200</pubDate>
@@ -78,6 +65,15 @@ Waschen Sie ihre Haare am Tag vor dem Hochsteck Termin. Verwenden Sie keine Haar
       <description>Wenn Sie noch nie die Haare gefärbt haben, bestehen wir auf einen Allergietest.
 Diesen müssen wir 48 Stunden vor der Komplettfärbung oder Tönung durchführen. Den bei einer Allergie können schwerwiegende Folgen auftreten wie z.B:
 Schwellung des Kopfes Schwellung der Augen Atemnot Blasenbildung auf der Kopfhaut Verbrennung der Kopfhaut Wir sind auf diesem Gebiet sehr gut ausgebildet und wissen, wie man richtig mit den Haarfärbemittel umgeht, deshalb lassen Sie sich lieber vom Profi ihre Haare färben, um kein Risiko einzugehen.</description>
+    </item>
+    
+    <item>
+      <title>Stellenanzeige</title>
+      <link>http://example.org/news/job-angebot/</link>
+      <pubDate>Sun, 09 Oct 2022 10:30:41 +0200</pubDate>
+      
+      <guid>http://example.org/news/job-angebot/</guid>
+      <description>Zur zeit haben wir keine Stelle frei.</description>
     </item>
     
     <item>
