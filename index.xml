@@ -8,6 +8,19 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Sep 2022 22:44:44 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Berichte über Sonjas Haarstyle</title>
+      <link>http://example.org/news/job-angebot/</link>
+      <pubDate>Tue, 10 Oct 2023 10:30:41 +0200</pubDate>
+      
+      <guid>http://example.org/news/job-angebot/</guid>
+      <description>Für den gutzen Zweck
+Haare nutzen
+Logistikpartner gesucht
+Haare säubern das Meer
+Meer säubern mit deinen Haarabfällen</description>
+    </item>
+    
+    <item>
       <title>Wettbewerb</title>
       <link>http://example.org/news/kurbiswettbewerb/</link>
       <pubDate>Mon, 02 Oct 2023 22:44:44 +0200</pubDate>
@@ -284,15 +297,6 @@ Die Styling Produkte in unserem Sortiment wurden sorgfältig ausgesucht, um Sie 
       <guid>http://example.org/spezialangebote/jugendlichenf%C3%A4rbe/</guid>
       <description>Die Schweiz hat noch kein Verbot ausgesprochen, empfiehlt es aber nicht. Haarfarben können bei Jugendlichen unter 16-jährigen allergische Reaktionen auslösen, da der Säureschutzmantel noch nicht fertig ausgebildet ist. Die Inhaltsstoffe können so direkt ins Blut gelangen. Sollten Sie trotzdem drauf bestehen, verlangen wir eine Einverständniserklärung von den Erziehungsberechtigten, wonach Sonjas Haarstyle nicht haftbar gemacht werden kann, wenn das Risiko und die Gefahr einer Allergie auftritt.
 Einverständniserklärung</description>
-    </item>
-    
-    <item>
-      <title>Offene Stelle</title>
-      <link>http://example.org/news/job-angebot/</link>
-      <pubDate>Fri, 07 Oct 2022 10:30:41 +0200</pubDate>
-      
-      <guid>http://example.org/news/job-angebot/</guid>
-      <description>Zurzeit haben wir keine Stelle frei.</description>
     </item>
     
     <item>
