@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Sep 2022 22:44:44 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Gutschein Kaufen</title>
+      <link>http://example.org/news/einkaufen/</link>
+      <pubDate>Tue, 17 Oct 2023 20:44:44 +0200</pubDate>
+      
+      <guid>http://example.org/news/einkaufen/</guid>
+      <description>Hier Einkaufen</description>
+    </item>
+    
+    <item>
       <title>Wettbewerb</title>
       <link>http://example.org/news/kurbiswettbewerb/</link>
       <pubDate>Mon, 02 Oct 2023 22:44:44 +0200</pubDate>
@@ -476,15 +485,6 @@ Die Perfektion und die Liebe zum Beruf zeichnet mich aus. So habe ich das Glück
 Wir Sammeln das ganze Coiffeur Plastik. Das bedeutet für Sie, dass Sie ihre gekauften Plastikflaschen zurück in den Salon bring können.
 Denn für die Herstellung von Plastik wird das Gold der Erde das Erdöl benötigt. Deshalb ist es umso wichtiger das Produzieren von neuem Plastik zu reduzieren. Zudem wird beim Verbrennen von 1 Kg Plastik ca. 3 Kg co2 freigesetzt das unsere Umwelt belastet.
 Wir Entsorgen das Plastik Fachgerecht in einem Sack der in einer dafür geeigneten Sortieranlage nach Qualität sortiert wird.</description>
-    </item>
-    
-    <item>
-      <title>Gutschein Kaufen</title>
-      <link>http://example.org/news/einkaufen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/news/einkaufen/</guid>
-      <description>Hier Einkaufen</description>
     </item>
     
   </channel>

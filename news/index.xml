@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Oct 2022 10:30:10 +0200</lastBuildDate><atom:link href="http://example.org/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Gutschein Kaufen</title>
+      <link>http://example.org/news/einkaufen/</link>
+      <pubDate>Tue, 17 Oct 2023 20:44:44 +0200</pubDate>
+      
+      <guid>http://example.org/news/einkaufen/</guid>
+      <description>Hier Einkaufen</description>
+    </item>
+    
+    <item>
       <title>Wettbewerb</title>
       <link>http://example.org/news/kurbiswettbewerb/</link>
       <pubDate>Mon, 02 Oct 2023 22:44:44 +0200</pubDate>
@@ -106,15 +115,6 @@ Haare nutzen
 Logistikpartner gesucht
 Haare säubern das Meer
 Meer säubern mit deinen Haarabfällen</description>
-    </item>
-    
-    <item>
-      <title>Gutschein Kaufen</title>
-      <link>http://example.org/news/einkaufen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/news/einkaufen/</guid>
-      <description>Hier Einkaufen</description>
     </item>
     
   </channel>
