@@ -6,95 +6,78 @@
     <description>Recent content in Home on Sonjas Haarstyle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Oct 2022 22:44:44 +0200</lastBuildDate><atom:link href="http://example.org/home/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Oct 2022 22:44:44 +0200</lastBuildDate>
+    <atom:link href="http://example.org/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ihr Coiffeur zum Entspannen in Worb</title>
       <link>http://example.org/home/motto/</link>
       <pubDate>Wed, 12 Oct 2022 22:44:44 +0200</pubDate>
-      
       <guid>http://example.org/home/motto/</guid>
       <description>Wir nehmen uns Zeit
 Sonjas Haarstyle bietet eine persönliche und typgerechte Beratung in Styling, Schnitt und Farbe sowie das passende Fest- und Hochzeitsstyling wie auch Braut-Make-Up. Zusätzlich zu jeder Haarwäsche können Sie in den Genuss einer kurzen entspannenden Kopfmassage kommen, welche auch in verlängerter Form gebucht werden kann.
 Sonjas Haarstyle zeichnet die Liebe zum Beruf und dem alten Handwerk aus. Das bedeutet, dass grösstenteils mit Schere und Messer geschnitten wird. Daher nehmen wir uns genügend Zeit für Sie und Ihr Anliegen.</description>
     </item>
-    
     <item>
       <title>Ihr kleiner persönlicher Coiffeursalon</title>
       <link>http://example.org/home/video_sonja/</link>
       <pubDate>Tue, 11 Oct 2022 10:30:10 +0200</pubDate>
-      
       <guid>http://example.org/home/video_sonja/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Unser Angebot</title>
       <link>http://example.org/home/dienstleistungen/</link>
       <pubDate>Mon, 10 Oct 2022 22:44:44 +0200</pubDate>
-      
       <guid>http://example.org/home/dienstleistungen/</guid>
       <description>für Damen
 waschen, schneiden, föhnen Messerhaarschnitt färben, tönen Strähnchen, Meches, Balayage, Ombré Dauerwelle Hochsteckfrisur Braut und Hochzeitsfrisur Splisssschnitt mit Split-Ender Make-up Braut- und Hochzeit Make-up Kopfmassage Augenbrauen und Wimpern färben Augenbrauen zupfen / wachsen Augenbrauen Lifting für Herren
 waschen, schneiden, föhnen Messerhaarschnitt Trockenhaarschnitt (nur möglich frisch gewaschen) Maschinen Haarschnitt färben, tönen, Meches Kopfmassage Augenbrauen und Wimpern färben Augenbrauen zupfen / wachsen Augenbrauen Lifting für Kinder
 schneiden waschen, schneiden, föhnen Farbmascara Flechtfrisuren Jetzt Termin vereinbaren.</description>
     </item>
-    
     <item>
       <title>Das sagt Nicolina über uns</title>
       <link>http://example.org/home/kunden_nicole/</link>
       <pubDate>Sun, 09 Oct 2022 22:44:44 +0200</pubDate>
-      
       <guid>http://example.org/home/kunden_nicole/</guid>
       <description>Bei Sonja schätze ich sehr ihre Freundlichkeit und ihre entgegengebrachte Zeit für mein Haar und Anliegen. Durch ihre zahlreichen Weiterbildungen ist sie immer auf dem neuesten Stand und gibt ihr Wissen an ihre Kundschaft weiter. Sonja ist eine kompetente Frisörin.</description>
     </item>
-    
     <item>
       <title>Das sagt Dorli über uns</title>
       <link>http://example.org/home/kunden_dorli/</link>
       <pubDate>Sat, 08 Oct 2022 22:44:44 +0200</pubDate>
-      
       <guid>http://example.org/home/kunden_dorli/</guid>
       <description>Sonja versteht ihr Handwerk. Jedes Mal verlasse ich den Salon mit einer Superfrisur. Bei spontanen Anrufen versucht sie mir, so schnell wie möglich einen Termin zu geben. Das schätze ich bei Ihr sehr.</description>
     </item>
-    
     <item>
       <title>Das sagen Christine &amp; Martin über uns</title>
       <link>http://example.org/home/kunden_christine_martin/</link>
       <pubDate>Fri, 07 Oct 2022 22:44:44 +0200</pubDate>
-      
       <guid>http://example.org/home/kunden_christine_martin/</guid>
       <description>Sonja ist immer gut gelaunt und empfängt uns jedes Mal mit einem Lächeln. Wir schätzen an ihr, dass man Wünsche anbringen kann und sie das Beste mögliche rausholt, sodass die Frisur immer stimmt.</description>
     </item>
-    
     <item>
       <title>Das sagt Daniela über uns</title>
       <link>http://example.org/home/kunden_daniela/</link>
       <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
-      
       <guid>http://example.org/home/kunden_daniela/</guid>
       <description>Sonja nimmt sich Zeit, geht auf die Wünsche der Kunden ein und ist immer gut gelaunt und freundlich.
 Ich bin total begeistert von Ihrer Färbetechnik bei der Balayage, es sieht danach immer sehr natürlich aus.
 Absolut empfehlenswert ist nach dem Haarewaschen das Verwöhnprogramm mit der Kopfmassage. Ein Besuch bei Sonjas Haarstyle ist wie ein Wellnessbesuch.
 Jetzt Termin vereinbaren.</description>
     </item>
-    
     <item>
       <title>Was zeichnet uns aus</title>
       <link>http://example.org/home/kraftbilder/</link>
       <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
-      
       <guid>http://example.org/home/kraftbilder/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>So finden Sie uns</title>
       <link>http://example.org/home/karte/</link>
       <pubDate>Fri, 12 Aug 2022 22:44:44 +0200</pubDate>
-      
       <guid>http://example.org/home/karte/</guid>
       <description>Google Maps</description>
     </item>
-    
   </channel>
 </rss>

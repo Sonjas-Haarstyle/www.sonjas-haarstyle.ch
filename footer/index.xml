@@ -6,37 +6,32 @@
     <description>Recent content in Footers on Sonjas Haarstyle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Sep 2022 22:44:44 +0200</lastBuildDate><atom:link href="http://example.org/footer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Sep 2022 22:44:44 +0200</lastBuildDate>
+    <atom:link href="http://example.org/footer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Datenschutz und Impressum</title>
       <link>http://example.org/footer/datenschutz-impressum/</link>
       <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
-      
       <guid>http://example.org/footer/datenschutz-impressum/</guid>
       <description>Datenschutz
 Impressum</description>
     </item>
-    
     <item>
       <title>Kontakt</title>
       <link>http://example.org/footer/kontakt/</link>
       <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
-      
       <guid>http://example.org/footer/kontakt/</guid>
       <description>Sonjas-Haarstyle
 Vechigenstrasse 16
 3076 Worb
 +41 31 832 41 94</description>
     </item>
-    
     <item>
       <title>Öffnungszeiten</title>
       <link>http://example.org/footer/time/</link>
       <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
-      
       <guid>http://example.org/footer/time/</guid>
-      <description> Montag Geschlossen Dienstag 08:00 - 12:00, 13:30 - 20:00 Mittwoch 10:00 - 12:00, 13:30 - 20:00 Donnerstag 08:00 - 12:00, 13:30 - 18:30 Freitag 08:00 - 17:00 Samstag 08:00 - 14:00 Sonntag Geschlossen </description>
+      <description> Montag Geschlossen Dienstag 08:00 - 12:00, 14:00 - 20:00 Mittwoch 10:00 - 12:00, 14:00 - 20:00 Donnerstag 08:00 - 12:00, 14:00 - 18:30 Freitag 08:00 - 12:00, 13:00 - 17:00 Samstag 08:00 - 14:00 Sonntag Geschlossen </description>
     </item>
-    
   </channel>
 </rss>
