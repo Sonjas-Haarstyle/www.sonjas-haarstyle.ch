@@ -9,11 +9,11 @@
     <lastBuildDate>Fri, 07 Oct 2022 10:30:10 +0200</lastBuildDate>
     <atom:link href="http://example.org/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ÖFFNUNGSZEITEN</title>
+      <title>Kürbiswettbewerb</title>
       <link>http://example.org/news/offnugszeit/</link>
       <pubDate>Mon, 11 Dec 2023 22:44:44 +0200</pubDate>
       <guid>http://example.org/news/offnugszeit/</guid>
-      <description>Neue Öffnungszeiten im 2024</description>
+      <description>unsere diesjährigen Gewiner</description>
     </item>
     <item>
       <title>Gutschein</title>
