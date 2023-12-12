@@ -9,18 +9,18 @@
     <lastBuildDate>Mon, 12 Sep 2022 22:44:44 +0200</lastBuildDate>
     <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ÖFFNUNGSZEITEN</title>
+      <link>http://example.org/news/kurbiswettbewerb/</link>
+      <pubDate>Mon, 11 Dec 2023 22:44:44 +0200</pubDate>
+      <guid>http://example.org/news/kurbiswettbewerb/</guid>
+      <description>Neue Öffnungszeiten im 2024</description>
+    </item>
+    <item>
       <title>Gutschein</title>
       <link>http://example.org/news/einkaufen/</link>
       <pubDate>Tue, 17 Oct 2023 20:44:44 +0200</pubDate>
       <guid>http://example.org/news/einkaufen/</guid>
       <description>Hier Einkaufen</description>
-    </item>
-    <item>
-      <title>Wettbewerb</title>
-      <link>http://example.org/news/kurbiswettbewerb/</link>
-      <pubDate>Mon, 02 Oct 2023 22:44:44 +0200</pubDate>
-      <guid>http://example.org/news/kurbiswettbewerb/</guid>
-      <description>Gewinner Kürbiswettbewerb</description>
     </item>
     <item>
       <title>Preisanpassung</title>
