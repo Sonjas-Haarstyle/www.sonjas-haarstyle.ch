@@ -1,5 +1,5 @@
 ---
-title: Wettbewerb
-date: 2023-10-02T22:44:44+02:00
+title: ÖFFNUNGSZEITEN 
+date: 2023-12-11T22:44:44+02:00
 ---
-[Gewinner Kürbiswettbewerb](/pic/Kurbiswettbewerb.png)
+[Neue Öffnungszeiten im 2024](/pic/Öffnungszeit2024.JPEG)
