@@ -8,6 +8,8 @@ videos:
       title: Entspannungs-Kopfmassage bei Sonjas Haarstyle
 ---
 
+[Recycling im Coiffeursalon](https://worberpost.ch/recycling-im-coiffeursalon-haare-als-oelsperren-auf-unseren-ozeanen/)
+
 [Für den gutzen Zweck](https://www.bern-ost.ch/Fuer-einen-Guten-Zweck--nimmt-Abschied-von-ihren-langen-Haaren-595269)
 
 [Haare nutzen](https://www.beauty-forum.ch/aktuell/artikel/haare-nutzen-42099.html?&searchword=Haare%20nutzen%20&ref=search)
