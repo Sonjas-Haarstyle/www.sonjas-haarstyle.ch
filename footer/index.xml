@@ -13,18 +13,14 @@
       <link>http://example.org/footer/datenschutz-impressum/</link>
       <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
       <guid>http://example.org/footer/datenschutz-impressum/</guid>
-      <description>Datenschutz
-Impressum</description>
+      <description>Datenschutz&#xA;Impressum</description>
     </item>
     <item>
       <title>Kontakt</title>
       <link>http://example.org/footer/kontakt/</link>
       <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
       <guid>http://example.org/footer/kontakt/</guid>
-      <description>Sonjas-Haarstyle
-Vechigenstrasse 16
-3076 Worb
-+41 31 832 41 94</description>
+      <description>Sonjas-Haarstyle&#xA;Vechigenstrasse 16&#xA;3076 Worb&#xA;+41 31 832 41 94</description>
     </item>
     <item>
       <title>Öffnungszeiten</title>
