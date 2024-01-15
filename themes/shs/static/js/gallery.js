@@ -31,7 +31,7 @@
                 `
         state.setSource(state)
         return state
-    }
+    };
 
 
     const setPicture = state => {
@@ -40,7 +40,7 @@
         image.setAttribute("src", state.pictures[state.imageIndex]);
         
         return state
-    }
+    };
 
 
 
@@ -51,11 +51,9 @@
         image.setAttribute("src", state.pictures[state.imageIndex].src);
         image.setAttribute("title", state.pictures[state.imageIndex].title);
         
-        const gallery = document.getElementById("gallery-image");
-
         
         return state;
-    }
+    };
 
 
     // needed for the euklidian modulo
@@ -65,20 +63,20 @@
             return nm
 
         return m + nm 
-    }
+    };
 
     const lastIndex = state => ({
         ...state,
         imageIndex: modulo(state.imageIndex - 1, state.pictures.length)
-    })
+    });
 
     const nextIndex = state => ({
         ...state,
         imageIndex: modulo(state.imageIndex + 1, state.pictures.length)
-    })
+    });
 
-    const next = state => setPicture (nextIndex (state)) 
-    const last = state => setPicture (lastIndex (state)) 
+    const next = state => setPicture (nextIndex (state));
+    const last = state => setPicture (lastIndex (state));
 
 
 
