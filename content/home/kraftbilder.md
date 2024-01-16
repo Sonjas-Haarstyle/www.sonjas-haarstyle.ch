@@ -11,6 +11,6 @@ icons:
     - icon: "/svgs/herz.svg"
       text: "100% persönlicher Service"
     - icon: "/svgs/zeit.svg"
-      text: "2x die Woche 
+      text: "1x die Woche 
       bis 20.00 geöffnet"
 ---
