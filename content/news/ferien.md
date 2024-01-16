@@ -1,6 +1,6 @@
 ---
 title: "Ferien"
-date: 2023-04-10T10:30:41+02:00
+date: 2024-01-15T10:30:41+02:00
 ---
 **14.Februar.2024** ab **14.00 Uhr** geschlossen
 
