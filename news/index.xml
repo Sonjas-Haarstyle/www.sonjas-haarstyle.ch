@@ -9,18 +9,18 @@
     <lastBuildDate>Fri, 07 Oct 2022 10:30:10 +0200</lastBuildDate>
     <atom:link href="http://example.org/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Ferien</title>
+      <link>http://example.org/news/ferien/</link>
+      <pubDate>Mon, 15 Jan 2024 10:30:41 +0200</pubDate>
+      <guid>http://example.org/news/ferien/</guid>
+      <description>14.Februar.2024 ab 14.00 Uhr geschlossen&#xA;15.März.2024 ganzertag geschlossen.&#xA;29.März.2024 Karfreitag geschlossen&#xA;30.März.2024 Ostersamstag geschlossen&#xA;08.Mai.2024- 11 Mai.2024 geschlossen (Karfreitag)</description>
+    </item>
+    <item>
       <title>Gutschein</title>
       <link>http://example.org/news/einkaufen/</link>
       <pubDate>Tue, 17 Oct 2023 20:44:44 +0200</pubDate>
       <guid>http://example.org/news/einkaufen/</guid>
       <description>Hier Einkaufen</description>
-    </item>
-    <item>
-      <title>Ferien</title>
-      <link>http://example.org/news/ferien/</link>
-      <pubDate>Mon, 10 Apr 2023 10:30:41 +0200</pubDate>
-      <guid>http://example.org/news/ferien/</guid>
-      <description>14.Februar.2024 ab 14.00 Uhr geschlossen&#xA;15.März.2024 ganzertag geschlossen.&#xA;29.März.2024 Karfreitag geschlossen&#xA;30.März.2024 Ostersamstag geschlossen&#xA;08.Mai.2024- 11 Mai.2024 geschlossen (Karfreitag)</description>
     </item>
     <item>
       <title>Messerhaarschnitt</title>
