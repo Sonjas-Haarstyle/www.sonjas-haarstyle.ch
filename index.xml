@@ -9,6 +9,13 @@
     <lastBuildDate>Mon, 12 Sep 2022 22:44:44 +0200</lastBuildDate>
     <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Nachwuchs</title>
+      <link>http://example.org/news/nachwuchs/</link>
+      <pubDate>Tue, 23 Jan 2024 22:44:44 +0200</pubDate>
+      <guid>http://example.org/news/nachwuchs/</guid>
+      <description>Liebe Kundschaft im Juni 2024 gibt es änderungen. Wir erwarten Nachwuchs. Wir sind im moment alles am Organisieren und werden Sie auf dem Laufenden halten.</description>
+    </item>
+    <item>
       <title>Betriebsferien</title>
       <link>http://example.org/news/ferien/</link>
       <pubDate>Mon, 15 Jan 2024 10:30:41 +0200</pubDate>
