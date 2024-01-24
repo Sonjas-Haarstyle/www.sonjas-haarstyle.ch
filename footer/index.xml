@@ -27,7 +27,7 @@
       <link>http://example.org/footer/time/</link>
       <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
       <guid>http://example.org/footer/time/</guid>
-      <description> Montag Geschlossen Dienstag 08:00 - 12:00, 14:00 - 20:00 Mittwoch 10:00 - 12:00, 14:00 - 17:00 Donnerstag 08:00 - 12:00, 14:00 - 18:30 Freitag 08:00 - 12:00, 13:00 - 17:00 Samstag 08:00 - 14:00 Sonntag Geschlossen </description>
+      <description> Montag Geschlossen Dienstag 08:00 - 12:00, 15:00 - 20:00 Mittwoch 10:00 - 12:00, 14:00 - 17:00 Donnerstag 08:00 - 12:00, 14:00 - 18:30 Freitag 08:00 - 12:00, 13:00 - 17:00 Samstag 08:00 - 14:00 Sonntag Geschlossen </description>
     </item>
   </channel>
 </rss>
