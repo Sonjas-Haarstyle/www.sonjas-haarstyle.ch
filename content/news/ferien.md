@@ -2,8 +2,6 @@
 title: "Betriebsferien"
 date: 2024-01-15T10:30:41+02:00
 ---
-**14.Februar.2024** ab **14.00 Uhr** geschlossen (Valentinstag)
-
 **15.März.2024 - 16.März.2024** geschlossen.
 
 **29.März.2024** geschlossen (Karfreitag)
