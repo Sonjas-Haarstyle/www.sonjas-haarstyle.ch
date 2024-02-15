@@ -323,5 +323,12 @@
       <guid>http://example.org/partner/plastik/</guid>
       <description>Ein wertvoller Rohstoff.&#xA;Wir Sammeln das ganze Coiffeur Plastik. Das bedeutet für Sie, dass Sie ihre gekauften Plastikflaschen zurück in den Salon bring können.&#xA;Denn für die Herstellung von Plastik wird das Gold der Erde das Erdöl benötigt. Deshalb ist es umso wichtiger das Produzieren von neuem Plastik zu reduzieren. Zudem wird beim Verbrennen von 1 Kg Plastik ca. 3 Kg co2 freigesetzt das unsere Umwelt belastet.&#xA;Wir Entsorgen das Plastik Fachgerecht in einem Sack der in einer dafür geeigneten Sortieranlage nach Qualität sortiert wird.</description>
     </item>
+    <item>
+      <title></title>
+      <link>http://example.org/haarfarben/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/haarfarben/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
