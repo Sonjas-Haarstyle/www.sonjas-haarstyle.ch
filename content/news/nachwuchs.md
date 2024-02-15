@@ -15,5 +15,5 @@ Voraussichtlich ab 24. Oktober.2024 werde ich wieder zurück sein.
 Arbeitszeit ab Oktober 2024
 **Donnerstag:** 8:00 - 12:00 / 13:30 - 20:00 
 **Freitag:** 12:00 - 15:00 
-**Samstag:** 8:00 -12:00 / 13:00 - 16:oo 
+**Samstag:** 8:00 -12:00 / 13:00 - 16:00
 
