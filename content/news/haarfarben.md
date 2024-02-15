@@ -6,4 +6,4 @@ date: 2024-02-14T10:30:41+02:00
 Leider müssen wir auf neue Haarfarben umstellen, da die Firma in naher Zukunft eingestellt wird.
 Wir werden wahrscheinlich auf die **italienische Firma Alter Ego** umsteigen, bevor die ganze Umstellung vor sich geht werden wir die neuen Farben mit Ihnen zusammen testen.
 Es ist nicht nur für Sie eine Umstellung, sondern auch für mich wird es eine reisen grosse Umstellung nach fast 9 Jahren.
-Mit Zuversicht finden wir Farben, die Ihren und meinen Ansprüchen entspricht.
+Mit grosser Zuversicht kann die Firma Alter Ego Ihren und meinen Ansprüchen entsprechen.
