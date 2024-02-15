@@ -6,9 +6,9 @@ date: 2024-01-23T22:44:44+02:00
 Liebe Kundschaft, im **Juni 2024** gibt es Änderungen.
 **Wir erwarten Nachwuchs**
 
-Vorausichtlich arbeite ich  bis 15.Juni.2024.
+Vorausichtlich arbeite ich  bis 15. Juni.2024.
 **Während des Mutterschaftsurlaub bleibt das Geschäft geschlossen.**
-Voraussichtlich ab 24.Oktober.2024 werde ich wieder zurück sein.
+Voraussichtlich ab 24. Oktober.2024 werde ich wieder zurück sein.
 
 
 
