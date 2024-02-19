@@ -6,11 +6,11 @@ date: 2024-01-23T22:44:44+02:00
 Liebe Kundschaft, im **Juni 2024** gibt es Änderungen.
 **Wir erwarten Nachwuchs.**
 
-- Vorausichtlich arbeite ich  bis 15. Juni.2024. ***Wird laufend nach Gesundheitszustand angepasst.***
+- Vorausichtlich arbeite ich  bis 15. Juni.2024. ###***Wird laufend nach Gesundheitszustand angepasst.***
 
 - **Während des Mutterschaftsurlaub bleibt das Geschäft geschlossen.**
 
-- Voraussichtlich ab 24. Oktober.2024 werde ich wieder zurück sein. ***Wird laufend nach Gesundheitszustand angepasst.***
+- Voraussichtlich ab 24. Oktober.2024 werde ich wieder zurück sein. ###***Wird laufend nach Gesundheitszustand angepasst.***
 
 
 
