@@ -10,7 +10,7 @@ Liebe Kundschaft, im **Juni 2024** gibt es Änderungen.
 
 - **Während des Mutterschaftsurlaub bleibt das Geschäft geschlossen.**
 
-- Voraussichtlich ab 24. Oktober.2024 werde ich wieder zurück sein. ***Wird laufend nach Gesundheitszustand angepasst.***
+- Voraussichtlich ab 24. Oktober.2024 werde ich wieder zurück sein. 
 
 
 
