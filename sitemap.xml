@@ -174,8 +174,6 @@
   </url><url>
     <loc>http://example.org/categories/</loc>
   </url><url>
-    <loc>http://example.org/news/%C3%B6ffnungszeit/</loc>
-  </url><url>
     <loc>http://example.org/tags/</loc>
   </url>
 </urlset>

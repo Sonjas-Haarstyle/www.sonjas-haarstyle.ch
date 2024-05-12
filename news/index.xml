@@ -78,12 +78,5 @@
       <guid>http://example.org/news/videos_recylcing-copy/</guid>
       <description>Recycling im Coiffeursalon&#xA;Für den gutzen Zweck&#xA;Haare nutzen&#xA;Logistikpartner gesucht&#xA;Haare säubern das Meer&#xA;Meer säubern mit deinen Haarabfällen</description>
     </item>
-    <item>
-      <title>Neue Öffnungzeit ab 19.03.2024</title>
-      <link>http://example.org/news/%C3%B6ffnungszeit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/news/%C3%B6ffnungszeit/</guid>
-      <description> Montag: Geschlossen Dienstag: 15:00 bis 19:00 Mittwoch: 10:00 bis 12:00 / 14:00 bis 17:00 Donnerstag: 8:00 bis 12:00 Freitag: 13:00 bis 16:30 Samstag: 8:00 bis 12:00 </description>
-    </item>
   </channel>
 </rss>
