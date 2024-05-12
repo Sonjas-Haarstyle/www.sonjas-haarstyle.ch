@@ -10,4 +10,4 @@ Zudem erhalten Sie faszinierende Farbreflexe sowie absolut gepflegte Haare.
 Die Abdeckung grauer Haare ist zu 100 % garantiert.
 Ein erfreulicher Punkt ist, dass hinter der Marke Venice ein Schweizer Produzent steckt.
 
-Leider müssen wir auf neue Farben umstellen, da die Firma in naher Zukunft ihre Farbherstellung einstellt.
+Leider müssen wir auf neue Farben umstellen, da die Firma Mitte Jahr ihre Farbherstellung einstellt.
