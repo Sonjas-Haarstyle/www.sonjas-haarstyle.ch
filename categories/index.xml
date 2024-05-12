@@ -4,7 +4,7 @@
     <title>Categories on Sonjas Haarstyle</title>
     <link>http://example.org/categories/</link>
     <description>Recent content in Categories on Sonjas Haarstyle</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
