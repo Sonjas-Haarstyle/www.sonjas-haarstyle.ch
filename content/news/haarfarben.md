@@ -3,7 +3,8 @@ title: "Einstellung der Venice Haarfarben"
 date: 2024-02-14T10:30:41+02:00
 ---
 
-Leider müssen wir auf neue Haarfarben umstellen, da die Firma Mitte Jahr die Produktion einstellt.
-Wir stellen auf die **italienische Firma Alter Ego** um. 
+Ab Oktober 2024 werden die Haarfarben auf **Alter Ego italy** umgestellt.
+Wir freuen uns sehr, mit den neuen Farben zu arbeiten.
 
-Für sie gibt es keine grossen Veränderungen, da die Farben im gleichen Preissegment wie Venice sind, gibt es zurzeit keine Preiserhöhung und wir können wieder Tönen und Färben mit der gleichen Tube, so haben sie beim Tönen keine Einschränkungen.
+Die Farben sind sehr ähnlich zu den Venice-Haarfarben, sodass sie ihre gewohnte Farbe beibehalten können. 
+Lassen auch Sie sich von den neuen Haarfarben überzeugen.
