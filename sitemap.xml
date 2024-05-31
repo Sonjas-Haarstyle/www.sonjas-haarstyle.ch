@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://example.org/home/mutterschaftsurlaub/</loc>
+    <lastmod>2024-05-30T22:44:44+02:00</lastmod>
+  </url><url>
     <loc>http://example.org/news/mutterschaftsurlaub/</loc>
     <lastmod>2024-02-25T22:44:44+02:00</lastmod>
   </url><url>
@@ -171,8 +174,6 @@
     <lastmod>2019-09-13T22:44:44+02:00</lastmod>
   </url><url>
     <loc>http://example.org/haarfarben/</loc>
-  </url><url>
-    <loc>http://example.org/home/mutterschaftsurlaub/</loc>
   </url><url>
     <loc>http://example.org/categories/</loc>
   </url><url>
