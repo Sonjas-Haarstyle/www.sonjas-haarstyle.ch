@@ -3,9 +3,6 @@ title: Mutterschaftsurlaub
 date: 2024-02-25T22:44:44+02:00
 ---
 
-Liebe Kundschaft, im **Juni 2024** gibt es Änderungen.
-**Wir erwarten Nachwuchs.**
-
 - Ab **01.06.2024** gehe ich in den Mutterschaftsurlaub, das Geschäft bleibt **geschlossen**.
 
 - Ab September 2024 werde ich das genaue Datum bekannt geben, wann ich im Oktober zurück bin.
