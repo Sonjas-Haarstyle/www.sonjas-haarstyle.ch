@@ -1,8 +1,6 @@
 {{ define "main" }}
-    {{range .Site.Pages}}
-        {{if and (eq .Section "home") (not (eq .Path "home/_index.md"))}}
-  
-
+    {{ range .Site.Pages}}
+        {{ if and (eq .Section "home") (not (eq .Path "home/_index.md"))}}
             <div class="
                 grid 
 
@@ -14,8 +12,10 @@
                 border-2 border-shs
             "
             >
+
+
             {{if isset .Params "image" }}
-                <img 
+                <img
                     class="
                         
                     mx-auto

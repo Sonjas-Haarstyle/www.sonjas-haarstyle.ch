@@ -43,7 +43,7 @@ jobs:
          rm -r tmp 
 
          touch CNAME
-         # echo "www.nidesso.ch" >> CNAME
+         # echo "www.sonjas-haarstyle.ch" >> CNAME
          
          git config --global user.email "build@sonjas-haarstyle.ch"
          git config --global user.name "Build Job"

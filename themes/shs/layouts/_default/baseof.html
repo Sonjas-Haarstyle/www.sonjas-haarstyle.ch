@@ -8,10 +8,31 @@ xl:mx-72
 bg-black
 ">
     {{- partial "head.html" . -}}
+
     <body class="bg-zinc-900">
-        {{- partial "header.html" . -}}
 
 
+    <dialog
+            class=""
+            open>
+        <p>
+            Liebe Kundschaft
+
+            Ich bin bis Oktober im Mutterschaftsurlaub.
+            Wann ich genau wieder anfange zu arbeiten, können Sie unter der Rubrik News sehen.
+            Sollten Sie in dieser Zeit Produkte brauchen, können Sie mich per WhatsApp, E-Mail oder einen Zettel in den Briefkasten werfen.
+            Ich werde mich so schnell wie möglich bei Ihnen melden für die Abholung der Produkte.
+        </p>
+        <form method="dialog">
+            <button
+            class="border-red"
+            >
+                <a>ok</a></button>
+        </form>
+    </dialog>
+
+
+    {{- partial "header.html" . -}}
 
         <article id="content"
             class="border-black

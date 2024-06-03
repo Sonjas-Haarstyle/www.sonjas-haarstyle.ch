@@ -1,12 +1,12 @@
 # run hugo
 
+Hugo kann mit folgendem Command einen Webserver hochfahren, welcher die Hugo Templates jit rendert.
 
     hugo serve
 
-
-
 ## dns entries
 
+Folgnde DNS entries wurden auf hosttech gesetzt
 
     * SOA Record
     DomainE-MailSeriennummerPrimärer NS
