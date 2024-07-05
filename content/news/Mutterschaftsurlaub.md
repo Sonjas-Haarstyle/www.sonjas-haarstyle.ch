@@ -8,7 +8,7 @@ gingen lange Zeit allein.
 Jetzt gehen bald auf Schritt und Tritt, 
 zwei winzig kleine Füßlein mit.
 
-[Alessio Vincenzo Lehmann]((https://geburten.dregion.ch/fotoarchiv/2024/juni-2024?zoom=b0f7103f-b8ae-40de-9046-18debcb497e8))
+[Alessio Vincenzo Lehmann](https://geburten.dregion.ch/fotoarchiv/2024/juni-2024?zoom=b0f7103f-b8ae-40de-9046-18debcb497e8)
 **22.06.2024**
 
 
