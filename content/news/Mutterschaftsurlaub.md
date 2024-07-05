@@ -3,10 +3,16 @@ title: Mutterschaftsurlaub
 date: 2024-02-25T22:44:44+02:00
 ---
 
-- Ab **01.06.2024** gehe ich in den Mutterschaftsurlaub, das Geschäft bleibt **geschlossen**.
+Vier Füße, groß bis mittelklein, 
+gingen lange Zeit allein. 
+Jetzt gehen bald auf Schritt und Tritt, 
+zwei winzig kleine Füßlein mit.
 
-- Ab September 2024 werde ich das genaue Datum bekannt geben, wann ich im Oktober zurück bin.
+Alessio Vincenzo Lehmann
+**22.06.2024**
 
+
+- Vorausichtlich wird ab **Donnerstag 18.10.2024** das Geschäft wider geöffnet sein.
 
 
 ***Arbeitszeit ab Oktober 2024***
