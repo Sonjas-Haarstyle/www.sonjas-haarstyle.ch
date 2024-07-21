@@ -1,5 +1,5 @@
 ---
-title: "Hygiene im Friseursalon"
+title: "Hygiene im Friseursalon ist Bestandteil der Ausbildung und gehört zur täglichen Arbeit bei uns im Salon."
 date: 2024-07-19T10:30:41+02:00
 ---
 So schützen wir uns und unsere Kundschaft:
