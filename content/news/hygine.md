@@ -2,7 +2,7 @@
 title: "Hygiene im Friseursalon"
 date: 2024-07-19T10:30:41+02:00
 ---
-So schützen wir uns:
+So schützen wir uns und unsere Kundschaft:
 
 - Falls Sie **Krankheitssymptome** haben, krank sind oder **Hautpilz** oder **Läuse** auf dem Kopf haben, sagen Sie bitte ihren Termin ab. Sonst müssen wir sie ohne vollendete Dienstleistungen wieder nach Hause schicken und ihre gebuchte Zeit in Rechnung stellen.
 - Maskenpflicht bei Husten, Schnupfen und Erkältungssymptomen wenn wir es wärend der Behandlung bemerken.
