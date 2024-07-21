@@ -4,7 +4,7 @@ date: 2022-10-06T10:30:41+02:00
 ---
 So schützen wir uns:
 
-- Falls sie Krankheitssymptome haben oder krank sind, sagen sie Bitte ihren Termin ab. Sonst müssen wir sie ohne vollendete Dienstleistungen wieder nach Hause schicken und ihre gebuchte Zeit in Rechnung stellen.
+- Falls Sie **Krankheitssymptome** haben, krank sind oder **Hautpilz** oder **Läuse** auf dem Kopf haben, sagen Sie bitte ihren Termin ab. Sonst müssen wir sie ohne vollendete Dienstleistungen wieder nach Hause schicken und ihre gebuchte Zeit in Rechnung stellen.
 - Maskenpflicht bei Husten, Schnupfen und Erkältungssymptomen wenn wir es wärend der Behandlung bemerken.
 - Sie erhalten einen frischen Frisierumhang.
 - Ihr Stuhl, sämtliche Arbeitsflächen sowie alle Arbeitsgeräte werden nach jedem/ jeder Kunde:in gründlich desinfiziert.
