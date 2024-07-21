@@ -5,6 +5,9 @@
     <loc>http://example.org/news/vorsicht-ansteckend/</loc>
     <lastmod>2024-07-20T10:30:41+02:00</lastmod>
   </url><url>
+    <loc>http://example.org/news/hygine/</loc>
+    <lastmod>2024-07-19T10:30:41+02:00</lastmod>
+  </url><url>
     <loc>http://example.org/news/mutterschaftsurlaub/</loc>
     <lastmod>2024-06-22T22:44:44+02:00</lastmod>
   </url><url>
@@ -100,9 +103,6 @@
   </url><url>
     <loc>http://example.org/spezialangebote/</loc>
     <lastmod>2022-10-06T10:41:52+02:00</lastmod>
-  </url><url>
-    <loc>http://example.org/news/hygine/</loc>
-    <lastmod>2022-10-06T10:30:41+02:00</lastmod>
   </url><url>
     <loc>http://example.org/team/</loc>
     <lastmod>2022-10-05T22:44:44+02:00</lastmod>
