@@ -12,7 +12,7 @@ zwei winzig kleine Füßlein mit.
 **22.06.2024**
 
 
-- Vorausichtlich wird ab **Donnerstag 18.10.2024** das Geschäft wider geöffnet sein.
+- Ab **Donnerstag 17.10.2024** bin ich wieder zurück vom Mutterschaftsurlaub.
 
 
 ***Arbeitszeit ab Oktober 2024***
@@ -23,5 +23,5 @@ zwei winzig kleine Füßlein mit.
 
 **Samstag:** 8:00 -12:00 / 13:00 - 16:00
 
-Die Arbeitszeiten können sich noch verschieben, die Tage bleiben jedoch Fix.
+
 
