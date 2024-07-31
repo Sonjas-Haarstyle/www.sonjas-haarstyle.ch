@@ -1,7 +1,9 @@
 ---
-title: "Hygiene im Friseursalon ist Bestandteil der Ausbildung und gehört zur täglichen Arbeit bei uns im Salon dazu."
+title: "Hygiene"
 date: 2024-07-19T10:30:41+02:00
 ---
+Im Friseursalon ist die Hygiene Bestandteil der Ausbildung und gehört zur täglichen Arbeit bei uns im Salon dazu.
+
 So schützen wir uns und unsere Kundschaft:
 
 - Falls Sie **Krankheitssymptome** wie Husten, Schnupfen etc. haben, einen **Hautpilz** oder **Läuse** auf dem Kopf haben, sagen Sie bitte ihren Termin ab. Sonst müssen wir sie ohne vollendete Dienstleistungen wieder nach Hause schicken und ihre gebuchte Zeit in Rechnung stellen.
