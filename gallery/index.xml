@@ -13,7 +13,7 @@
       <link>http://example.org/gallery/pictures/</link>
       <pubDate>Tue, 04 Oct 2022 10:41:52 +0200</pubDate>
       <guid>http://example.org/gallery/pictures/</guid>
-      <description>Unsere Arbeiten.</description>
+      <description>&lt;p&gt;Unsere Arbeiten.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

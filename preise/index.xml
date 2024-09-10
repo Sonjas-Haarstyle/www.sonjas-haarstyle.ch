@@ -27,7 +27,7 @@
       <link>http://example.org/preise/kinder/</link>
       <pubDate>Sun, 09 Oct 2022 22:44:44 +0200</pubDate>
       <guid>http://example.org/preise/kinder/</guid>
-      <description> Kinder mit waschen + CHF 5.- </description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Kinder mit waschen + CHF 5.-&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Kopfmassage</title>
@@ -48,7 +48,7 @@
       <link>http://example.org/preise/preise/</link>
       <pubDate>Thu, 06 Oct 2022 22:44:44 +0200</pubDate>
       <guid>http://example.org/preise/preise/</guid>
-      <description>Alle Preise sind in CHF und inklusive MWST. EC-Karten Gebühren gehen zulasten des Kunden. Unsere Preise richten sich nach Haarlänge und Zeitaufwand. Haarlängen Tabelle&#xA;Die Preise sind gültig ab 01.09.2023</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Alle Preise sind in CHF und inklusive MWST.&lt;/li&gt;&#xA;&lt;li&gt;EC-Karten Gebühren gehen zulasten des Kunden.&lt;/li&gt;&#xA;&lt;li&gt;Unsere Preise richten sich nach Haarlänge und Zeitaufwand.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://example.org/doc/haarl%C3%A4nge-tabelle.pdf&#34;&gt;Haarlängen Tabelle&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Die Preise sind gültig ab 01.09.2023&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

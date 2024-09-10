@@ -13,21 +13,21 @@
       <link>http://example.org/footer/datenschutz--impressum/</link>
       <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
       <guid>http://example.org/footer/datenschutz--impressum/</guid>
-      <description>Datenschutz&#xA;Impressum</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://example.org/doc/Datenschutz.pdf&#34;&gt;Datenschutz&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://example.org/doc/Impresium.pdf&#34;&gt;Impressum&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kontakt</title>
       <link>http://example.org/footer/kontakt/</link>
       <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
       <guid>http://example.org/footer/kontakt/</guid>
-      <description>Sonjas-Haarstyle&#xA;Vechigenstrasse 16&#xA;3076 Worb&#xA;+41 31 832 41 94</description>
+      <description>&lt;p&gt;Sonjas-Haarstyle&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.google.ch/maps/place/Sonjas+Haarstyle+%2F+Make-up+Artist/@46.9328917,7.5611601,738m/data=!3m1!1e3!4m13!1m7!3m6!1s0x478e342edf32a533:0xce16060955cd2c49!2sVechigenstrasse+16,+3076+Worb!3b1!8m2!3d46.9327893!4d7.562756!3m4!1s0x478e342edf2eeab3:0xc35c85d84138e2eb!8m2!3d46.9327563!4d7.562753&#34;&gt;Vechigenstrasse 16&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.google.ch/maps/place/Sonjas+Haarstyle+%2F+Make-up+Artist/@46.9328917,7.5611601,738m/data=!3m1!1e3!4m13!1m7!3m6!1s0x478e342edf32a533:0xce16060955cd2c49!2sVechigenstrasse+16,+3076+Worb!3b1!8m2!3d46.9327893!4d7.562756!3m4!1s0x478e342edf2eeab3:0xc35c85d84138e2eb!8m2!3d46.9327563!4d7.562753&#34;&gt;3076 Worb&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;tel:0041318324194&#34;&gt;+41 31 832 41 94&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Öffnungszeiten</title>
       <link>http://example.org/footer/time/</link>
       <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
       <guid>http://example.org/footer/time/</guid>
-      <description> Montag Geschlossen Dienstag Geschlossen Mittwoch Geschlossen Donnerstag 08:00 - 12:00, 13:30 - 19:00 Freitag 12:00 - 15:00 Erst geöffnet wenn Donnerstag &amp;amp; Samstag ausgebucht. Samstag 08:00 - 12:00, 13:00 - 16:00 Sonntag Geschlossen </description>
+      <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Montag&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Geschlossen&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Dienstag&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Geschlossen&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Mittwoch&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Geschlossen&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Donnerstag&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;08:00 - 12:00, 13:30 - 19:00&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Freitag&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;12:00 - 15:00&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Samstag&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;08:00 - 12:00, 13:00 - 16:00&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Sonntag&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Geschlossen&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
