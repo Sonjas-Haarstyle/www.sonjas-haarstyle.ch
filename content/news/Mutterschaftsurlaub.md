@@ -1,6 +1,6 @@
 ---
-title: Wiedereröffnung
-date: 2024-06-22T22:44:44+02:00
+title: Wiedereröffnung 
+date: 2024-09-10T22:44:44+02:00
 ---
 
 Liebe Kundschaft
