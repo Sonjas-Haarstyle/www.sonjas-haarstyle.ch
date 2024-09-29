@@ -12,4 +12,4 @@ So schützen wir uns und unsere Kundschaft:
 - Ihr **Stuhl**, sämtliche **Arbeitsflächen** sowie alle **Arbeitsgeräte** werden nach jedem/ jeder Kunde:in gründlich **desinfiziert**.
 - Unser **Luftreiniger** läuft während der ganzen Dienstleistung.
 - Wir **lüften** nach jedem/ jeder Kunde:in den Salon
-- Um unsere Gesundheit zu schützen, tragen wir weiterhin nach Dienstleistung eine Maske.
+- Um unsere Gesundheit zu schützen, tragen wir je nach Dienstleistung eine Maske.
