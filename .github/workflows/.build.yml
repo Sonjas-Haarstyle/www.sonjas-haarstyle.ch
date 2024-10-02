@@ -29,8 +29,9 @@ jobs:
          hugo -D
          mkdir tmp
          
-         
+         cp CNAME public/CNAME 
          cp public/index.html public/404.html
+        
          cp -r public/* ./tmp
        
          git pull --all
@@ -42,8 +43,6 @@ jobs:
          mv tmp/* ./
          rm -r tmp 
 
-         touch CNAME
-         # echo "www.sonjas-haarstyle.ch" >> CNAME
          
          git config --global user.email "build@sonjas-haarstyle.ch"
          git config --global user.name "Build Job"
