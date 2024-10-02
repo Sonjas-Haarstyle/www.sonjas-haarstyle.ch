@@ -4,25 +4,33 @@ Hugo kann mit folgendem Command einen Webserver hochfahren, welcher die Hugo Tem
 
     hugo serve
 
-## dns entries
-
-Folgnde DNS entries wurden auf hosttech gesetzt
-
-    * SOA Record
-    DomainE-MailSeriennummerPrimärer NS
-    sonjas-haarstyle.chdns@hosttech.eu2022092100ns1.hosttech.ch
-
-    * A Records
-    HostIP AdresseTTL
-    sonjas-haarstyle.ch     194.56.190.5710800
-    www.sonjas-haarstyle.ch 194.56.190.5710800
-
-    * MX Records
-    HostMail ExchangerTTLPräferenz
-    mail.sonjas-haarstyle.ch 194.56.190.571080010
-
-
-
+[prod](https://www.sonjas-haarstyle.ch/)
 
 ## Bilder hinzufügen
 
+## github-pages
+
+Wenn Github pages nicht funktioniert kann dies mit einem fehlerhaften CNAME File zu tun haben. Dieses sollte geprüft werden im gh-pages branch.
+
+
+## TODO
+
+Hallo Jan
+Können wir bis 12 Oktober die Webseite mit den änderungen die noch anstehen fertig stellen?
+
+Startseite
+- [ ] Kraftbilder Anzeigt
+- [ ] Video Programmieren
+- [ ] Footers löschen, so dass nur Datenschutz, Kontakt und Öffnungszeiten angezeigt werden.
+- [ ] Menü Leiste selber anordnen und nicht nach ABC
+- [ ] Facebook insta, email ect nach rechts
+
+
+Galerie
+- [ ] So wie alte darstellung
+
+
+
+Smartphone
+- [ ] Hamburger
+- [ ] Kraftbilder Handy tauglich
