@@ -1,7 +1,7 @@
 {{ define "main"}}
 {{range .Pages}}
 
-        <div class="
+<div class="
                 grid 
                 sm:grid-flow-col 
                 gap-5 auto-rows-max
@@ -9,34 +9,43 @@
                 p-4 mb-4 
                 border-4 border-shs
             "
-        >
+>
 
-        <div class="grid grid-cols-1">
-            <h1>
-                {{.Title}}
-            </h1>
+    <div class="grid grid-cols-1">
+        <h1>
+            {{.Title}}
+        </h1>
 
-            {{if isset .Params "csv"}}
-            <table>
-            
-                {{ $path :=  .Params.csv}}
-                {{range getCSV ","  $path}}
-                
-                    <tr class="border-b-2 boder-shs">
-                        {{range .}}
-                            <td>{{.}}</td>
-                        {{end}}
-                    </tr>
+        {{if isset .Params "csv"}}
+        {{ $file := .Params.csv}}
+        {{ with readFile $file }}
+        {{ with . | transform.Unmarshal }}
 
-                {{end}}
-            </table>
-            {{end}}
-            
-            {{ .Content}}
+        <table>
+            <thead>
+            {{ range index . 0 }}
+            <th class="border-b-2 boder-shs" >{{ . }}</th>
+            {{ end }}
+            </thead>
+            <tbody>
+            {{ range after 1 . }}
+            <tr class="border-b-2 boder-shs">
+                {{ range . }}
+                <td>{{ . }}</td>
+                {{ end }}
+            </tr>
+            {{ end }}
+            </tbody>
+        </table>
+        {{end}}
+        {{end}}
+        {{end}}
 
-        </div>
-        
+        {{ .Content}}
+
     </div>
-    {{end}}
+
+</div>
+{{end}}
 
 {{end}}
