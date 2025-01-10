@@ -2,7 +2,6 @@
 title: "Betriebsferien oder geschlossen"
 date: 2024-12-27T10:30:41+02:00
 ---
-- Donnerstag **23.01.2025 nachmittags geschlossen**
 - Donnerstag **20.02.2025 morgens geschlossen**
 - Freitag **21.02.2025** geschlossen
 - Freitag **18.04.2025** Karfreitag
