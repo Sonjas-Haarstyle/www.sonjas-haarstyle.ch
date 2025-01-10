@@ -9,11 +9,11 @@
     <lastBuildDate>Fri, 27 Dec 2024 10:30:41 +0200</lastBuildDate>
     <atom:link href="http://example.org/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Betriebsferien</title>
+      <title>Betriebsferien oder geschlossen</title>
       <link>http://example.org/news/ferien/</link>
       <pubDate>Fri, 27 Dec 2024 10:30:41 +0200</pubDate>
       <guid>http://example.org/news/ferien/</guid>
-      <description>&lt;p&gt;Montag &lt;strong&gt;30.12.2024&lt;/strong&gt; bis Mittwoch &lt;strong&gt;08.01.2025&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Donnerstag &lt;strong&gt;23.01.2025 nachmittags geschlossen&lt;/strong&gt;&#xA;Donnerstag 20.02.2025 morgens geschlossen&#xA;Freitag &lt;strong&gt;21.02.2025&lt;/strong&gt;&#xA;Freitag 18.04.2025 Karfreitag&#xA;Donnerstag &lt;strong&gt;29.05.2025&lt;/strong&gt; bis Samstag &lt;strong&gt;31.05.2025&lt;/strong&gt;&#xA;Donnerstag &lt;strong&gt;05.06.2025&lt;/strong&gt; bis Samstag &lt;strong&gt;07.06.2025&lt;/strong&gt;&#xA;Donnerstag 12.06.2025 morgens geschlossen&#xA;Freitag &lt;em&gt;13.06.2025&lt;/em&gt;&#xA;Donnerstag &lt;strong&gt;31.07.2025&lt;/strong&gt; bis &lt;strong&gt;Samstag 02.08.2025&lt;/strong&gt;&#xA;Samstag 13.09.2025 Jubiläumfeier&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vorsicht, ansteckend!</title>
