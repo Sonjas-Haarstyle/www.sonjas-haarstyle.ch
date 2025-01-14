@@ -10,5 +10,5 @@ date: 2024-12-27T10:30:41+02:00
 - Donnerstag **12.06.2025 morgens geschlossen**
 - Freitag **13.06.2025** (geschlossen)
 - Donnerstag **31.07.2025** bis **Samstag 02.08.2025** (Betriebsferien)
-- Samstag **13.09.2025** (Jubiläumfeier)
+- Samstag **06.09.2025** (Jubiläumfeier)
 
