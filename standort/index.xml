@@ -4,44 +4,56 @@
     <title>Standort on Sonjas Haarstyle</title>
     <link>http://example.org/standort/</link>
     <description>Recent content in Standort on Sonjas Haarstyle</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Sep 2022 10:30:41 +0200</lastBuildDate>
-    <atom:link href="http://example.org/standort/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Oct 2022 22:44:44 +0200</lastBuildDate><atom:link href="http://example.org/standort/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Standort</title>
       <link>http://example.org/standort/standort/</link>
       <pubDate>Wed, 14 Sep 2022 10:30:41 +0200</pubDate>
+      
       <guid>http://example.org/standort/standort/</guid>
-      <description>&lt;p&gt;Wir freuen uns sehr Sie an der Vechigenstrasse 16 in Worb zu begrüssen.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Unser Geschäft befindet sich &lt;em&gt;7-Minuten&lt;/em&gt; vom &lt;em&gt;RBS Bahnhof Worb Dorf&lt;/em&gt; oder &lt;em&gt;6-Minuten&lt;/em&gt; von der &lt;em&gt;Haltestelle Worbboden&lt;/em&gt; entfernt.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Vor dem Geschäft befinden Sich zwei Kundenparkplätze die Sie benutzen können.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>Wir freuen uns sehr Sie an der Vechigenstrasse 16 in Worb zu begrüssen.
+Unser Geschäft befindet sich 7-Minuten vom RBS Bahnhof Worb Dorf oder 6-Minuten von der Haltestelle Worbboden entfernt.
+Vor dem Geschäft befinden Sich zwei Kundenparkplätze die Sie benutzen können.</description>
     </item>
+    
     <item>
       <title>Virtueller Rundgang</title>
       <link>http://example.org/standort/rundgang/</link>
       <pubDate>Tue, 13 Sep 2022 22:44:44 +0200</pubDate>
+      
       <guid>http://example.org/standort/rundgang/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://maps.app.goo.gl/p3kAkkLmzLChqvBa7?g_st=iw&#34;&gt;Eingangsbereich&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://maps.app.goo.gl/QePsquLouZxt1R2p6?g_st=iwb&#34;&gt;Salon&lt;/a&gt;&lt;/p&gt;</description>
+      <description>Eingangsbereich
+Salon</description>
     </item>
+    
     <item>
       <title>Eingang</title>
       <link>http://example.org/standort/eingang/</link>
       <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
+      
       <guid>http://example.org/standort/eingang/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://example.org/pic/shop/eingang.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description></description>
     </item>
+    
     <item>
       <title>Parkplätze</title>
       <link>http://example.org/standort/garage/</link>
       <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
+      
       <guid>http://example.org/standort/garage/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://example.org/pic/shop/neuer-parkplatz.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description></description>
     </item>
+    
     <item>
       <title>So finden Sie uns</title>
       <link>http://example.org/standort/karte/</link>
       <pubDate>Mon, 12 Sep 2022 22:44:44 +0200</pubDate>
+      
       <guid>http://example.org/standort/karte/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.google.ch/maps/place/Sonjas+Haarstyle+%2F+Make-up+Artist/@46.9328917,7.5611601,738m/data=!3m1!1e3!4m13!1m7!3m6!1s0x478e342edf32a533:0xce16060955cd2c49!2sVechigenstrasse+16,+3076+Worb!3b1!8m2!3d46.9327893!4d7.562756!3m4!1s0x478e342edf2eeab3:0xc35c85d84138e2eb!8m2!3d46.9327563!4d7.562753&#34;&gt;Google Maps&lt;/a&gt;&lt;/p&gt;</description>
+      <description>Google Maps</description>
     </item>
+    
   </channel>
 </rss>

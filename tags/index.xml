@@ -4,8 +4,7 @@
     <title>Tags on Sonjas Haarstyle</title>
     <link>http://example.org/tags/</link>
     <description>Recent content in Tags on Sonjas Haarstyle</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
