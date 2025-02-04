@@ -2,8 +2,10 @@
 
 Hugo kann mit folgendem Command einen Webserver hochfahren, welcher die Hugo Templates jit rendert.
 
-    hugo serve
 
+```bash
+hugo serve
+```
 [prod](https://www.sonjas-haarstyle.ch/)
 
 ## Bilder hinzufügen
@@ -21,9 +23,9 @@ Können wir bis 12 Oktober die Webseite mit den änderungen die noch anstehen fe
 Startseite
 - [ ] Kraftbilder Anzeigt
 - [ ] Video Programmieren
-- [ ] Footers löschen, so dass nur Datenschutz, Kontakt und Öffnungszeiten angezeigt werden.
+- [x] Footers löschen, so dass nur Datenschutz, Kontakt und Öffnungszeiten angezeigt werden.
 - [ ] Menü Leiste selber anordnen und nicht nach ABC
-- [ ] Facebook insta, email ect nach rechts
+- [x] Facebook insta, email ect nach rechts
 
 
 Galerie

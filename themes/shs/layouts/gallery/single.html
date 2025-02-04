@@ -27,7 +27,7 @@
         <script src="/js/gallery.js"></script>
 
         <script>
-            const pictureString = {{$pics | jsonify}};
+            const pictureString = {{ $pics | jsonify }};
 
             const pictures = JSON.parse(pictureString).map(n => "/pic/gallery/pics/" + n);
 
