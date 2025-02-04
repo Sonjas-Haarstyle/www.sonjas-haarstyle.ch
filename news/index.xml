@@ -6,8 +6,15 @@
     <description>Recent content in News on Sonjas Haarstyle</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Dec 2024 10:30:41 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 10:30:41 +0200</lastBuildDate>
     <atom:link href="http://example.org/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neuer Parkplatz</title>
+      <link>http://example.org/news/parkplatz/</link>
+      <pubDate>Fri, 03 Jan 2025 10:30:41 +0200</pubDate>
+      <guid>http://example.org/news/parkplatz/</guid>
+      <description>&lt;p&gt;Ab &lt;strong&gt;1. März 2025&lt;/strong&gt; befindet sich der zweite Parkplatz an einem neuen Standort.&#xA;Anstelle der Garage 2 wird es die Garage 4 geben. Ein Bild der Parkplätze finden Sie unter Standort.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Betriebsferien oder geschlossen</title>
       <link>http://example.org/news/ferien/</link>
@@ -70,13 +77,6 @@
       <pubDate>Tue, 04 Oct 2022 10:30:10 +0200</pubDate>
       <guid>http://example.org/news/videos_recylcing/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.bern-ost.ch/Bim-Coiffeur-bini-gsaesse-Im-Salon-Sonjas-Haarstyle-691748&#34;&gt;Reportage über Sonjas Haarstyle&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://worberpost.ch/recycling-im-coiffeursalon-haare-als-oelsperren-auf-unseren-ozeanen/&#34;&gt;Recycling im Coiffeursalon&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.bern-ost.ch/Fuer-einen-Guten-Zweck--nimmt-Abschied-von-ihren-langen-Haaren-595269&#34;&gt;Für den gutzen Zweck&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.beauty-forum.ch/aktuell/artikel/haare-nutzen-42099.html?&amp;amp;searchword=Haare%20nutzen%20&amp;amp;ref=search&#34;&gt;Haare nutzen&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.tophair-suisse.ch/branche/branche-detailseite/logistikpartner-gesucht/&#34;&gt;Logistikpartner gesucht&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.bern-ost.ch/Statt-in-den-Muell-Haare-aus-Worb-reinigen-das-Mittelmeer-650171&#34;&gt;Haare säubern das Meer&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.20min.ch/video/diese-coiffeuse-saeubert-das-meer-mit-haarabfaellen-889908660520&#34;&gt;Meer säubern mit deinen Haarabfällen&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://example.org/news/parkplatz/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/news/parkplatz/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
