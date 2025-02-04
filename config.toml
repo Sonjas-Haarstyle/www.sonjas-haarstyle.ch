@@ -3,62 +3,70 @@ languageCode = 'en-us'
 title = 'Sonjas Haarstyle'
 theme = "shs"
 
-    
+
 
 [menu]
-  [[menu.nav]]
-  name = "Home"
-  url = "/home"
-  
-  [[menu.nav]]
-  name = "News"
-  url = "/news"
-  
-   [[menu.nav]]
-  name = "Spezialangebote"
-  url = "/spezialangebote"
+[[menu.nav]]
+name = "Home"
+url = "/home"
+weight = 1
 
-  [[menu.nav]]
-  name = "Preise"
-  url = "/preise"
-  
-  [[menu.nav]]
-  name = "Team"
-  url = "/team"
-  
-  [[menu.nav]]
-  name = "Partner"
-  url = "/partner"
+[[menu.nav]]
+name = "News"
+url = "/news"
+weight = 2
 
- [[menu.nav]]
-  name = "Galerie"
-  url = "/gallery/pictures"
-  
- [[menu.nav]]
-  name = "Standort"
-  url = "/standort"
+[[menu.nav]]
+name = "Spezialangebote"
+url = "/spezialangebote"
+weight = 3
 
- [[menu.nav]]
-  name = "Termin Buchen"
-  url = "https://www.beautybooking.ch/app/booking.html?company=sonjas-haarstyle"
+[[menu.nav]]
+name = "Preise"
+url = "/preise"
+weight = 4
 
+[[menu.nav]]
+name = "Team"
+url = "/team"
+weight = 5
+
+[[menu.nav]]
+name = "Partner"
+url = "/partner"
+weight = 6
+
+[[menu.nav]]
+name = "Galerie"
+url = "/gallery/pictures"
+weight = 7
+
+[[menu.nav]]
+name = "Standort"
+url = "/standort"
+weight = 8
+
+[[menu.nav]]
+name = "Termin Buchen"
+url = "https://www.beautybooking.ch/app/booking.html?company=sonjas-haarstyle"
+weight = 9
 
 [params]
-  phone = "+41 31 832 41 94"
+phone = "+41 31 832 41 94"
 
 [[params.sm]]
-  link = "https://www.instagram.com/sonjas_haarstyle.makeup.artist/"    
-  image = "/svgs/instagram.svg"
-  
-  [[params.sm]]
-  link = "https://de-de.facebook.com/sonjashaarstyle/"    
-  image = "/svgs/facebook.svg"
-  
-  [[params.sm]]
-  link = "https://www.youtube.com/channel/UC6EOSY_vno7NSLkA_38usAg"    
-  image = "/svgs/youtube.svg"
-  
-  [[params.sm]]
-  link = "mailto:sonjashaarstyle@gmail.com"    
-  image = "/svgs/email.svg"    
+link = "https://www.instagram.com/sonjas_haarstyle.makeup.artist/"
+image = "/svgs/instagram.svg"
+
+[[params.sm]]
+link = "https://de-de.facebook.com/sonjashaarstyle/"
+image = "/svgs/facebook.svg"
+
+[[params.sm]]
+link = "https://www.youtube.com/channel/UC6EOSY_vno7NSLkA_38usAg"
+image = "/svgs/youtube.svg"
+
+[[params.sm]]
+link = "mailto:sonjashaarstyle@gmail.com"
+image = "/svgs/email.svg"
   

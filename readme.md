@@ -24,7 +24,7 @@ Startseite
 - [ ] Kraftbilder Anzeigt
 - [ ] Video Programmieren
 - [x] Footers löschen, so dass nur Datenschutz, Kontakt und Öffnungszeiten angezeigt werden.
-- [ ] Menü Leiste selber anordnen und nicht nach ABC
+- [x] Menü Leiste selber anordnen und nicht nach ABC
 - [x] Facebook insta, email ect nach rechts
 
 
