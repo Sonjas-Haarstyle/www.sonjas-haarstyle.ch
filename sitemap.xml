@@ -167,6 +167,8 @@
     <loc>http://example.org/partner/plastik/</loc>
     <lastmod>2019-09-13T22:44:44+02:00</lastmod>
   </url><url>
+    <loc>http://example.org/news/parkplatz/</loc>
+  </url><url>
     <loc>http://example.org/categories/</loc>
   </url><url>
     <loc>http://example.org/tags/</loc>
