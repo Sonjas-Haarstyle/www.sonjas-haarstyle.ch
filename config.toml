@@ -8,7 +8,7 @@ theme = "shs"
 [menu]
 [[menu.nav]]
 name = "Home"
-url = "/home"
+url = "/"
 weight = 1
 
 [[menu.nav]]
