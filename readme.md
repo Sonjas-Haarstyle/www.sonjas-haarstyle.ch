@@ -21,8 +21,8 @@ Hallo Jan
 Können wir bis 12 Oktober die Webseite mit den änderungen die noch anstehen fertig stellen?
 
 Startseite
-- [ ] Kraftbilder Anzeigt
-- [ ] Video Programmieren
+- [x] Kraftbilder Anzeigt
+- [x] Video Programmieren
 - [x] Footers löschen, so dass nur Datenschutz, Kontakt und Öffnungszeiten angezeigt werden.
 - [x] Menü Leiste selber anordnen und nicht nach ABC
 - [x] Facebook insta, email ect nach rechts
