@@ -1,0 +1,29 @@
+{{ define "main"}}
+{{ range .Pages}}
+<div class="
+                grid
+                grid-cols-[10rem, auto]
+                md:grid-cols-[auto,auto]
+
+                gap-5
+                grid
+                bg-white
+                p-4 mb-4
+                border-4 border-shs
+            "
+>
+
+
+
+    <div class="w-1/1">
+        <h1>{{.Title}}</h1>
+        {{.Content}}
+    </div>
+
+
+
+
+
+</div>
+{{end}}
+{{end}}

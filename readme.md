@@ -35,4 +35,4 @@ Galerie
 
 Smartphone
 - [ ] Hamburger
-- [ ] Kraftbilder Handy tauglich
+- [x] Kraftbilder Handy tauglich
