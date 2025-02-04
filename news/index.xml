@@ -1,114 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>News on Sonjas Haarstyle</title>
-    <link>http://example.org/news/</link>
-    <description>Recent content in News on Sonjas Haarstyle</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 07 Oct 2022 10:30:10 +0200</lastBuildDate><atom:link href="http://example.org/news/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Neuer Parkplatz</title>
-      <link>http://example.org/news/parkplatz/</link>
-      <pubDate>Fri, 03 Jan 2025 10:30:41 +0200</pubDate>
-      
-      <guid>http://example.org/news/parkplatz/</guid>
-      <description>Ab 1. März 2025 befindet sich der zweite Parkplatz an einem neuen Standort. Anstelle der Garage 2 wird es die Garage 4 geben. Ein Bild der Parkplätze finden Sie unter Standort.</description>
-    </item>
-    
-    <item>
-      <title>Betriebsferien oder geschlossen</title>
-      <link>http://example.org/news/ferien/</link>
-      <pubDate>Fri, 27 Dec 2024 10:30:41 +0200</pubDate>
-      
-      <guid>http://example.org/news/ferien/</guid>
-      <description> Donnerstag 20.02.2025 morgens geschlossen Freitag 21.02.2025 (geschlossen) Samstag 15.02.2025 (geschlossen) Freitag 18.04.2025 (Karfreitag) Donnerstag 29.05.2025 (Auffahrt) Donnerstag 05.06.2025 bis Samstag 07.06.2025 (Betriebsferien) Donnerstag 12.06.2025 morgens geschlossen Freitag 13.06.2025 (geschlossen) Donnerstag 31.07.2025 bis Samstag 02.08.2025 (Betriebsferien) Samstag 06.09.2025 (Jubiläumfeier) </description>
-    </item>
-    
-    <item>
-      <title>Vorsicht, ansteckend!</title>
-      <link>http://example.org/news/vorsicht-ansteckend/</link>
-      <pubDate>Sat, 20 Jul 2024 10:30:41 +0200</pubDate>
-      
-      <guid>http://example.org/news/vorsicht-ansteckend/</guid>
-      <description>Der Hautpilz Trichophyton tonsurans ist hochansteckend. Es handelt sich um einen Fadenpilz, der Entzündungen auf der Kopfhaut verursacht. Es beginnt mit Rötungen, es juckt, Bläschen bilden sich. Typisch sind kreisrunde rote Flecken. Es kann zu Haarausfall kommen, da der Pilz sich von Keratin ernährt, das sich in Nägeln und Haaren befindet.
-Ist die Kopfhaut vom Pilz befallen und wird trotzdem eine Dienstleistung durchgeführt, werden die Pilzsporen durch das Arbeitsmaterial übertragen – jedenfalls dann, wenn das Arbeitsmaterial ungenügend desinfiziert wurde.</description>
-    </item>
-    
-    <item>
-      <title>Hygiene</title>
-      <link>http://example.org/news/hygine/</link>
-      <pubDate>Fri, 19 Jul 2024 10:30:41 +0200</pubDate>
-      
-      <guid>http://example.org/news/hygine/</guid>
-      <description>Im Friseursalon ist die Hygiene Bestandteil der Ausbildung und gehört zur täglichen Arbeit bei uns im Salon dazu.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News on Sonjas Haarstyle</title><link>http://example.org/news/</link><description>Recent content in News on Sonjas Haarstyle</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 07 Oct 2022 10:30:10 +0200</lastBuildDate><atom:link href="http://example.org/news/index.xml" rel="self" type="application/rss+xml"/><item><title>Neuer Parkplatz</title><link>http://example.org/news/parkplatz/</link><pubDate>Fri, 03 Jan 2025 10:30:41 +0200</pubDate><guid>http://example.org/news/parkplatz/</guid><description>Ab 1. März 2025 befindet sich der zweite Parkplatz an einem neuen Standort. Anstelle der Garage 2 wird es die Garage 4 geben. Ein Bild der Parkplätze finden Sie unter Standort.</description></item><item><title>Betriebsferien oder geschlossen</title><link>http://example.org/news/ferien/</link><pubDate>Fri, 27 Dec 2024 10:30:41 +0200</pubDate><guid>http://example.org/news/ferien/</guid><description> Donnerstag 20.02.2025 morgens geschlossen Freitag 21.02.2025 (geschlossen) Samstag 15.02.2025 (geschlossen) Freitag 18.04.2025 (Karfreitag) Donnerstag 29.05.2025 (Auffahrt) Donnerstag 05.06.2025 bis Samstag 07.06.2025 (Betriebsferien) Donnerstag 12.06.2025 morgens geschlossen Freitag 13.06.2025 (geschlossen) Donnerstag 31.07.2025 bis Samstag 02.08.2025 (Betriebsferien) Samstag 06.09.2025 (Jubiläumfeier)</description></item><item><title>Vorsicht, ansteckend!</title><link>http://example.org/news/vorsicht-ansteckend/</link><pubDate>Sat, 20 Jul 2024 10:30:41 +0200</pubDate><guid>http://example.org/news/vorsicht-ansteckend/</guid><description>Der Hautpilz Trichophyton tonsurans ist hochansteckend. Es handelt sich um einen Fadenpilz, der Entzündungen auf der Kopfhaut verursacht. Es beginnt mit Rötungen, es juckt, Bläschen bilden sich. Typisch sind kreisrunde rote Flecken. Es kann zu Haarausfall kommen, da der Pilz sich von Keratin ernährt, das sich in Nägeln und Haaren befindet.
+Ist die Kopfhaut vom Pilz befallen und wird trotzdem eine Dienstleistung durchgeführt, werden die Pilzsporen durch das Arbeitsmaterial übertragen – jedenfalls dann, wenn das Arbeitsmaterial ungenügend desinfiziert wurde.</description></item><item><title>Hygiene</title><link>http://example.org/news/hygine/</link><pubDate>Fri, 19 Jul 2024 10:30:41 +0200</pubDate><guid>http://example.org/news/hygine/</guid><description>Im Friseursalon ist die Hygiene Bestandteil der Ausbildung und gehört zur täglichen Arbeit bei uns im Salon dazu.
 So schützen wir uns und unsere Kundschaft:
-Falls Sie Krankheitssymptome wie Husten, Schnupfen etc. haben, einen Hautpilz oder Läuse auf dem Kopf haben, sagen Sie bitte ihren Termin ab. Sonst müssen wir sie ohne vollendete Dienstleistungen wieder nach Hause schicken und ihre gebuchte Zeit in Rechnung stellen. Maskenpflicht bei Husten, Schnupfen und Erkältungssymptomen wenn wir es wärend der Behandlung bemerken.</description>
-    </item>
-    
-    <item>
-      <title>Gutschein</title>
-      <link>http://example.org/news/einkaufen/</link>
-      <pubDate>Tue, 17 Oct 2023 20:44:44 +0200</pubDate>
-      
-      <guid>http://example.org/news/einkaufen/</guid>
-      <description>Hier Einkaufen</description>
-    </item>
-    
-    <item>
-      <title>Messerhaarschnitt</title>
-      <link>http://example.org/news/messerhaarschnitt/</link>
-      <pubDate>Tue, 11 Oct 2022 10:30:41 +0200</pubDate>
-      
-      <guid>http://example.org/news/messerhaarschnitt/</guid>
-      <description>Was bewirkt der Messerhaarschnitt?
-Der Messerhaarschnitt effiliert die Haare beim Schneiden automatisch. Das heisst das Haar wird ausgefranst die Frisur bekommt weichere Linien. Der Effekt ist, sie fallen besser ineinander, es gibt mehr Volumen und Stabilität.</description>
-    </item>
-    
-    <item>
-      <title>Hochsteckfrisur</title>
-      <link>http://example.org/news/hochsteckfrisur/</link>
-      <pubDate>Mon, 10 Oct 2022 10:30:41 +0200</pubDate>
-      
-      <guid>http://example.org/news/hochsteckfrisur/</guid>
-      <description>Wenn Sie ihre Haare bei uns Hochstecken, sind folgende Vorbereitungsschritte wichtig:
-Waschen Sie ihre Haare am Tag vor dem Hochsteck Termin. Verwenden Sie keine Haarmaske nach dem waschen, sondern nur Conditioner. Geben Sie nach dem waschen eine grosse Menge Schaumfestiger ins Haar. Achten Sie beim Haar trocknen darauf das der Scheitel am richtigen Ort sitzt und keine Knickstellen entstehen, denn getrocknete Haare können schwer in eine andere Position gestylt werden.</description>
-    </item>
-    
-    <item>
-      <title>Risiko Haarfärben</title>
-      <link>http://example.org/news/risiko_haarf%C3%A4rben/</link>
-      <pubDate>Sun, 09 Oct 2022 10:30:41 +0200</pubDate>
-      
-      <guid>http://example.org/news/risiko_haarf%C3%A4rben/</guid>
-      <description>Wenn Sie noch nie die Haare gefärbt haben, bestehen wir auf einen Allergietest.
+Falls Sie Krankheitssymptome wie Husten, Schnupfen etc. haben, einen Hautpilz oder Läuse auf dem Kopf haben, sagen Sie bitte ihren Termin ab. Sonst müssen wir sie ohne vollendete Dienstleistungen wieder nach Hause schicken und ihre gebuchte Zeit in Rechnung stellen. Maskenpflicht bei Husten, Schnupfen und Erkältungssymptomen wenn wir es wärend der Behandlung bemerken.</description></item><item><title>Gutschein</title><link>http://example.org/news/einkaufen/</link><pubDate>Tue, 17 Oct 2023 20:44:44 +0200</pubDate><guid>http://example.org/news/einkaufen/</guid><description>Hier Einkaufen</description></item><item><title>Messerhaarschnitt</title><link>http://example.org/news/messerhaarschnitt/</link><pubDate>Tue, 11 Oct 2022 10:30:41 +0200</pubDate><guid>http://example.org/news/messerhaarschnitt/</guid><description>Was bewirkt der Messerhaarschnitt?
+Der Messerhaarschnitt effiliert die Haare beim Schneiden automatisch. Das heisst das Haar wird ausgefranst die Frisur bekommt weichere Linien. Der Effekt ist, sie fallen besser ineinander, es gibt mehr Volumen und Stabilität.</description></item><item><title>Hochsteckfrisur</title><link>http://example.org/news/hochsteckfrisur/</link><pubDate>Mon, 10 Oct 2022 10:30:41 +0200</pubDate><guid>http://example.org/news/hochsteckfrisur/</guid><description>Wenn Sie ihre Haare bei uns Hochstecken, sind folgende Vorbereitungsschritte wichtig:
+Waschen Sie ihre Haare am Tag vor dem Hochsteck Termin. Verwenden Sie keine Haarmaske nach dem waschen, sondern nur Conditioner. Geben Sie nach dem waschen eine grosse Menge Schaumfestiger ins Haar. Achten Sie beim Haar trocknen darauf das der Scheitel am richtigen Ort sitzt und keine Knickstellen entstehen, denn getrocknete Haare können schwer in eine andere Position gestylt werden.</description></item><item><title>Risiko Haarfärben</title><link>http://example.org/news/risiko_haarf%C3%A4rben/</link><pubDate>Sun, 09 Oct 2022 10:30:41 +0200</pubDate><guid>http://example.org/news/risiko_haarf%C3%A4rben/</guid><description>Wenn Sie noch nie die Haare gefärbt haben, bestehen wir auf einen Allergietest.
 Diesen müssen wir 48 Stunden vor der Komplettfärbung oder Tönung durchführen. Den bei einer Allergie können schwerwiegende Folgen auftreten wie z.B:
-Schwellung des Kopfes Schwellung der Augen Atemnot Blasenbildung auf der Kopfhaut Verbrennung der Kopfhaut Wir sind auf diesem Gebiet sehr gut ausgebildet und wissen, wie man richtig mit den Haarfärbemittel umgeht, deshalb lassen Sie sich lieber vom Profi ihre Haare färben, um kein Risiko einzugehen.</description>
-    </item>
-    
-    <item>
-      <title>Was sagen unsere Kunden über uns</title>
-      <link>http://example.org/news/videos_kundenrezessionen/</link>
-      <pubDate>Wed, 05 Oct 2022 10:30:10 +0200</pubDate>
-      
-      <guid>http://example.org/news/videos_kundenrezessionen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Videos &amp; Berichte</title>
-      <link>http://example.org/news/videos_recylcing/</link>
-      <pubDate>Tue, 04 Oct 2022 10:30:10 +0200</pubDate>
-      
-      <guid>http://example.org/news/videos_recylcing/</guid>
-      <description>Reportage über Sonjas Haarstyle
+Schwellung des Kopfes Schwellung der Augen Atemnot Blasenbildung auf der Kopfhaut Verbrennung der Kopfhaut Wir sind auf diesem Gebiet sehr gut ausgebildet und wissen, wie man richtig mit den Haarfärbemittel umgeht, deshalb lassen Sie sich lieber vom Profi ihre Haare färben, um kein Risiko einzugehen.</description></item><item><title>Was sagen unsere Kunden über uns</title><link>http://example.org/news/videos_kundenrezessionen/</link><pubDate>Wed, 05 Oct 2022 10:30:10 +0200</pubDate><guid>http://example.org/news/videos_kundenrezessionen/</guid><description/></item><item><title>Videos &amp; Berichte</title><link>http://example.org/news/videos_recylcing/</link><pubDate>Tue, 04 Oct 2022 10:30:10 +0200</pubDate><guid>http://example.org/news/videos_recylcing/</guid><description>Reportage über Sonjas Haarstyle
 Recycling im Coiffeursalon
 Für den gutzen Zweck
 Haare nutzen
 Logistikpartner gesucht
 Haare säubern das Meer
-Meer säubern mit deinen Haarabfällen</description>
-    </item>
-    
-  </channel>
-</rss>
+Meer säubern mit deinen Haarabfällen</description></item></channel></rss>

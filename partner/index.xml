@@ -1,75 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Partner on Sonjas Haarstyle</title>
-    <link>http://example.org/partner/</link>
-    <description>Recent content in Partner on Sonjas Haarstyle</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 02 Oct 2022 10:31:28 +0200</lastBuildDate><atom:link href="http://example.org/partner/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Verein Haarfee</title>
-      <link>http://example.org/partner/verein_haarfee/</link>
-      <pubDate>Wed, 12 Oct 2022 10:31:38 +0200</pubDate>
-      
-      <guid>http://example.org/partner/verein_haarfee/</guid>
-      <description>Haben Sie sich entschieden Ihren Zopf zu spenden? Wir gratulieren Ihnen, denn Ihr abgeschnittener Zopf wird weiterhin wertgeschätzt und kann einen wichtigen Zweck erfüllen.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Partner on Sonjas Haarstyle</title><link>http://example.org/partner/</link><description>Recent content in Partner on Sonjas Haarstyle</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 02 Oct 2022 10:31:28 +0200</lastBuildDate><atom:link href="http://example.org/partner/index.xml" rel="self" type="application/rss+xml"/><item><title>Verein Haarfee</title><link>http://example.org/partner/verein_haarfee/</link><pubDate>Wed, 12 Oct 2022 10:31:38 +0200</pubDate><guid>http://example.org/partner/verein_haarfee/</guid><description>Haben Sie sich entschieden Ihren Zopf zu spenden? Wir gratulieren Ihnen, denn Ihr abgeschnittener Zopf wird weiterhin wertgeschätzt und kann einen wichtigen Zweck erfüllen.
 Anforderungen:
 Der Haarzopf sollten 40 cm lang sein. Die Haare sollten ungefärbt sein. (Naturhaar) Das Haar sollte gesund und ohne Spliss sein. Der Verein Haarfee ist eine unabhängige Non-Profit-Organisation, die Kindern hilft, welche ihr eigenes Haar durch dramatische Schicksalsschläge verloren haben.
-Nach dem Verlust der eigenen Haare in Folge einer Chemotherapie, schweren Verbrennungen oder der Krankheit Alopecia Areata verlieren die Kinder oftmals nicht nur ihre Haare, sondern auch ihr Selbstwertgefühl.</description>
-    </item>
-    
-    <item>
-      <title>Verein Coiffeurs Justes</title>
-      <link>http://example.org/partner/justes/</link>
-      <pubDate>Tue, 11 Oct 2022 10:31:38 +0200</pubDate>
-      
-      <guid>http://example.org/partner/justes/</guid>
-      <description>Haar Recycling Ein wertvoller Rohstoff.
+Nach dem Verlust der eigenen Haare in Folge einer Chemotherapie, schweren Verbrennungen oder der Krankheit Alopecia Areata verlieren die Kinder oftmals nicht nur ihre Haare, sondern auch ihr Selbstwertgefühl.</description></item><item><title>Verein Coiffeurs Justes</title><link>http://example.org/partner/justes/</link><pubDate>Tue, 11 Oct 2022 10:31:38 +0200</pubDate><guid>http://example.org/partner/justes/</guid><description>Haar Recycling Ein wertvoller Rohstoff.
 Bei jedem Haarschnitt tun Sie etwas Gutes für unsere Umwelt. Wir sammeln Ihr Haar und schicken es nach Frankreich. Dort wird daraus Öl- und Benzinsperren angefertigt, um unsere Meere zu schützen.
 Die Forschung geht sogar noch weiter: Es soll eine Haarschnur entwickelt werden für Badeorte, um die Bojen miteinander zu verbinden, um die Sonnencreme zu filtern und unser Ökosystem und die Riffe zu schützen.
-Zum Video</description>
-    </item>
-    
-    <item>
-      <title>Peggy Sage</title>
-      <link>http://example.org/partner/peggy/</link>
-      <pubDate>Mon, 10 Oct 2022 10:31:38 +0200</pubDate>
-      
-      <guid>http://example.org/partner/peggy/</guid>
-      <description>Nach der Übernahme 1995 durch die Familie Collomb, widmet sich die Firma Peggy Sage der Entwicklung eines breiten Sortiments an Make-up und Accessoires. Um Ihnen die besten Produkte und eine hohe Qualität anzubieten, sucht Peggy Sage fortlaufend neue Ideen und Erfindungen. Sie bleiben ihren professionellen Anspruch treu und ihre Produkte werden nicht an Tieren getestet. Sehr gerne bestellen wir ihnen die tollen Produkte.</description>
-    </item>
-    
-    <item>
-      <title>Alter Ego Italy</title>
-      <link>http://example.org/partner/alter_ego-italy/</link>
-      <pubDate>Sun, 09 Oct 2022 10:31:38 +0200</pubDate>
-      
-      <guid>http://example.org/partner/alter_ego-italy/</guid>
-      <description>Alter Ego ist eine italienische Firma, die seit über 30 Jahren existiert. Mit einem kleinen Farbsortiment wird ihr Farbwunsch ganz individuell auf Sie abgestimmt. So erhalten Sie ihr persönliches Farbergebnis, ob beim Färben oder Tönen. Zudem erhalten Sie faszinierende Farbreflexe sowie absolut gepflegte Haare, die fruchtig schmecken und nicht mehr nach Chemie. Die Abdeckung grauer Haare ist zu 100 % garantiert.</description>
-    </item>
-    
-    <item>
-      <title>Schwarzkopf Professional</title>
-      <link>http://example.org/partner/schwarzkopf/</link>
-      <pubDate>Sat, 08 Oct 2022 10:31:38 +0200</pubDate>
-      
-      <guid>http://example.org/partner/schwarzkopf/</guid>
-      <description>Wir lieben Ihre Haare genauso sehr, wie Sie es tun. Mit einer Vielfalt an Haarprodukten bietet Schwarzkopf Professional Lösungen für alle Haartypen. Verwöhnen Sie Ihr Haar mit der neuen Technologie unserer natürlichen veganen Pflegelinie und schenken Sie ihm die Pflege, die es braucht, die frei von Sulfaten, Silikonen, Parabenen, Mineralölen, Mikroplastik und künstlichen Farbstoffen sind.
-Die Styling Produkte in unserem Sortiment wurden sorgfältig ausgesucht, um Sie beim Erschaffen neuer Looks zu unterstützen und den individuellen Ansprüchen eines jeden Stylings gerecht zu werden.</description>
-    </item>
-    
-    <item>
-      <title>Plastik Recycling</title>
-      <link>http://example.org/partner/plastik/</link>
-      <pubDate>Fri, 13 Sep 2019 22:44:44 +0200</pubDate>
-      
-      <guid>http://example.org/partner/plastik/</guid>
-      <description>Ein wertvoller Rohstoff.
+Zum Video</description></item><item><title>Peggy Sage</title><link>http://example.org/partner/peggy/</link><pubDate>Mon, 10 Oct 2022 10:31:38 +0200</pubDate><guid>http://example.org/partner/peggy/</guid><description>Nach der Übernahme 1995 durch die Familie Collomb, widmet sich die Firma Peggy Sage der Entwicklung eines breiten Sortiments an Make-up und Accessoires. Um Ihnen die besten Produkte und eine hohe Qualität anzubieten, sucht Peggy Sage fortlaufend neue Ideen und Erfindungen. Sie bleiben ihren professionellen Anspruch treu und ihre Produkte werden nicht an Tieren getestet. Sehr gerne bestellen wir ihnen die tollen Produkte.</description></item><item><title>Alter Ego Italy</title><link>http://example.org/partner/alter_ego-italy/</link><pubDate>Sun, 09 Oct 2022 10:31:38 +0200</pubDate><guid>http://example.org/partner/alter_ego-italy/</guid><description>Alter Ego ist eine italienische Firma, die seit über 30 Jahren existiert. Mit einem kleinen Farbsortiment wird ihr Farbwunsch ganz individuell auf Sie abgestimmt. So erhalten Sie ihr persönliches Farbergebnis, ob beim Färben oder Tönen. Zudem erhalten Sie faszinierende Farbreflexe sowie absolut gepflegte Haare, die fruchtig schmecken und nicht mehr nach Chemie. Die Abdeckung grauer Haare ist zu 100 % garantiert.</description></item><item><title>Schwarzkopf Professional</title><link>http://example.org/partner/schwarzkopf/</link><pubDate>Sat, 08 Oct 2022 10:31:38 +0200</pubDate><guid>http://example.org/partner/schwarzkopf/</guid><description>Wir lieben Ihre Haare genauso sehr, wie Sie es tun. Mit einer Vielfalt an Haarprodukten bietet Schwarzkopf Professional Lösungen für alle Haartypen. Verwöhnen Sie Ihr Haar mit der neuen Technologie unserer natürlichen veganen Pflegelinie und schenken Sie ihm die Pflege, die es braucht, die frei von Sulfaten, Silikonen, Parabenen, Mineralölen, Mikroplastik und künstlichen Farbstoffen sind.
+Die Styling Produkte in unserem Sortiment wurden sorgfältig ausgesucht, um Sie beim Erschaffen neuer Looks zu unterstützen und den individuellen Ansprüchen eines jeden Stylings gerecht zu werden.</description></item><item><title>Plastik Recycling</title><link>http://example.org/partner/plastik/</link><pubDate>Fri, 13 Sep 2019 22:44:44 +0200</pubDate><guid>http://example.org/partner/plastik/</guid><description>Ein wertvoller Rohstoff.
 Wir Sammeln das ganze Coiffeur Plastik. Das bedeutet für Sie, dass Sie ihre gekauften Plastikflaschen zurück in den Salon bring können.
 Denn für die Herstellung von Plastik wird das Gold der Erde das Erdöl benötigt. Deshalb ist es umso wichtiger das Produzieren von neuem Plastik zu reduzieren. Zudem wird beim Verbrennen von 1 Kg Plastik ca. 3 Kg co2 freigesetzt das unsere Umwelt belastet.
-Wir Entsorgen das Plastik Fachgerecht in einem Sack der in einer dafür geeigneten Sortieranlage nach Qualität sortiert wird.</description>
-    </item>
-    
-  </channel>
-</rss>
+Wir Entsorgen das Plastik Fachgerecht in einem Sack der in einer dafür geeigneten Sortieranlage nach Qualität sortiert wird.</description></item></channel></rss>
