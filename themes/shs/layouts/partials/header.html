@@ -1,3 +1,10 @@
+<script>
+    function toggleNav() {
+        const nav = document.getElementById('mobile-nav');
+        nav.classList.toggle('hidden');
+    }
+</script>
+
 <nav class="px-4 grid grid-cols-2">
 
 
@@ -22,7 +29,7 @@
     </a>
 
 
-    <ul class="col-start-1 col-end-3">
+    <ul class="col-start-1 col-end-3 hidden md:block">
         {{ range .Site.Menus.nav }}
             <li class="
             pr-10 pb-2 inline-block
@@ -32,4 +39,28 @@
             </li>
         {{ end }}
     </ul>
+
+
+    <div class="container mx-auto px-4 py-4 flex justify-between items-center bock md:hidden">
+        <button onclick="toggleNav()" class="p-2 focus:outline-none">
+            <svg class="w-6 h-6"
+                 color="#e80bc5"
+                 fill="none"
+                 stroke="currentColor"
+                 viewBox="0 0 24 24">
+
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>
+            </svg>
+        </button>
+    </div>
 </nav>
+
+
+<div id="mobile-nav" class="hidden bg-white shadow-md">
+    <div class="container mx-auto px-4 py-2">
+        {{ range .Site.Menus.nav }}
+
+            <a class="block py-2 text-gray-800 hover:text-blue-500" href="{{ .URL }}">{{ .Name }}</a>
+        {{ end }}
+    </div>
+</div>
