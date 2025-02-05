@@ -2,7 +2,10 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Sonjas Haarstyle'
 theme = "shs"
+enableGitInfo = true
 
+[outputs]
+home = ['HTML', 'RSS', 'JSON']
 
 
 [menu]

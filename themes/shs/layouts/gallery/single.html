@@ -18,24 +18,13 @@
             {{ $pics = $pics | append .Name }}
         {{ end }}
 
+        {{ $j := jsonify ($pics) }}
+        {{ $noop := (resources.FromString "/gallery.json" $j).Permalink }}
 
-        <div id="gallery">
-        </div>
 
+        <div id="gallery"></div>
 
-        <script src="/js/gallery.js"></script>
-
-        <script>
-            const pictureString = {{ $pics | jsonify }};
-
-            const pictures = JSON.parse(pictureString).map(n => "/pic/gallery/pics/" + n);
-
-            let state = initGalery({
-                imageIndex: 0,
-                pictures: pictures,
-                source: image,
-                setSource: setPicture
-            })
+        <script src="/js/gallery.js" type="module">
         </script>
     </div>
 
