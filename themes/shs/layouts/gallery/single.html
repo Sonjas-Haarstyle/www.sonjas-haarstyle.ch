@@ -1,4 +1,4 @@
-{{ define "main"}}
+{{ define "main" }}
 
     <div class="
                 grid 
@@ -10,20 +10,19 @@
  
     ">
 
-        <h1>{{ .Title}}</h1>
-        {{ .Content}}
+        <h1>{{ .Title }}</h1>
+        {{ .Content }}
 
         {{ $pics := slice }}
         {{ range readDir "/static/pic/gallery/pics" }}
-            {{ $pics = $pics | append .Name}}
-        {{ end}}
-
+            {{ $pics = $pics | append .Name }}
+        {{ end }}
 
 
         <div id="gallery">
         </div>
-        
-        
+
+
         <script src="/js/gallery.js"></script>
 
         <script>
@@ -41,4 +40,4 @@
     </div>
 
 
-{{end}}
+{{ end }}

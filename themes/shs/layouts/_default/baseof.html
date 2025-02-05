@@ -7,24 +7,24 @@ lg:mx-34
 xl:mx-72
 bg-black
 ">
-    {{- partial "head.html" . -}}
+{{- partial "head.html" . -}}
 
-    <body class="bg-zinc-900">
+<body class="bg-zinc-900">
 
 
-    {{- partial "header.html" . -}}
+{{- partial "header.html" . -}}
 
-        <article id="content"
-            class="border-black
+<article id="content"
+         class="border-black
                 p-4
                 grid
                 grid-cols-1
                 gap-4
             
             ">
-        {{- block "main" . }}{{- end }}
-        </article>
-        
-        {{- partial "footer.html" . -}}
-    </body>
+    {{- block "main" . }}{{- end }}
+</article>
+
+{{- partial "footer.html" . -}}
+</body>
 </html>

@@ -1,7 +1,7 @@
-{{ define "main"}}
+{{ define "main" }}
     <script src="/js/gallery.js"></script>
 
-    {{ range $index, $page := .Pages}}
+    {{ range $index, $page := .Pages }}
 
         <div class="
                 grid 
@@ -13,54 +13,53 @@
                 border-4 border-shs
             "
         >
-            
-        {{if isset $page.Params "image" }}
-            <img 
-                class="
+
+            {{ if isset $page.Params "image" }}
+                <img
+                        class="
                     mx-auto
                     w-40 h-40
                     border-4 border-shs 
                     rounded-full
                 "
-                src="{{.Params.image}}">
-        {{end}}
+                        src="{{ .Params.image }}">
+            {{ end }}
 
-        <div class="grid grid-cols-2 ">
-            <h1>
-                {{.Title}}
-            </h1>
-            <i class="text-right">{{dateFormat "02.01.2006" $page.Date}}</i>
-            
-            
-            <div class="col-span-2">
-                {{.Content}}
-            
-                {{if isset $page.Params "videos"}}
-
-                    {{range $page.Params.videos}}
-                        <iframe
-                            class="m-4"
-                            width="300" 
-                            height="150" 
-                            src="{{.src}}" 
-                            title="{{.title}}"
-                            frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-
-                        </iframe>
-                    {{end}}
+            <div class="grid grid-cols-2 ">
+                <h1>
+                    {{ .Title }}
+                </h1>
+                <i class="text-right">{{ dateFormat "02.01.2006" $page.Date }}</i>
 
 
+                <div class="col-span-2">
+                    {{ .Content }}
 
-                {{end}}
-            
+                    {{ if isset $page.Params "videos" }}
+
+                        {{ range $page.Params.videos }}
+                            <iframe
+                                    class="m-4"
+                                    width="300"
+                                    height="150"
+                                    src="{{ .src }}"
+                                    title="{{ .title }}"
+                                    frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                    allowfullscreen>
+
+                            </iframe>
+                        {{ end }}
+
+
+
+                    {{ end }}
+
+                </div>
+
             </div>
-        
+
+
         </div>
-
-
-
-        
-    </div>
-    {{end}}
-{{end}}
+    {{ end }}
+{{ end }}

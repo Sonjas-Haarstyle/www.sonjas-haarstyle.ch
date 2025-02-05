@@ -6,19 +6,19 @@
     ">
 
 
-        {{range .Site.Pages}}
-            {{if and (eq .Section "footer") (not (eq .Path "footer")) }}
-                <div>
-                    <strong class="text-shs">
-                        {{.Title}}
-                    </strong>
-                    {{.Content}} 
+    {{ range .Site.Pages }}
+        {{ if and (eq .Section "footer") (not (eq .Path "footer")) }}
+            <div>
+                <strong class="text-shs">
+                    {{ .Title }}
+                </strong>
+                {{ .Content }}
 
-                    {{range .Params.Icons}}
-                        <img class="w-10 h-10 mr-2 inline" src="{{.}}"\>
-                    {{end}}
-                </div>
-            {{end}}
-        {{end}}
+                {{ range .Params.Icons }}
+                    <img class="w-10 h-10 mr-2 inline" src="{{ . }}" \>
+                {{ end }}
+            </div>
+        {{ end }}
+    {{ end }}
 
 </footer>
