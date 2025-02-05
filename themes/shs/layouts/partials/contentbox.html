@@ -1,0 +1,22 @@
+<div class="
+                grid
+                grid-cols-[10rem, auto]
+                md:grid-cols-[auto,auto]
+
+                gap-5
+                grid
+                bg-white
+                p-4 mb-4
+                border-4 border-shs
+            "
+>
+    {{ if isset .Params "image" }}
+        {{ partial "content/image" . }}
+    {{ else if isset .Params "video" }}
+        {{ partial "content/youtube" . }}
+    {{ else }}
+        {{ partial "content/content" . }}
+    {{ end }}
+
+
+</div>

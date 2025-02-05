@@ -1,0 +1,19 @@
+<div class="w-1/1">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+
+
+    {{ range .Params.video }}
+        <iframe
+                class="m-4"
+                width="300"
+                height="150"
+                src="{{ .src }}"
+                title="{{ .title }}"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen>
+
+        </iframe>
+    {{ end }}
+</div>

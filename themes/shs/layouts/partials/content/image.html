@@ -1,0 +1,30 @@
+{{ define "img" }}
+    <img class="mx-auto
+                w-40 h-40
+                border-2 border-shs
+                {{ .Params.image_border }}"
+         src="{{ .Params.image }}"
+    />
+{{ end }}
+
+{{ define "content" }}
+    <div class="w-1/1">
+        <h1>{{ .Title }}</h1>
+        {{ .Content }}
+    </div>
+{{ end }}
+
+
+{{ if eq .Params.image_align "left" }}
+    {{ block "img" . }}{{ end }}
+    {{ block "content" . }}{{ end }}
+
+{{ else if eq .Params.image_align "right" }}
+    {{ block "content" . }}{{ end }}
+    {{ block "img" . }}{{ end }}
+
+{{ else }}
+    {{ block "img" . }}{{ end }}
+    {{ block "content" . }}{{ end }}
+
+{{ end }}
