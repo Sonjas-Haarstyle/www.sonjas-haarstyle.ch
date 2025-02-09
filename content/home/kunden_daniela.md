@@ -1,7 +1,7 @@
 ---
 title: "Das sagt Daniela über uns"
 date: 2022-09-12T22:44:44+02:00
-image: "/pic/kunden/Daniela.jpg"
+image: "/pic/kunden/Daniela.jpeg"
 image_align: "right"
 image_border: "rounded-full"
 ---
