@@ -1,7 +1,7 @@
 ---
 title: "Das sagen Christine & Martin über uns"
 date: 2022-10-07T22:44:44+02:00
-image: "/pic/kunden/christine_martin (1).jpg"
+image: "/pic/kunden/christine_martin.jpg"
 image_align: "right"
 image_border: "rounded-full"
 ---
