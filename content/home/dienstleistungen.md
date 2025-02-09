@@ -1,7 +1,7 @@
 ---
 title: "Unser Angebot"
 date: 2022-10-10T22:44:44+02:00
-image: "/pic/shop/unsere diensleistung.JPG"
+image: "/pic/shop/unsere diensleistung.jpg"
 image_align: "right"
 image_border: ""
 ---
