@@ -1,7 +1,7 @@
 ---
 title: "Das sagt Nicolina über uns"
 date: 2022-10-09T22:44:44+02:00
-image: "/pic/kunden/Nicole.jpeg"
+image: "/pic/kunden/nicole.jpg"
 image_align: "right"
 image_border: "rounded-full"
 ---
