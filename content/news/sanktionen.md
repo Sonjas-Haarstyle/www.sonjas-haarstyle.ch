@@ -1,6 +1,6 @@
 ---
 title: "Sind gebuchte Termine verbindlich?"
-date: 2025-01-03T10:30:41+02:00
+date: 2025-19-03T10:30:41+02:00
 ---
 Die Antwort lautet: **JA!** 
 
