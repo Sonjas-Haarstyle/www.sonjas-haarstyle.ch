@@ -9,5 +9,5 @@ date: 2024-12-27T10:30:41+02:00
 - Donnerstag **08.05.2025 (08:00 - 12:00)** 
 - Donnerstag **22.05.2025 (8:00 - 12:00)** 
 - Donnerstag **29.05.2025** (Auffahrt)
-- Samstag **06.09.2025** (Jubiläumfeier bei schönem Wetter)
+- Samstag **06.09.2025** (Die Jubiläumsfeier findet nur bei schönem Wetter statt.)
 
