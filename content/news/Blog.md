@@ -16,4 +16,4 @@ Im Salon mache ich 48 Stunden vor einer Färbung oder Dauerwelle einen Allergiet
 
 - Blasenbildung auf der Kopfhaut
 
--Verbrennungen der Kopfhaut 
+- Verbrennungen der Kopfhaut 
