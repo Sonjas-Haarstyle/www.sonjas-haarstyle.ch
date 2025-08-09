@@ -1,5 +1,5 @@
 ---
 title: "Betriebsferien"
-date: 2024-12-27T10:30:41+02:00
+date: 2025-08-08T10:30:41+02:00
 ---
-Montag **28.07.2025** bis Samstag **02.08.2025** 
+Montag **08.09.2025** bis Samstag **14.09.2025** 
