@@ -1,7 +1,7 @@
 ---
 title: "Plastik Recycling"
 date: 2019-09-13T22:44:44+02:00
-image: "/pic/partner/Logo Bring Plastic back.png"
+image: "/pic/partner/logo_plastic.png"
 ---
 
 Ein wertvoller Rohstoff.
