@@ -7,6 +7,8 @@ videos:
     - src: https://www.youtube.com/embed/p7c4BYAYd4o
       title: Entspannungs-Kopfmassage bei Sonjas Haarstyle
 ---
+[Zehn Jahre Sonjas Haarstyle](https://www.bern-ost.ch/Zehn-Jahre-Sonjas-Haarstyle-Vom-Provisorium-zum-Salon-706725)
+
 [Reportage über Sonjas Haarstyle](https://www.bern-ost.ch/Bim-Coiffeur-bini-gsaesse-Im-Salon-Sonjas-Haarstyle-691748)
 
 [Recycling im Coiffeursalon](https://worberpost.ch/recycling-im-coiffeursalon-haare-als-oelsperren-auf-unseren-ozeanen/)
