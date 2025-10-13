@@ -9,4 +9,4 @@ date: 2022-09-12T22:44:44+02:00
 
 [Stornierungsbedingungen](/doc/Stornierungsbedingungen.pdf)
 
-[Datenschutz Einverständniserklärung](/doc/Datenschutz.pdf).
+[Datenschutz Einverständniserklärung](/doc/Datenschutz.pdf)
