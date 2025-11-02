@@ -61,7 +61,7 @@ weight = 10
 
 [[menu.nav]]
 name = "Workshop"
-url = "/workshop"
+url = "https://form.jotform.com/253053125619352"
 weight = 11
 
 [params]
