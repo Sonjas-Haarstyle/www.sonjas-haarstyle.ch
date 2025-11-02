@@ -61,7 +61,7 @@ weight = 10
 
 [[menu.nav]]
 name = "Workshop"
-url = "/Workshop"
+url = "/workshop"
 weight = 11
 
 [params]
