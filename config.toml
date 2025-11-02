@@ -59,6 +59,11 @@ name = "Blog"
 url = "https://blogsonjashaarstyle.blogspot.com"
 weight = 10
 
+[[menu.nav]]
+name = "Workshop"
+url = "/Workshop"
+weight = 11
+
 [params]
 phone = "+41 31 832 41 94"
 
