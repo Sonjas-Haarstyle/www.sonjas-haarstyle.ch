@@ -1,6 +1,6 @@
 ---
 title: "Videos & Berichte"
-date: 2022-10-04T10:30:10+02:00
+date: 2025-10-04T10:30:10+02:00
 
 videos:
 
