@@ -1,5 +1,5 @@
 ---
-title: **"Entspannungs-Kopfmassage in Worb – Ihre Auszeit für Körper & Seele"**
+title: "Entspannungs-Kopfmassage in Worb – Ihre Auszeit für Körper & Seele"
 date: 2022-10-12T10:41:52+02:00
 ---
 
