@@ -1,10 +1,15 @@
 ---
-title: "Standort"
+title: "Mein Standort"
 date: 2022-09-14T10:30:41+02:00
 ---
 
-Wir freuen uns sehr Sie an der Vechigenstrasse 16 in Worb zu begrüssen.
+Ich freue mich, Sie in meinem **Coiffeur-Salon in Worb** an der **Vechigenstrasse 16** begrüßen zu dürfen.
 
-* Unser Geschäft befindet sich *7-Minuten* vom *RBS Bahnhof Worb Dorf* oder *6-Minuten* von der *Haltestelle Worbboden* entfernt.
+Unser Geschäft ist **zentral gelegen:**
 
-* Vor dem Geschäft befinden Sich zwei Kundenparkplätze die Sie benutzen können.
+- **7 Minuten** zu Fuß vom **RBS Bahnhof Worb Dorf**
+- **6 Minuten** von der **Haltestelle Worbboden**
+
+Für meine Kundinnen und Kunden stehen **zwei Kundenparkplätze direkt vor dem Salon** zur Verfügung. So erreichen Sie mich **bequem mit Auto oder öffentlichen Verkehrsmitteln**.
+
+Besuchen Sie mich in **Worb** und genießen Sie Ihre **entspannte Auszeit im Salon**.
