@@ -9,7 +9,7 @@ Bei Sonjas Haarstyle gehe ich verantwortungsvoll vor:<br>
 - Sollten Sie trotzdem eine Haarfärbung für Ihr Kind wünschen, benötigen wir eine **schriftliche Einverständniserklärung der Erziehungsberechtigten**.
 - Mit dieser Erklärung bestätigen die Eltern, dass sie über die **Risiken einer allergischen Reaktion informiert sind** und **Sonjas Haarstyle nicht haftbar gemacht werden kann**.
 
-Alternativ bieten wir **Color Masken** an. So können auch jüngere Kundinnen und Kunden **stylische Haarfarben genießen – unter sicheren und schonenden Bedingungen.**
+Alternativ bieten ich **Color Masken** an. So können auch jüngere Kundinnen und Kunden **stylische Haarfarben genießen – unter sicheren und schonenden Bedingungen.**
 Mein Ziel ist es, Jugendliche **professionell und verantwortungsbewusst** zu beraten, damit sie **gesundes, gepflegtes Haar** genießen können.
 
 
