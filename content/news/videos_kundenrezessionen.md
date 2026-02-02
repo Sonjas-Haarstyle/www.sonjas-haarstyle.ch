@@ -1,5 +1,5 @@
 ---
-title: "Was sagen unsere Kunden über uns"
+title: "Was sagt meine Kundschaft über mich"
 date: 2025-10-05T10:30:10+02:00
 
 videos:
