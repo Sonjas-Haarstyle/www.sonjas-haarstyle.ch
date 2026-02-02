@@ -20,7 +20,7 @@ Die **Kopfmassage** wirkt ganzheitlich auf **Körper und Seele** und sorgt für 
 - Fördert **Konzentration und Wohlbefinden**
 - Unterstützt den Abtransport von **Abfallstoffen über den Blutfluss**
 
-Unsere **Entspannungs-Kopfmassage** können Sie **einzeln buchen** oder **ideal mit Ihrer Coiffeur-Behandlung kombinieren** – für noch mehr Wohlbefinden und Entspannung.
+Meine **Entspannungs-Kopfmassage** können Sie **einzeln buchen** oder **ideal mit Ihrer Coiffeur-Behandlung kombinieren** – für noch mehr Wohlbefinden und Entspannung.
 
 Gönnen Sie sich Ihre persönliche **Wellness-Auszeit in Worb**.
 
