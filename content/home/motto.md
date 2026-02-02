@@ -8,8 +8,7 @@ Ich nehme mir Zeit für Ihr individuelles Hairstyling
 Sonjas Haarstyle ist Ihr professioneller **Coiffeursalon in Worb**, der persönliche Beratung, typgerechte Schnitte und individuelle Farbkonzepte in den Mittelpunkt stellt. Ob klassischer **Haarschnitt**, modernes Haarstyling oder kreative Farbgestaltung – bei mir entstehen Frisuren, die perfekt zu Ihnen und Ihrem Typ passen.
 
 Für besondere Anlässe biete ich zudem professionelles **Fest- und Hochzeitsstyling sowie Braut-Make-up** an, damit Sie an Ihrem grossen Tag rundum perfekt gestylt sind.  
-  
-    
+<p>
 **Entspannung inklusive**
 <br>
 Zu jeder Haarwäsche geniessen Sie eine **kurze, entspannende Kopfmassage**, die Ihr Wohlbefinden steigert und für Erholung sorgt. Auf Wunsch kann die Kopfmassage auch als **verlängerte Wellness-Kopfmassage** gebucht werden – ideal, um während Ihres Besuchs in unserem Salon richtig abzuschalten.  
