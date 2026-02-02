@@ -1,13 +1,16 @@
 ---
-title: "Alter Ego Italy"
+title: "Alter Ego Italy – Haarfarben & Pflegelinie in Worb"
 date: 2022-10-09T10:31:38+02:00
 image: "/pic/partner/logo_dobi.png"
 ---
+**Alter Ego Italy** ist eine **italienische Haarfarben-Marke** mit über **30 Jahren Erfahrung**. Mit einem **kleinen, hochwertigen Farbsortiment** wird Ihr **Farbwunsch individuell auf Sie abgestimmt**, sodass Sie **Ihr persönliches Farbergebnis** erhalten – egal, ob **Färben oder Tönen**.
 
-Alter Ego ist eine italienische Firma, die seit über 30 Jahren existiert.
-Mit einem kleinen Farbsortiment wird ihr Farbwunsch ganz individuell auf Sie abgestimmt.
-So erhalten Sie ihr persönliches Farbergebnis, ob beim Färben oder Tönen.
-Zudem erhalten Sie faszinierende Farbreflexe sowie absolut gepflegte Haare, 
-die fruchtig schmecken und nicht mehr nach Chemie. 
-Die Abdeckung grauer Haare ist zu 100 % garantiert.
+**Die Vorteile der Alter Ego Haarfarben:**
+- Faszinierende **Farbreflexe**
+- Absolut **gepflegte, gesunde Haare**
+- **Fruchtiger Duft**, ohne chemischen Geruch
+- **100 % Abdeckung** grauer Haare
 
+Da die **Haarfarben sowohl mich als auch meine Kundschaft überzeugt haben**, habe ich mich zusätzlich für die **Pflegelinie von Alter Ego** entschieden.
+Nicht nur ich, sondern auch meine Kundinnen und Kunden sind **begeistert von der Pflegelinie**, die überwiegend aus **natürlichen Inhaltsstoffen** besteht.
+Überzeugen Sie sich selbst von den **hochwertigen Haarfarben und der nachhaltigen Pflegelinie bei Sonjas Haarstyle in Worb** – für **gesundes, glänzendes Haar und leuchtende Farben**.
