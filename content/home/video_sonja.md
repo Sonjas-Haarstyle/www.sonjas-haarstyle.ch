@@ -1,5 +1,5 @@
 ---
-title: "Ihr kleiner persönlicher Coiffeursalon"
+title: "Ihr kleiner persönlicher Coiffeursalon in Worb"
 date: 2022-10-11T10:30:10+02:00
 
 video:
