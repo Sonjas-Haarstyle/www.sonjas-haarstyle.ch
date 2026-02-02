@@ -1,11 +1,11 @@
 ---
-title: "Unser Angebot"
+title: "Unser Dienstleistungsangebot"
 date: 2022-10-10T22:44:44+02:00
 image: "/pic/shop/unsere diensleistung.jpg"
 image_align: "right"
 image_border: ""
 ---
-**für Damen**
+**Damencoiffeur**
 
 * waschen, schneiden, föhnen
 * Messerhaarschnitt 
@@ -22,7 +22,7 @@ image_border: ""
 * Augenbrauen zupfen / wachsen
 * Augenbrauen Lifting
 
-**für Herren**
+**Herrencoiffer**
 
 * waschen, schneiden, föhnen
 * Messerhaarschnitt 
@@ -36,7 +36,7 @@ image_border: ""
 
 
 
-**für Kinder**
+**Kindercoiffeur**
 
 * schneiden
 * waschen, schneiden, föhnen
