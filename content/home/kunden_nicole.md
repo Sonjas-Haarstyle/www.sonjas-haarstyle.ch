@@ -1,5 +1,5 @@
 ---
-title: "Das sagt Nicolina über uns"
+title: "Das sagt Nicolina über mich"
 date: 2022-10-09T22:44:44+02:00
 image: "/pic/kunden/nicole.jpg"
 image_align: "right"
