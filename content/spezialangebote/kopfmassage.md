@@ -23,3 +23,5 @@ Die **Kopfmassage** wirkt ganzheitlich auf **Körper und Seele** und sorgt für 
 Unsere **Entspannungs-Kopfmassage** können Sie **einzeln buchen** oder **ideal mit Ihrer Coiffeur-Behandlung kombinieren** – für noch mehr Wohlbefinden und Entspannung.
 
 Gönnen Sie sich Ihre persönliche **Wellness-Auszeit in Worb**.
+
+[Jetzt Coiffeur-Termin buchen.](https://www.beautybooking.ch/app/booking.html?company=sonjas-haarstyle)
