@@ -43,4 +43,4 @@ image_border: ""
 * Farbmascara
 * Flechtfrisuren
 
-[Jetzt Termin vereinbaren.](https://www.beautybooking.ch/app/booking.html?company=sonjas-haarstyle)
+[Jetzt Coiffeur-Termin in Worb buchen.](https://www.beautybooking.ch/app/booking.html?company=sonjas-haarstyle)
