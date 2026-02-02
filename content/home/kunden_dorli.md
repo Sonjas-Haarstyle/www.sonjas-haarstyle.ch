@@ -1,5 +1,5 @@
 ---
-title: "Das sagt Dorli über uns"
+title: "Das sagt Dorli über mich"
 date: 2022-10-08T22:44:44+02:00
 image: "/pic/kunden/Dorli.jpg"
 image_align: "left"
