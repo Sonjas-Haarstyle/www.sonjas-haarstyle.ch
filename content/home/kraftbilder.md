@@ -9,7 +9,7 @@ icons:
     - icon: "/svgs/recycle.svg"
       text: "Haar- & Plastik-Recygling"
     - icon: "/svgs/herz.svg"
-      text: "100% persönlicher Service"
+      text: "Coiffeuse mit Leib und Seele "
     - icon: "/svgs/zeit.svg"
-      text: "Ich nehme mir Zeit"
+      text: "Ich nehme mir bewusst Zeit"
 ---
