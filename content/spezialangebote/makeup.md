@@ -19,6 +19,7 @@ Gemeinsam finden wir das Make-up, das zu Ihrem Typ, Ihrem Anlass und Ihrer Pers�
 - **Schminkkurse in kleinen Gruppen** (bis max. 4 Personen)
 - **Kinderschminken für Events & Kindergeburtstage**
 
-Die **persönliche Schminkberatung** sowie **Tages-, Abend- und Hochzeits-Make-up** können **einzeln oder in Kombination mit Ihrer Coiffeur-Behandlung** gebucht werden – für ein **rundum stimmiges Erscheinungsbild.**
+Die **persönliche Schminkberatung** sowie **Tages-, Abend- und Hochzeits-Make-up** können **einzeln oder in Kombination mit Ihrer Coiffeur-Behandlung** 
+gebucht werden – für ein **rundum stimmiges Erscheinungsbild.**
 
 Lassen Sie sich professionell beraten und geniessen Sie **Make-up in entspannter Wohlfühlatmosphäre in Worb.**
