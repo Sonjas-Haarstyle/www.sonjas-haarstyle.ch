@@ -1,5 +1,5 @@
 ---
-title: "Mein Standort"
+title: "Mein Standort – Coiffeur in Worb"
 date: 2022-09-14T10:30:41+02:00
 ---
 
