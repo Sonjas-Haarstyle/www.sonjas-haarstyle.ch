@@ -1,5 +1,5 @@
 ---
-title: "Splissbehandlung in Worb – Länge behalten & Haarpflege"
+title: "Splissbehandlung in Worb – Gesunde Spitzen ohne Haarlängenverlust"
 date: 2022-10-09T10:41:52+02:00
 ---
 
