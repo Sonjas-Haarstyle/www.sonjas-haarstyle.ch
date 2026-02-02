@@ -13,7 +13,7 @@ Nach der Behandlung sieht Ihr Haar **gesund, glänzend und gepflegt** aus, fühl
 
 - Entfernt **gespaltene Spitzen**, ohne die Haarlänge zu verlieren
 - Sorgt für **glänzendes, gesundes Haar**
-- Reduziert **Haarbruch** und stärkt die Haarstruktur
+- Reduziert **Haarbruch** 
 - Ideal für **lange Haare**, die gepflegt und gesund aussehen sollen
 
 Gönnen Sie Ihrem Haar diese **professionelle Splissbehandlung in Worb** und genießen Sie wieder **geschmeidige, gepflegte Spitzen – ohne Kompromisse bei der Länge.**
