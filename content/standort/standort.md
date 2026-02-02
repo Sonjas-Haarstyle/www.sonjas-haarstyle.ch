@@ -5,7 +5,7 @@ date: 2022-09-14T10:30:41+02:00
 
 Ich freue mich, Sie in meinem **Coiffeur-Salon in Worb** an der **Vechigenstrasse 16** begrüßen zu dürfen.
 
-Unser Geschäft ist **zentral gelegen:**
+Mein Geschäft ist **zentral gelegen:**
 
 - **7 Minuten** zu Fuß vom **RBS Bahnhof Worb Dorf**
 - **6 Minuten** von der **Haltestelle Worbboden**
