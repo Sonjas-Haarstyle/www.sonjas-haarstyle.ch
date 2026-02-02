@@ -11,7 +11,7 @@ Für besondere Anlässe biete ich zudem professionelles **Fest- und Hochzeitssty
   
     
 **Entspannung inklusive**
-
+<br>
 Zu jeder Haarwäsche geniessen Sie eine **kurze, entspannende Kopfmassage**, die Ihr Wohlbefinden steigert und für Erholung sorgt. Auf Wunsch kann die Kopfmassage auch als **verlängerte Wellness-Kopfmassage** gebucht werden – ideal, um während Ihres Besuchs in unserem Salon richtig abzuschalten.  
   
   
