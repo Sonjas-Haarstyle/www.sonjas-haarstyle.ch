@@ -1,5 +1,5 @@
 ---
-title: "Unser Dienstleistungsangebot"
+title: "Alle Dienstleistungsangebote"
 date: 2022-10-10T22:44:44+02:00
 image: "/pic/shop/unsere diensleistung.jpg"
 image_align: "right"
@@ -22,7 +22,7 @@ image_border: ""
 * Augenbrauen zupfen / wachsen
 * Augenbrauen Lifting
 
-**Herrencoiffer**
+**Herrencoiffeur**
 
 * waschen, schneiden, föhnen
 * Messerhaarschnitt 
