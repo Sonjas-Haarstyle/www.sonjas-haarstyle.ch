@@ -5,32 +5,25 @@ image: "/pic/me.jpg"
 ---
 
 
-*Geschäftsinhaberin, Coiffeuse EFZ, Visagistin*
+*Coiffeuse EFZ, Visagistin*
 
 ---
-Am 8. September 2015 erfüllte sich meinen Traum der Selbständigkeit und ich durfte meine kleine Wohlfühloase in Worb eröffnen.
 
+Am 8. September 2015 erfüllte sich mein Traum der Selbstständigkeit, und ich eröffnete meine kleine Wohlfühloase in Worb. Seitdem begrüsse ich meine Kundinnen und Kunden in einer persönlichen, entspannten Atmosphäre, in der Zeit, Qualität und Wohlbefinden im Mittelpunkt stehen.
 
+Perfektion und die Liebe zum Coiffeur-Beruf zeichnen mich aus. Ich arbeite jeden Tag mit viel Freude, Leidenschaft und Herzblut. Deshalb nehme ich mir bewusst genügend Zeit für Sie und Ihr Anliegen. Mein Ziel ist es, dass Sie meinen Coiffeur-Salon in Worb entspannt, zufrieden und erholt verlassen – nach einer kurzen Auszeit vom Alltag.
 
-Die Perfektion und die Liebe zum Beruf zeichnet mich aus. So habe ich das Glück, dass ich ihn jeden Tag mit viel Freude, Leidenschaft und Herzblut ausüben darf. 
-Daher nehme ich mir genügend Zeit für Sie und Ihr Anliegen. 
-Denn mir ist wichtig, dass Sie mein Geschäft entspannt und zufrieden verlassen, nachdem Sie eine kurze Auszeit geniessen konnten.
+Dank meiner aufgestellten, freundlichen Art und dem nötigen Feingefühl berate ich Sie persönlich und typgerecht. Ich gehe gezielt auf Ihre Wünsche ein und kreiere Frisuren, die nicht nur im Salon, sondern auch zu Hause gut gelingen.
 
-Durch meine aufgestellte, freundliche Art und dem erforderlichen Feingefühl, berate ich Sie persönlich und typgerecht, um auf ihre Wünsche einzugehen. So kann ich Frisuren kreieren, die Ihnen auch zu Hause wieder gelingen.
+Ich durfte noch das klassische Coiffeur-Handwerk erlernen und habe mein Auge für Form und Farbe durch zahlreiche Weiterbildungen stetig weiterentwickelt. Der grösste Teil meiner Arbeit erfolgt mit Schere und Messer, um präzise Haarschnitte zu schaffen und die Haarfarbe optimal auf Ihren Hauttyp abzustimmen.
 
-Ich durfte noch das alte Handwerk erlernen und konnte durch meine zahlreichen Weiterbildungen, mein Auge für Form und Farbe weiterentwickeln.
-Das bedeutet, dass der grösste Teil mit Schere und Messer geschnitten wird, um präzise Haarschnitte zu kreieren und die Haarfarbe auf Ihren Hauttyp abzustimmen.
+Mein Gespür für Form und Farbe bringe ich auch bei Make-up und Hochsteckfrisuren ein – ob für besondere Anlässe oder einfach, um sich selbst etwas Gutes zu tun.
 
-Mein Verständnis für Form und Farbe kann ich idealerweise auch bei Make-up und Hochsteckfrisuren verwirklichen.
+Beim Haarewaschen verwöhne ich Sie mit einer kurzen, entspannenden Kopfmassage, die hilft, zur Ruhe zu kommen. Zusätzlich biete ich ein ganzheitliches Entspannungsprogramm, das bei meiner Kundschaft sehr beliebt ist – alle schwärmen davon.
 
-Beim Haarewaschen verwöhne ich Sie jeweils mit einer kurzen, entspannenden Kopfmassage.
-Sie ist ein sehr geeignetes Mittel, um zur Ruhe zu kommen.
-Zudem biete ich ein ganzheitliches Entspannungsprogramm an.
-Dieses Entspannungsprogramm ist bei meiner Kundschaft sehr beliebt – alle schwärmen davon.
-
-Ich freue mich auf Sie
+Ich freue mich darauf, Sie persönlich in meinem Coiffeur-Salon in Worb begrüssen zu dürfen.
 
 Bis bald
 
 
-[Jetzt Termin vereinbaren.](https://www.beautybooking.ch/app/booking.html?company=sonjas-haarstyle)
+[Jetzt Coiffeur-Termin buchen.](https://www.beautybooking.ch/app/booking.html?company=sonjas-haarstyle)
