@@ -1,5 +1,5 @@
 ---
-title: "Virtueller Rundgang"
+title: "Virtueller Rundgang – Räume digital erleben wie vor Ort"
 date: 2022-09-13T22:44:44+02:00
 ---
 
