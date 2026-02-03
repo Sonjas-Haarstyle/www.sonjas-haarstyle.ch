@@ -10,7 +10,7 @@ home = ['HTML', 'RSS', 'JSON']
 
 [menu]
 [[menu.nav]]
-name = "Home"
+name = "Startseite"
 url = "/"
 weight = 1
 
