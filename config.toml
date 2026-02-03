@@ -30,8 +30,8 @@ url = "/preise"
 weight = 4
 
 [[menu.nav]]
-name = "Team"
-url = "/team"
+name = "Über mich"
+url = "/Über mich"
 weight = 5
 
 [[menu.nav]]
