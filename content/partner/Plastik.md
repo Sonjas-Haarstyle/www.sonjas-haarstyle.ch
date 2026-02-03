@@ -18,4 +18,4 @@ image: "/pic/partner/logo_plastic.png"
 
 ### So leisten Sie bei **Sonjas Haarstyle in Worb** nicht nur einen Beitrag zu einem **umweltfreundlichen Salonbetrieb**, sondern unterstützen aktiv **Plastikrecycling und Klimaschutz.**
 
-[Sammelsack](https://sammelsack.ch/)
+### [Sammelsack](https://sammelsack.ch/)
