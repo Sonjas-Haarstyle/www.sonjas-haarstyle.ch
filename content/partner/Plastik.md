@@ -4,7 +4,7 @@ date: 2019-09-13T22:44:44+02:00
 image: "/pic/partner/logo_plastic.png"
 ---
 
-**Ein wertvoller Rohstoff – schützen wir gemeinsam unsere Umwelt!**
+**Ein wertvoller Rohstoff – schützen wir gemeinsam unsere Umwelt!** <br/>
 
 Bei **Sonjas Haarstyle in Worb** sammle ich **alles Coiffeur-Plastik**, z. B. leere Shampoo- oder Pflegeflaschen. Bringen Sie Ihre leeren Plastikverpackungen gerne zurück in den Salon – so tragen Sie aktiv zur **Ressourcenschonung** bei.
 
