@@ -20,9 +20,9 @@ image_border: ""
 * Kopfmassage
 * Augenbrauen und Wimpern färben
 * Augenbrauen zupfen / wachsen
-### * Augenbrauen Lifting
+* Augenbrauen Lifting
 
-**Herrencoiffeur**
+### **Herrencoiffeur**
 
 * waschen, schneiden, föhnen
 * Messerhaarschnitt 
@@ -32,15 +32,15 @@ image_border: ""
 * Kopfmassage
 * Augenbrauen und Wimpern färben
 * Augenbrauen zupfen / wachsen
-### * Augenbrauen Lifting
+* Augenbrauen Lifting
 
 
 
-**Kindercoiffeur**
+### **Kindercoiffeur**
 
 * schneiden
 * waschen, schneiden, föhnen
 * Farbmascara
-### * Flechtfrisuren
+* Flechtfrisuren
 
-[Jetzt Coiffeur-Termin buchen.](https://www.beautybooking.ch/app/booking.html?company=sonjas-haarstyle)
+### [Jetzt Coiffeur-Termin buchen.](https://www.beautybooking.ch/app/booking.html?company=sonjas-haarstyle)
