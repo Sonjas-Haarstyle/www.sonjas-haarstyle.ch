@@ -20,7 +20,7 @@ image_border: ""
 * Kopfmassage
 * Augenbrauen und Wimpern färben
 * Augenbrauen zupfen / wachsen
-* Augenbrauen Lifting
+### * Augenbrauen Lifting
 
 **Herrencoiffeur**
 
@@ -32,7 +32,7 @@ image_border: ""
 * Kopfmassage
 * Augenbrauen und Wimpern färben
 * Augenbrauen zupfen / wachsen
-* Augenbrauen Lifting
+### * Augenbrauen Lifting
 
 
 
