@@ -1,5 +1,5 @@
 ---
-title: "Damencoiffeur"
+title: "Damencoiffeur Angebot in Worb"
 date: 2022-10-10T22:44:44+02:00
 image: "/pic/shop/unsere diensleistung.jpg"
 image_align: "right"
@@ -22,7 +22,7 @@ image_border: ""
 * Augenbrauen zupfen / wachsen
 * Augenbrauen Lifting
 
-### **Herrencoiffeur**
+### **Herrencoiffeur Angebot in Worb**
 
 * waschen, schneiden, föhnen
 * Messerhaarschnitt 
@@ -36,7 +36,7 @@ image_border: ""
 
 
 
-### **Kindercoiffeur**
+### **Kindercoiffeur Angebot in Worb**
 
 * schneiden
 * waschen, schneiden, föhnen
