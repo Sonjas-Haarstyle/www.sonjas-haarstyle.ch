@@ -31,7 +31,7 @@ weight = 4
 
 [[menu.nav]]
 name = "Über mich"
-url = "/Über mich"
+url = "/team"
 weight = 5
 
 [[menu.nav]]
