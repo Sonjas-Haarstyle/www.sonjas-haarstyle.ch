@@ -15,6 +15,6 @@ image: "/pic/partner/logo_haarfee.jpg"
 
 ### Mit **massgeschneiderten Echthaarperücken** geben Sie den Kindern einen natürlichen Look zurück, der perfekt sitzt und ihr **Selbstbewusstsein stärkt**. Setzen Sie ein Zeichen und helfen Sie, **Kindern ihr Lächeln wiederzugeben**!
 
-### Nach dem Haarschnitt übernehmen wir das **Einpacken und Verschicken** Ihres Zopfes an den **Verein Haarfee in Wien** (**Österreich**) – unkompliziert und sicher.
+### Nach dem Haarschnitt übernehme ich das **Einpacken und Verschicken** Ihres Zopfes an den **Verein Haarfee in Wien** (**Österreich**) – unkompliziert und sicher.
 
 ### [Verein Haarfee](https://vereinhaarfee.at)
