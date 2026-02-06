@@ -1,5 +1,5 @@
 ---
-title: "So finden Sie mich in Worb | Zufriedene Kunden "
+title: "So finden Sie mich in Worb – Zufriedene Kunden "
 date: 2022-08-12T22:44:44+02:00
 ---
 
