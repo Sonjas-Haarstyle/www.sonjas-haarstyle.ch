@@ -4,7 +4,7 @@ date: 2022-10-12T10:41:52+02:00
 ---
 
 ### Fühlen Sie sich **gestresst**, **verspannt** oder sehnen sich nach einer **kurzen Auszeit vom Alltag**?
-Dann ist unsere **Entspannungs-Kopfmassage** genau das Richtige für Sie. Diese wohltuende Behandlung hilft, den Kopf frei zu bekommen, neue Energie zu tanken und tief zu entspannen.
+Dann ist meine **Entspannungs-Kopfmassage** genau das Richtige für Sie. Diese wohltuende Behandlung hilft, den Kopf frei zu bekommen, neue Energie zu tanken und tief zu entspannen.
 
 ### Die **Kopfmassage** wirkt ganzheitlich auf **Körper und Seele** und sorgt für ein frisches, ausgeruhtes Gefühl – schon nach kurzer Zeit.
 
