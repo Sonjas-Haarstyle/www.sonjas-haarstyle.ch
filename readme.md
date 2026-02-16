@@ -10,6 +10,10 @@ hugo serve
 
 ## Bilder hinzufügen
 
+Bilder müssen in den Ordner `./static/pic/gallery/pics` gelegt werden
+Das Script thumbnail.sh ausführen
+
+
 ## github-pages
 
 Wenn Github pages nicht funktioniert kann dies mit einem fehlerhaften CNAME File zu tun haben. Dieses sollte geprüft werden im gh-pages branch.
