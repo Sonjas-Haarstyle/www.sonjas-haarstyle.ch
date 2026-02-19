@@ -7,6 +7,8 @@ videos:
     - src: https://www.youtube.com/embed/p7c4BYAYd4o
       title: Entspannungs-Kopfmassage bei Sonjas Haarstyle
 ---
+[Haarspenden für die Brandopfer von Crans Montana](https://www.telebaern.tv/telebaern-news/solidaritaet-mit-crans-montana-worber-coiffeur-salon-sammelt-haare-fuer-brandopfer-163460721)
+
 [Zehn Jahre Sonjas Haarstyle](https://www.bern-ost.ch/Zehn-Jahre-Sonjas-Haarstyle-Vom-Provisorium-zum-Salon-706725)
 
 [Reportage über Sonjas Haarstyle](https://www.bern-ost.ch/Bim-Coiffeur-bini-gsaesse-Im-Salon-Sonjas-Haarstyle-691748)
