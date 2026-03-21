@@ -50,11 +50,6 @@ url = "/standort"
 weight = 8
 
 [[menu.nav]]
-name = "Termin Buchen"
-url = "https://www.beautybooking.ch/app/booking.html?company=sonjas-haarstyle"
-weight = 12
-
-[[menu.nav]]
 name = "Blog"
 url = "https://blogsonjashaarstyle.blogspot.com"
 weight = 9
@@ -65,8 +60,8 @@ url = "https://form.jotform.com/253053125619352"
 weight = 10
 
 [[menu.nav]]
-name = "Auf Google bewerten"
-url = "https://g.page/r/CeviOEHYhVzDEAE/review"
+name = "Termin Buchen"
+url = "https://www.beautybooking.ch/app/booking.html?company=sonjas-haarstyle"
 weight = 11
 
 [params]
