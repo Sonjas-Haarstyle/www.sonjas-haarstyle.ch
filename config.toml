@@ -64,6 +64,11 @@ name = "Workshop"
 url = "https://form.jotform.com/253053125619352"
 weight = 11
 
+[[menu.nav]]
+name = "Jetzt Feedback geben"
+url = "https://g.page/r/CeviOEHYhVzDEAE/review"
+weight = 12
+
 [params]
 phone = "+41 31 832 41 94"
 
