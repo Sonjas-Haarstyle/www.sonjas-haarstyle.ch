@@ -1,5 +1,5 @@
 ---
-title: "Videos & Berichte – Aktuelle Einblicke, News und Hintergrundinformationen"
+title: "Berichte, Videos und nachhaltige Coiffeur Projekte"
 date: 2025-10-04T10:30:10+02:00
 
 videos:
