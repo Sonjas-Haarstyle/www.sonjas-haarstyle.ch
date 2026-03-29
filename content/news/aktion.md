@@ -16,6 +16,6 @@ Sie wünschen sich **frische Farbakzente**, **strahlendes Blond** oder **sanfte 
 ### **🎉 Neukundenaktion:**
 Profitieren Sie von **20 % Rabatt** auf Ihre **erste Farbbehandlung** – inklusive persönlicher Beratung, damit Ihr Farb-Look perfekt zu Ihnen passt.
 
-📅[Jetzt Termin sichern](https://www.beautybooking.ch/app/booking.html?company=sonjas-haarstyle)
+### 📅[Jetzt Termin sichern](https://www.beautybooking.ch/app/booking.html?company=sonjas-haarstyle)
 
 ### **🔥 Aktion gültig bis 30. Mai 2026**
