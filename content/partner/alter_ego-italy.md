@@ -14,7 +14,7 @@ Alter Ego steht für hochwertige Haarpflege, die Effektivität und **Nachhaltigk
 - **Nachhaltige und schonende Formulierungen**
 - Für sichtbar **gesünderes, glänzendes Haar**
 
- Ideal für alle, die Wert auf effektive Haarpflege und bewusste Schönheit legen.
+ ### Ideal für alle, die Wert auf effektive Haarpflege und bewusste Schönheit legen.
 
 
 
