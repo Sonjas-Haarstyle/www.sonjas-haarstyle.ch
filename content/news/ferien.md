@@ -11,9 +11,4 @@ Montag **27. Juli.2026** bis Samstag **1. August.2026**
 
 ---
 
-### **Geschlossen**
-
-Samstag **4. April.2026** (Otersamstag)
-
-
 
