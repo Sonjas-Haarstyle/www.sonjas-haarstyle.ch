@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Sonjas Haarstyle: Coiffeur | Worb'
+title = 'Sonjas Haarstyle - Coiffeur | Worb'
 theme = "shs"
 enableGitInfo = true
 
