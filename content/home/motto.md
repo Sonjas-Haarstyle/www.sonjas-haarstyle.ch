@@ -15,6 +15,6 @@ Zu jeder Haarwäsche geniessen Sie eine **kurze, entspannende Kopfmassage**, die
 Was **Sonjas Haarstyle** besonders auszeichnet, ist die Liebe zum **Coiffeurberuf**. Ich arbeite überwiegend mit **Schere und Messer**, um jeden Schnitt präzise und individuell umzusetzen. Dabei lege ich grossen Wert auf **Form, Farbe und Detailarbeit**, um die perfekte Frisur für jede Kundin und jeden Kunden zu kreieren.
 
 ### **Ihre Wohlfühloase in Worb**
-Mein Salon ist eine gemütliche **Wohlfühloase in der Region Worb**, in der Sie freundlich, zuvorkommend und professionell empfangen werden. Bei mir verbinden sich Qualität, Entspannung und persönlicher Service zu einem einzigartigen Friseurlebnis.
+Mein Salon ist eine gemütliche **Wohlfühloase in der Region**, in der Sie freundlich, zuvorkommend und professionell empfangen werden. Bei mir verbinden sich Qualität, Entspannung und persönlicher Service zu einem einzigartigen Friseurlebnis.
 
 ### [Jetzt Coiffeur-Termin buchen.](https://www.beautybooking.ch/app/booking.html?company=sonjas-haarstyle)
