@@ -2,8 +2,13 @@
 title: "Pflege für Kopfhaut & Haar"
 date: 2026-09-06T10:30:41+02:00
 ---
+Ich freue mich, Ihnen meine neuen professionellen Treatments für Haar und Kopfhaut anbieten zu können.
 
-Ich biete neu eine professionelle Pflege für Schuppen, Rückstände von Stylingprodukten sowie empfindliche oder beanspruchte Kopfhaut und Haare an. Gerne berate ich Sie persönlich und finde gemeinsam mit Ihnen die passende Pflege, abgestimmt auf die individuellen Bedürfnisse Ihrer Kopfhaut und Ihres Haares.
+Ob zur Regeneration geschädigter Haarstrukturen, für intensive Pflege, strahlenden Farbglanz oder eine ausgeglichene Kopfhaut – jedes Treatment wird individuell auf Ihre Bedürfnisse abgestimmt.
+
+Gönnen Sie Ihrem Haar und Kopfhaut die Pflege, die es verdient. ✨
+
+Fragen Sie mich gerne direkt im Salon. Ich berate Sie persönlich und finde gemeinsam mit Ihnen das passende Treatment.
 
 [Angebot](/doc/treatment.pdf)
 
