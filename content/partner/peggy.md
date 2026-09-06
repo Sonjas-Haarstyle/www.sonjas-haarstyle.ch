@@ -1,5 +1,5 @@
 ---
-title: "Peggy Sage - Professionelles Make-up in Worb"
+title: "Peggy Sage - Professionelles Make-up"
 date: 2022-10-10T10:31:38+02:00
 image: "/pic/partner/logo_peggy_sage.png"
 ---
