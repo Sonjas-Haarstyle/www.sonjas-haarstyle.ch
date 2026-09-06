@@ -9,15 +9,13 @@ Dann ist meine **Entspannungs-Kopfmassage** genau das Richtige für Sie. Diese w
 ### Die **Kopfmassage** wirkt ganzheitlich auf **Körper und Seele** und sorgt für ein frisches, ausgeruhtes Gefühl – schon nach kurzer Zeit.
 
 ### **Die Vorteile der Entspannungs-Kopfmassage**
-- Fördert **tiefe Entspannung** und inneres Gleichgewicht
+- Fördert **tiefe Entspannung** 
 - **Reduziert Stress** und mentale Anspannung
 - **Löst Verspannungen** im Kopf-, Nacken- und Schulterbereich
 - **Regt die Durchblutung** der Kopfhaut an
-- Kann den **Haarwuchs unterstützen**
-- Hilft bei **Migräne und Kopfschmerzen**
-- **Stärkt das Immunsystem**
-- Fördert **Konzentration und Wohlbefinden**
-- Unterstützt den Abtransport von **Abfallstoffen über den Blutfluss**
+- Hilft bei **Kopfschmerzen**
+- Fördert **Wohlbefinden**
+
 
 ### Meine **Entspannungs-Kopfmassage** können Sie **einzeln buchen** oder **ideal mit Ihrer Coiffeur-Behandlung kombinieren** – für noch mehr Wohlbefinden und Entspannung.
 
